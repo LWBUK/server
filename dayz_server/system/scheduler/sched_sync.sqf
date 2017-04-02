@@ -1,0 +1,1 @@
+sched_sync = { objNull };

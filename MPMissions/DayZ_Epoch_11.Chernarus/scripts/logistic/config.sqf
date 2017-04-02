@@ -1,0 +1,21 @@
+LOG_CFG_ALLOW_CHAINING = false; 	/* allow chain towing  */
+LOG_CFG_ALLOW_GETIN = false; 		/* allow player to get into a towed / lifted object  */
+
+STR_LOG_LIFT = "Lift object";
+STR_LOG_ATTACHED = "'%1' is now being towed";
+STR_LOG_DROPPED = "'%1' has been dropped";
+STR_LOG_DROP = "Drop object";
+STR_LOG_CANT_LIFT_TOWING = "Can not lift '%1', because it's towing another object";
+STR_LOG_CANT_LIFT_MOVING = "OBJECT '%1' IS BEING BY A PLAYER.";
+STR_LOG_CANT_LIFT_PLAYER = "There is a player inside '%1'.";
+STR_LOG_ALREADY = "'%1' is already being towed by another object.";
+STR_LOG_NOW_SELECT = "Select the vehicle that you want to tow '%1' with";
+STR_TOW_THIS = "Tow this vehicle";
+STR_LOG_TUG_SELECT = "Tow selected vehicle behind this vehicle";
+STR_LOG_TOW = "Tow this vehicle";
+STR_LOG_UNTOW = "Untow this vehicle";
+STR_LOG_TOO_FAR = "'%1' is too far from the towing vehicle to be towed";
+STR_LOG_IMPOSSIBLE_VEHICLE = "Only the pilot can detach this vehicle";
+STR_LOG_IN_TRANSIT = "'%1' is in transit.";
+STR_LOG_INPROGRESS = "Sorry, but the current operation is not finished yet.";
+STR_LOG_UNTOWED = "'%1' has been untowed.";

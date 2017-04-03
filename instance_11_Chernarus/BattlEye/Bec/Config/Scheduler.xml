@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<!--
+
+Web Doc : http://www.ibattle.org/install-and-configure/setting-up-the-scheduler/
+
+
+Restarts every 2 hours from server startup with 10, 5 and 1 minute warnings
+
+-->
+
+
+<Scheduler>
+    <!-- Messages every 10 minute -->
+   
+
+    <job id="0">
+        <day>1,2,3,4,5,6,7</day>
+        <start>001400</start>
+        <runtime>003000</runtime>
+        <loop>-1</loop>
+        <cmd>say -1  NO SQUAD XML: ENGLISH ONLY IN SIDE CHAT: VEHICLES AND GEAR CAN BE STOLEN ANYWHERE</cmd>
+    </job>
+
+   
+
+	<job id="1">
+        <day>1,2,3,4,5,6,7</day>
+        <start>002500</start>
+        <runtime>003000</runtime>
+        <loop>-1</loop>
+        <cmd>say -1 ADMINS: LWB AND SIERRA | VISIT THE WEBSITE SURVIVALIST-DAYZ.COM TS3:78.31.67.100</cmd>
+    </job>
+
+<job id="2">
+        <day>1,2,3,4,5,6,7</day>
+        <start>003900</start>
+        <runtime>003000</runtime>
+        <loop>-1</loop>
+        <cmd>say -1 BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!! VEHICLES MUST BE USED EVERY 3 DAYS!!</cmd>
+    </job>
+
+    <!-- Restarts -->
+    <job id="3">
+        <day>1,2,3,4,5,6,7</day>
+        <start>022000</start>
+        <runtime>000000</runtime>
+        <loop>0</loop>
+        <cmd>say -1 Server will restart in 10 minutes</cmd>
+    </job>
+
+    <job id="4">
+        <day>1,2,3,4,5,6,7</day>
+        <start>022500</start>
+        <runtime>000000</runtime>
+        <loop>0</loop>
+        <cmd>say -1 Server will restart in 5 minutes: Prepare to Logout</cmd>
+    </job>
+
+    <job id="5">
+        <day>1,2,3,4,5,6,7</day>
+        <start>022700</start>
+        <runtime>000000</runtime>
+        <loop>0</loop>
+        <cmd>#lock</cmd> 
+                  
+        </job>
+
+    <job id="6">
+        <day>1,2,3,4,5,6,7</day>
+        <start>022800</start>
+        <runtime>000000</runtime>
+        <loop>0</loop>
+        <cmd>say -1 The Server is about to restart. LOG OUT NOW OR YOUR GEAR MAY BE LOST!!</cmd>
+    </job>
+
+<job id="7">
+        <day>1,2,3,4,5,6,7</day>
+        <start>022930</start>
+        <runtime>000000</runtime>
+        <loop>0</loop>
+        <cmd>say -1 YOU SHOULD BE LOGGED OUT BY NOW! IF YOU ARENT YOU WILL BE AUTO KICKED AND YOUR GEAR MAY BE LOST! NO REFUNDS!</cmd>
+    </job>
+	
+	
+    <job id="8">
+        <day>1,2,3,4,5,6,7</day>
+        <start>023000</start>
+        <runtime>000000</runtime>
+        <loop>0</loop>
+        <cmd>#shutdown</cmd>
+    </job>
+	
+	<job id='9'>
+	<day>1,2,3,4,5,6,7</day>
+	<start>023000</start>
+	<runtime>000000</runtime>
+	<loop>0</loop>
+	<cmd>C:\Users\Administrator\Desktop\epoch\Server_Restart.bat</cmd>
+</job>
+</Scheduler>

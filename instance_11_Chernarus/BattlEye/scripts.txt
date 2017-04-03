@@ -1,0 +1,69 @@
+//new2
+5 "EqualCheats"
+5 "been infected!"
+5 "FunctionsManager" !=" (isNull _grp) then { _grp = group ((allmissionobjects 'FunctionsManager') select 0); };\nif (!isNull _grp) then {\n_list = units "
+5 "BattleFieldClearance"
+5 "BIS_MPF_logic" !"BIS_MPF_logic = BIS_MPF_dummygroup createUnit"
+5 "BIS_MPF_dummygroup" !="BIS_MPF_dummygroup = createGroup sideLogic;" !"BIS_MPF_logic = BIS_MPF_dummygroup createUnit"
+5 "_codeAHOFF"
+1 "_box" !="{show_loot_infiSTAR = !show_loot_infiSTAR;};\n};\nif(isNil \"show_boxes_infiSTAR\")then{show_boxes_infiSTAR = false;};\nfnc_BoxS = {\n"
+5 "_first in"
+5 "_commands"
+5 "_agent setDamage 1"
+5 "_unit createUnit"
+5 "closeDisplay ="
+5 "rJIPrequest =" !"rJIPrequest = 'JIPrequest'"
+5 "RUSTLER"
+5 "Ruslter"
+5 "Systems Online"
+5 "HangenderRE"
+5 "vilegaming"
+5 "Lystic"
+5 "setDammage"
+5 "@TheWarZ"
+5 "beeeh"
+5 "dayz-injector-menu"
+5 "Shadowy_NONRE"
+5 "_cute"
+5 "_stuff"
+5 "_vgmenu"
+5 "_func4"
+5 "_genVar"
+5 "_rand60"
+5 "_first_term"
+5 "_skarmory"
+5 "_salamence"
+5 "Init RE"
+5 "Nigger"
+5 "action_crate1"
+5 "_dummyveh"
+5 "try saving"
+5 "setDamage -"
+5 "setDamage +"
+1 cutrsc !="layer == player)};\nwaituntil {!(isNull (findDisplay 46))};\n5 cutRsc [\"wm_disp\",\"PLAIN\"];\n((uiNamespace getVariable \"wm_disp\") di" !="cutRsc ['rscDynamicText', 'PLAIN'];" !=";\n_displayText = {\nprivate [\"_display\",\"_textLine\"];\n4099999 cutrsc [\"RSC_DZ_Messages\",\"plain\"];\n_display = uinamespace getvaria" !="holdBreath select 0) or (_turboKey select 0)) then {\n4100002 cutRsc [\"DZ_BlackScreen\",\"PLAIN\"];\n(uiNamespace getVariable \"DZ_Bla" !="Completed)}) then {\nif (toLower DZE_UI == \"vanilla\") then {3 cutRsc ['playerStatusGUI','PLAIN',3];} else {3 cutRsc ['playerStatu" !="cameraView in [\"INTERNAL\",\"EXTERNAL\",\"GUNNER\"]) then {\n80000 cutRsc [\"DZ_GroupIcons\",\"PLAIN\"];\n\n_display = uiNamespace getVariab" !="= _y;\n_y = _array select 0;\n_h = _array select 1;\n};\n\n_layer cutrsc [\"rscDynamicText\",\"plain\"];\n\n_display = uinamespace getvaria" !="\"ca\modules_e\functions\GUI\fn_infoText.sqf\"\n\n\n\n\n\n\n\n\n\n\n\n3100 cutrsc [\"rscInfoText\",\"plain\"];\n\n\n\n_text = _this;\n_textArrayUnicode" !="Group;\ndeleteGroup _myGroup;\n80000 cutText [\"\",\"PLAIN\"]; \n\n3 cutRsc [\"default\", \"PLAIN\",3];\n4 cutRsc [\"default\", \"PLAIN\",3];\n\n_b"
+1 setVehicleInit
+1 createTeam
+1 Waypoint !="oiter;\n_newDest = nil;\n_movingTo = _myDest;\n_array = 		[];\n_waypoint = [];\n\n_agentReset = false;\n\n_bodyStay = 	60;\n\n_agent disab"
+1 createUnit !="roup);\n\n\n\n\n\n\n\n_group = createGroup west;\n_newUnit = _group createUnit [_class,getMarkerPos \"respawn_west\",[],0,\"NONE\"];\n_newUnit" !="eGroup sideLogic;\n\n\n\n\n\n\nBIS_MPF_logic = BIS_MPF_dummygroup createUnit [\"Logic\", [1000,10,0], [], 0, \"NONE\"];\npublicVariable \"BIS"
+1 markerText !=", [0,0,0]]) setMarkerText (_this select 0);\n				PVAH_AdminReq = [69,player];publicVa" !="\n_marker setMarkerTypeLocal \"DestroyedVehicle\";\n_marker setMarkerTextLocal format [\"%1\",if (_vehicle == _x) then {name _x} else " !="\"SupplyVehicle\";\n_vm setMarkerSizeLocal [0.8, 0.8];\n_vm setMarkerTextLocal format[\" %1\", getText (configFile >> 'CfgVehicles' >>"
+1 addMPEventHandler
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

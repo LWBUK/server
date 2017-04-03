@@ -1,0 +1,2441 @@
+03.04.2017 11:44:53: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #45 " createGroup sideLogic;
+BIS_MPF_logic = BIS_MPF_dummygroup createUnit ["Logic", [1000,10,0], [], 0, "NONE"];
+publicVariable "BIS"
+03.04.2017 11:44:53: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "
+disableSerialization;
+_showText = {
+private "_textLine";
+15 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:44:53: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #45 " createGroup sideLogic;
+BIS_MPF_logic = BIS_MPF_dummygroup createUnit ["Logic", [1000,10,0], [], 0, "NONE"];
+publicVariable "BIS"
+03.04.2017 11:44:53: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #45 " createGroup sideLogic;
+BIS_MPF_logic = BIS_MPF_dummygroup createUnit ["Logic", [1000,10,0], [], 0, "NONE"];
+publicVariable "BIS"
+03.04.2017 11:44:53: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "
+disableSerialization;
+_showText = {
+private "_textLine";
+15 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:44:54: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:44:54: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "ted)}) exitWith { 
+
+
+
+if (!isNil "dayZ_serverName") then {
+5 cutRsc ["wm_disp","PLAIN"];
+_watermark = (uiNamespace getVariable ""
+03.04.2017 11:45:05: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #45 " createGroup sideLogic;
+BIS_MPF_logic = BIS_MPF_dummygroup createUnit ["Logic", [1000,10,0], [], 0, "NONE"];
+publicVariable "BIS"
+03.04.2017 11:45:05: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "
+disableSerialization;
+_showText = {
+private "_textLine";
+15 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:45:05: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "ted)}) exitWith { 
+
+
+
+if (!isNil "dayZ_serverName") then {
+5 cutRsc ["wm_disp","PLAIN"];
+_watermark = (uiNamespace getVariable ""
+03.04.2017 11:45:05: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #45 " createGroup sideLogic;
+BIS_MPF_logic = BIS_MPF_dummygroup createUnit ["Logic", [1000,10,0], [], 0, "NONE"];
+publicVariable "BIS"
+03.04.2017 11:45:05: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #45 " createGroup sideLogic;
+BIS_MPF_logic = BIS_MPF_dummygroup createUnit ["Logic", [1000,10,0], [], 0, "NONE"];
+publicVariable "BIS"
+03.04.2017 11:45:05: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "ted)}) exitWith { 
+
+
+
+if (!isNil "dayZ_serverName") then {
+5 cutRsc ["wm_disp","PLAIN"];
+_watermark = (uiNamespace getVariable ""
+03.04.2017 11:45:06: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "
+disableSerialization;
+_showText = {
+private "_textLine";
+15 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:45:11: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "ted)}) exitWith { 
+
+
+
+if (!isNil "dayZ_serverName") then {
+5 cutRsc ["wm_disp","PLAIN"];
+_watermark = (uiNamespace getVariable ""
+03.04.2017 11:45:11: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "ted)}) exitWith { 
+
+
+
+if (!isNil "dayZ_serverName") then {
+5 cutRsc ["wm_disp","PLAIN"];
+_watermark = (uiNamespace getVariable ""
+03.04.2017 11:45:12: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "ted)}) exitWith { 
+
+
+
+if (!isNil "dayZ_serverName") then {
+5 cutRsc ["wm_disp","PLAIN"];
+_watermark = (uiNamespace getVariable ""
+03.04.2017 11:45:12: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #7 ",[7054.2852,2779.2981,4.5776367e-005],-127.20033],
+["MAP_phone_box",[7042.6147,2776.8606,1.2220162],-37.120174],
+["MAP_t_fagus2s"
+03.04.2017 11:45:12: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #7 ",[8408.5156,3004.8831,5.1498413e-005],40.142441],
+["Land_wagon_box",[8427.4453,3014.2915,1.9073486e-005],-46.225819],
+["Land_wag"
+03.04.2017 11:45:12: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "ted)}) exitWith { 
+
+
+
+if (!isNil "dayZ_serverName") then {
+5 cutRsc ["wm_disp","PLAIN"];
+_watermark = (uiNamespace getVariable ""
+03.04.2017 11:45:12: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #7 "8],0],
+["MAP_t_populus3s",[2562.9749,5083.749],0],
+["MAP_phone_box",[2542.759,5070.0776,0.0001373291],0],
+["MAP_phone_box",[2538"
+03.04.2017 11:45:12: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "
+disableSerialization;
+_showText = {
+private "_textLine";
+15 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:45:13: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #45 "roup);
+
+
+
+
+
+
+
+_group = createGroup west;
+_newUnit = _group createUnit [_class,respawn_west_original,[],0,"NONE"];
+_newUnit setDi"
+03.04.2017 11:45:13: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:45:13: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:45:13: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:45:13: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #45 "roup);
+
+
+
+
+
+
+
+_group = createGroup west;
+_newUnit = _group createUnit [_class,respawn_west_original,[],0,"NONE"];
+_newUnit setDi"
+03.04.2017 11:45:13: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "
+disableSerialization;
+_showText = {
+private "_textLine";
+15 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:45:13: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "ted)}) exitWith { 
+
+
+
+if (!isNil "dayZ_serverName") then {
+5 cutRsc ["wm_disp","PLAIN"];
+_watermark = (uiNamespace getVariable ""
+03.04.2017 11:45:15: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #42 "select 0), (_position select 1), (LHA_height+1)];
+
+_this setVehicleInit "this setVectorUp [0,0,1];";
+';#line 42 "mpmissions\__CU"
+03.04.2017 11:45:15: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #44 "ayer action ["getInCargo",_plane,2];
+_pos = group player addWaypoint [_grid,0];
+[_grid,_plane,_unit,_pos,_haloJump] spawn {
+#lin"
+03.04.2017 11:45:20: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "
+disableSerialization;
+_showText = {
+private "_textLine";
+15 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:45:20: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "ted)}) exitWith { 
+
+
+
+if (!isNil "dayZ_serverName") then {
+5 cutRsc ["wm_disp","PLAIN"];
+_watermark = (uiNamespace getVariable ""
+03.04.2017 11:45:29: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #46 " ["SURVIVALIST SERVER RULES", [15102.897, 8550]];
+_this setMarkerText "SURVIVALIST-DAYZ SERVER RULES";
+_this setMarkerType "Dot""
+03.04.2017 11:45:29: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #42 "select 0), (_position select 1), (LHA_height+1)];
+
+_this setVehicleInit "this setVectorUp [0,0,1];";
+';#line 42 "mpmissions\__CU"
+03.04.2017 11:45:29: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #44 "ayer action ["getInCargo",_plane,2];
+_pos = group player addWaypoint [_grid,0];
+[_grid,_plane,_unit,_pos,_haloJump] spawn {
+#lin"
+03.04.2017 11:46:00: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:46:04: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #44 "if ((random 3) > 2) then { group this setCurrentWaypoint [(group this), (floor (random (count (waypoints (group this)))))];};"
+03.04.2017 11:46:11: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:46:22: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "
+disableSerialization;
+_showText = {
+private "_textLine";
+15 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:46:22: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #45 " createGroup sideLogic;
+BIS_MPF_logic = BIS_MPF_dummygroup createUnit ["Logic", [1000,10,0], [], 0, "NONE"];
+publicVariable "BIS"
+03.04.2017 11:46:23: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #44 "if ((random 3) > 2) then { group this setCurrentWaypoint [(group this), (floor (random (count (waypoints (group this)))))];};"
+03.04.2017 11:46:23: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "
+disableSerialization;
+_showText = {
+private "_textLine";
+15 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:46:23: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "ted)}) exitWith { 
+
+
+
+if (!isNil "dayZ_serverName") then {
+5 cutRsc ["wm_disp","PLAIN"];
+_watermark = (uiNamespace getVariable ""
+03.04.2017 11:46:23: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:46:23: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #45 " createGroup sideLogic;
+BIS_MPF_logic = BIS_MPF_dummygroup createUnit ["Logic", [1000,10,0], [], 0, "NONE"];
+publicVariable "BIS"
+03.04.2017 11:46:23: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #45 " createGroup sideLogic;
+BIS_MPF_logic = BIS_MPF_dummygroup createUnit ["Logic", [1000,10,0], [], 0, "NONE"];
+publicVariable "BIS"
+03.04.2017 11:46:23: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:46:23: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "
+disableSerialization;
+_showText = {
+private "_textLine";
+15 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:46:24: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:46:24: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "ted)}) exitWith { 
+
+
+
+if (!isNil "dayZ_serverName") then {
+5 cutRsc ["wm_disp","PLAIN"];
+_watermark = (uiNamespace getVariable ""
+03.04.2017 11:46:24: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "
+disableSerialization;
+_showText = {
+private "_textLine";
+15 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:46:24: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "ted)}) exitWith { 
+
+
+
+if (!isNil "dayZ_serverName") then {
+5 cutRsc ["wm_disp","PLAIN"];
+_watermark = (uiNamespace getVariable ""
+03.04.2017 11:46:24: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "ted)}) exitWith { 
+
+
+
+if (!isNil "dayZ_serverName") then {
+5 cutRsc ["wm_disp","PLAIN"];
+_watermark = (uiNamespace getVariable ""
+03.04.2017 11:46:25: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #7 ",[7054.2852,2779.2981,4.5776367e-005],-127.20033],
+["MAP_phone_box",[7042.6147,2776.8606,1.2220162],-37.120174],
+["MAP_t_fagus2s"
+03.04.2017 11:46:25: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #7 ",[8408.5156,3004.8831,5.1498413e-005],40.142441],
+["Land_wagon_box",[8427.4453,3014.2915,1.9073486e-005],-46.225819],
+["Land_wag"
+03.04.2017 11:46:25: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #7 "8],0],
+["MAP_t_populus3s",[2562.9749,5083.749],0],
+["MAP_phone_box",[2542.759,5070.0776,0.0001373291],0],
+["MAP_phone_box",[2538"
+03.04.2017 11:46:25: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "ted)}) exitWith { 
+
+
+
+if (!isNil "dayZ_serverName") then {
+5 cutRsc ["wm_disp","PLAIN"];
+_watermark = (uiNamespace getVariable ""
+03.04.2017 11:46:25: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "
+disableSerialization;
+_showText = {
+private "_textLine";
+15 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:46:25: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #45 "roup);
+
+
+
+
+
+
+
+_group = createGroup west;
+_newUnit = _group createUnit [_class,respawn_west_original,[],0,"NONE"];
+_newUnit setDi"
+03.04.2017 11:46:25: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:46:25: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:46:25: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:46:25: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #45 "roup);
+
+
+
+
+
+
+
+_group = createGroup west;
+_newUnit = _group createUnit [_class,respawn_west_original,[],0,"NONE"];
+_newUnit setDi"
+03.04.2017 11:46:25: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "
+disableSerialization;
+_showText = {
+private "_textLine";
+15 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:46:25: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "ted)}) exitWith { 
+
+
+
+if (!isNil "dayZ_serverName") then {
+5 cutRsc ["wm_disp","PLAIN"];
+_watermark = (uiNamespace getVariable ""
+03.04.2017 11:46:25: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #45 " createGroup sideLogic;
+BIS_MPF_logic = BIS_MPF_dummygroup createUnit ["Logic", [1000,10,0], [], 0, "NONE"];
+publicVariable "BIS"
+03.04.2017 11:46:27: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #44 "if ((random 3) > 2) then { group this setCurrentWaypoint [(group this), (floor (random (count (waypoints (group this)))))];};"
+03.04.2017 11:46:27: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:46:29: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #42 "select 0), (_position select 1), (LHA_height+1)];
+
+_this setVehicleInit "this setVectorUp [0,0,1];";
+';#line 42 "mpmissions\__CU"
+03.04.2017 11:46:29: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #44 "ayer action ["getInCargo",_plane,2];
+_pos = group player addWaypoint [_grid,0];
+[_grid,_plane,_unit,_pos,_haloJump] spawn {
+#lin"
+03.04.2017 11:46:30: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "
+disableSerialization;
+_showText = {
+private "_textLine";
+15 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:46:30: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "ted)}) exitWith { 
+
+
+
+if (!isNil "dayZ_serverName") then {
+5 cutRsc ["wm_disp","PLAIN"];
+_watermark = (uiNamespace getVariable ""
+03.04.2017 11:46:31: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #44 "if ((random 3) > 2) then { group this setCurrentWaypoint [(group this), (floor (random (count (waypoints (group this)))))];};"
+03.04.2017 11:46:31: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #46 " ["SURVIVALIST SERVER RULES", [15102.897, 8550]];
+_this setMarkerText "SURVIVALIST-DAYZ SERVER RULES";
+_this setMarkerType "Dot""
+03.04.2017 11:46:32: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:46:40: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:46:41: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:46:42: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "
+disableSerialization;
+_showText = {
+private "_textLine";
+15 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:46:42: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:46:43: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #44 "if ((random 3) > 2) then { group this setCurrentWaypoint [(group this), (floor (random (count (waypoints (group this)))))];};"
+03.04.2017 11:46:43: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #44 "if ((random 3) > 2) then { group this setCurrentWaypoint [(group this), (floor (random (count (waypoints (group this)))))];};"
+03.04.2017 11:46:44: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:46:46: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:46:55: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:46:59: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:47:01: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:47:01: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:47:03: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:47:05: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "
+disableSerialization;
+_showText = {
+private "_textLine";
+15 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:47:07: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:47:08: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:47:10: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:47:11: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:47:13: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:47:16: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:47:16: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:47:19: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #44 "if ((random 3) > 2) then { group this setCurrentWaypoint [(group this), (floor (random (count (waypoints (group this)))))];};"
+03.04.2017 11:47:19: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #44 "if ((random 3) > 2) then { group this setCurrentWaypoint [(group this), (floor (random (count (waypoints (group this)))))];};"
+03.04.2017 11:47:20: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:47:24: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:47:26: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:47:31: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:47:33: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:47:45: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:47:53: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:48:01: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:48:06: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:48:17: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:48:30: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:48:31: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:48:36: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:48:42: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:48:47: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:49:02: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:49:04: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:49:13: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:49:18: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:49:19: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:49:20: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:49:20: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #44 "if ((random 3) > 2) then { group this setCurrentWaypoint [(group this), (floor (random (count (waypoints (group this)))))];};"
+03.04.2017 11:49:20: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "
+disableSerialization;
+_showText = {
+private "_textLine";
+15 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:49:20: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #44 "if ((random 3) > 2) then { group this setCurrentWaypoint [(group this), (floor (random (count (waypoints (group this)))))];};"
+03.04.2017 11:49:21: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:49:21: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:49:22: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:49:22: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:49:23: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:49:23: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:49:24: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:49:25: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:49:27: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:49:27: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:49:28: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:49:31: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:49:31: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:49:32: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:49:32: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:49:33: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:49:33: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:49:34: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:49:35: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:49:36: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:49:44: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "
+disableSerialization;
+_showText = {
+private "_textLine";
+15 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:49:46: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:49:54: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:49:56: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:49:58: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:50:00: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:50:05: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:50:09: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "
+disableSerialization;
+_showText = {
+private "_textLine";
+15 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:50:10: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:50:14: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:50:21: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "
+disableSerialization;
+_showText = {
+private "_textLine";
+15 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:50:21: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:50:25: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:50:28: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:50:30: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:50:32: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:50:34: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:50:35: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:50:36: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:50:39: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:50:45: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "
+disableSerialization;
+_showText = {
+private "_textLine";
+15 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:50:48: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:50:56: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "
+disableSerialization;
+_showText = {
+private "_textLine";
+15 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:50:58: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:51:01: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:51:03: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:51:03: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #44 "if ((random 3) > 2) then { group this setCurrentWaypoint [(group this), (floor (random (count (waypoints (group this)))))];};"
+03.04.2017 11:51:03: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #44 "if ((random 3) > 2) then { group this setCurrentWaypoint [(group this), (floor (random (count (waypoints (group this)))))];};"
+03.04.2017 11:51:05: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:51:06: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:51:10: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #44 "if ((random 3) > 2) then { group this setCurrentWaypoint [(group this), (floor (random (count (waypoints (group this)))))];};"
+03.04.2017 11:51:10: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #44 "if ((random 3) > 2) then { group this setCurrentWaypoint [(group this), (floor (random (count (waypoints (group this)))))];};"
+03.04.2017 11:51:13: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "
+disableSerialization;
+_showText = {
+private "_textLine";
+15 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:51:14: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:51:18: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:51:19: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:51:20: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:51:20: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:51:21: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:51:21: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:51:22: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:51:22: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:51:23: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:51:23: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:51:24: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:51:26: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:51:27: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:51:27: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:51:28: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:51:29: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:51:30: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:51:30: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:51:31: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:51:31: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:51:32: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:51:32: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:51:33: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:51:34: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:51:34: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:51:35: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:51:35: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:51:36: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:51:36: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:51:36: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:51:37: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:51:37: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:51:38: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:51:42: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:51:45: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:51:46: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:51:48: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:51:50: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:51:51: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:51:53: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:51:55: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:51:57: agss (37.47.200.95:18158) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:52:06: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:52:32: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:52:35: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:52:40: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #44 "if ((random 3) > 2) then { group this setCurrentWaypoint [(group this), (floor (random (count (waypoints (group this)))))];};"
+03.04.2017 11:52:41: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:52:42: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:52:44: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:52:45: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #44 "if ((random 3) > 2) then { group this setCurrentWaypoint [(group this), (floor (random (count (waypoints (group this)))))];};"
+03.04.2017 11:52:46: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:52:48: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:53:00: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #44 "if ((random 3) > 2) then { group this setCurrentWaypoint [(group this), (floor (random (count (waypoints (group this)))))];};"
+03.04.2017 11:53:02: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:53:06: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:53:23: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:53:25: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:53:27: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:53:29: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:53:31: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:53:32: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:53:34: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:53:38: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:53:39: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:53:41: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:53:41: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:53:45: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:53:47: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:53:49: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #44 "if ((random 3) > 2) then { group this setCurrentWaypoint [(group this), (floor (random (count (waypoints (group this)))))];};"
+03.04.2017 11:53:49: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:53:50: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:53:52: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:53:54: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:53:56: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:54:07: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:54:09: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:54:10: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:54:12: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #44 "if ((random 3) > 2) then { group this setCurrentWaypoint [(group this), (floor (random (count (waypoints (group this)))))];};"
+03.04.2017 11:54:12: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:54:16: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:54:18: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:54:21: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:54:22: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:54:24: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:54:27: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #44 "if ((random 3) > 2) then { group this setCurrentWaypoint [(group this), (floor (random (count (waypoints (group this)))))];};"
+03.04.2017 11:54:28: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:54:29: agss (37.47.200.95:14161) 895e3d2c65b38f51d129d36382b81cd5 - #41 "
+disableSerialization;
+_showText = {
+private "_textLine";
+15 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:54:30: agss (37.47.200.95:14161) 895e3d2c65b38f51d129d36382b81cd5 - #45 " createGroup sideLogic;
+BIS_MPF_logic = BIS_MPF_dummygroup createUnit ["Logic", [1000,10,0], [], 0, "NONE"];
+publicVariable "BIS"
+03.04.2017 11:54:31: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:54:31: agss (37.47.200.95:14161) 895e3d2c65b38f51d129d36382b81cd5 - #44 "if ((random 3) > 2) then { group this setCurrentWaypoint [(group this), (floor (random (count (waypoints (group this)))))];};"
+03.04.2017 11:54:31: agss (37.47.200.95:14161) 895e3d2c65b38f51d129d36382b81cd5 - #44 "if ((random 3) > 2) then { group this setCurrentWaypoint [(group this), (floor (random (count (waypoints (group this)))))];};"
+03.04.2017 11:54:31: agss (37.47.200.95:14161) 895e3d2c65b38f51d129d36382b81cd5 - #41 "
+disableSerialization;
+_showText = {
+private "_textLine";
+15 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:54:31: agss (37.47.200.95:14161) 895e3d2c65b38f51d129d36382b81cd5 - #41 "ted)}) exitWith { 
+
+
+
+if (!isNil "dayZ_serverName") then {
+5 cutRsc ["wm_disp","PLAIN"];
+_watermark = (uiNamespace getVariable ""
+03.04.2017 11:54:31: agss (37.47.200.95:14161) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:54:31: agss (37.47.200.95:14161) 895e3d2c65b38f51d129d36382b81cd5 - #45 " createGroup sideLogic;
+BIS_MPF_logic = BIS_MPF_dummygroup createUnit ["Logic", [1000,10,0], [], 0, "NONE"];
+publicVariable "BIS"
+03.04.2017 11:54:32: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #45 " createGroup sideLogic;
+BIS_MPF_logic = BIS_MPF_dummygroup createUnit ["Logic", [1000,10,0], [], 0, "NONE"];
+publicVariable "BIS"
+03.04.2017 11:54:32: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:54:32: agss (37.47.200.95:14161) 895e3d2c65b38f51d129d36382b81cd5 - #41 "ted)}) exitWith { 
+
+
+
+if (!isNil "dayZ_serverName") then {
+5 cutRsc ["wm_disp","PLAIN"];
+_watermark = (uiNamespace getVariable ""
+03.04.2017 11:54:32: agss (37.47.200.95:14161) 895e3d2c65b38f51d129d36382b81cd5 - #41 "
+disableSerialization;
+_showText = {
+private "_textLine";
+15 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:54:32: agss (37.47.200.95:14161) 895e3d2c65b38f51d129d36382b81cd5 - #41 "ted)}) exitWith { 
+
+
+
+if (!isNil "dayZ_serverName") then {
+5 cutRsc ["wm_disp","PLAIN"];
+_watermark = (uiNamespace getVariable ""
+03.04.2017 11:54:33: agss (37.47.200.95:14161) 895e3d2c65b38f51d129d36382b81cd5 - #7 ",[7054.2852,2779.2981,4.5776367e-005],-127.20033],
+["MAP_phone_box",[7042.6147,2776.8606,1.2220162],-37.120174],
+["MAP_t_fagus2s"
+03.04.2017 11:54:33: agss (37.47.200.95:14161) 895e3d2c65b38f51d129d36382b81cd5 - #7 ",[8408.5156,3004.8831,5.1498413e-005],40.142441],
+["Land_wagon_box",[8427.4453,3014.2915,1.9073486e-005],-46.225819],
+["Land_wag"
+03.04.2017 11:54:33: agss (37.47.200.95:14161) 895e3d2c65b38f51d129d36382b81cd5 - #41 "ted)}) exitWith { 
+
+
+
+if (!isNil "dayZ_serverName") then {
+5 cutRsc ["wm_disp","PLAIN"];
+_watermark = (uiNamespace getVariable ""
+03.04.2017 11:54:33: agss (37.47.200.95:14161) 895e3d2c65b38f51d129d36382b81cd5 - #7 "8],0],
+["MAP_t_populus3s",[2562.9749,5083.749],0],
+["MAP_phone_box",[2542.759,5070.0776,0.0001373291],0],
+["MAP_phone_box",[2538"
+03.04.2017 11:54:33: agss (37.47.200.95:14161) 895e3d2c65b38f51d129d36382b81cd5 - #41 "
+disableSerialization;
+_showText = {
+private "_textLine";
+15 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:54:33: agss (37.47.200.95:14161) 895e3d2c65b38f51d129d36382b81cd5 - #41 "ted)}) exitWith { 
+
+
+
+if (!isNil "dayZ_serverName") then {
+5 cutRsc ["wm_disp","PLAIN"];
+_watermark = (uiNamespace getVariable ""
+03.04.2017 11:54:33: agss (37.47.200.95:14161) 895e3d2c65b38f51d129d36382b81cd5 - #42 "select 0), (_position select 1), (LHA_height+1)];
+
+_this setVehicleInit "this setVectorUp [0,0,1];";
+';#line 42 "mpmissions\__CU"
+03.04.2017 11:54:33: agss (37.47.200.95:14161) 895e3d2c65b38f51d129d36382b81cd5 - #44 "ayer action ["getInCargo",_plane,2];
+_pos = group player addWaypoint [_grid,0];
+[_grid,_plane,_unit,_pos,_haloJump] spawn {
+#lin"
+03.04.2017 11:54:33: agss (37.47.200.95:14161) 895e3d2c65b38f51d129d36382b81cd5 - #41 "
+disableSerialization;
+_showText = {
+private "_textLine";
+15 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:54:33: agss (37.47.200.95:14161) 895e3d2c65b38f51d129d36382b81cd5 - #45 "roup);
+
+
+
+
+
+
+
+_group = createGroup west;
+_newUnit = _group createUnit [_class,respawn_west_original,[],0,"NONE"];
+_newUnit setDi"
+03.04.2017 11:54:33: agss (37.47.200.95:14161) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:54:33: agss (37.47.200.95:14161) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:54:33: agss (37.47.200.95:14161) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:54:33: agss (37.47.200.95:14161) 895e3d2c65b38f51d129d36382b81cd5 - #45 "roup);
+
+
+
+
+
+
+
+_group = createGroup west;
+_newUnit = _group createUnit [_class,respawn_west_original,[],0,"NONE"];
+_newUnit setDi"
+03.04.2017 11:54:33: agss (37.47.200.95:14161) 895e3d2c65b38f51d129d36382b81cd5 - #41 "
+disableSerialization;
+_showText = {
+private "_textLine";
+15 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:54:34: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #45 " createGroup sideLogic;
+BIS_MPF_logic = BIS_MPF_dummygroup createUnit ["Logic", [1000,10,0], [], 0, "NONE"];
+publicVariable "BIS"
+03.04.2017 11:54:34: agss (37.47.200.95:14161) 895e3d2c65b38f51d129d36382b81cd5 - #41 "ted)}) exitWith { 
+
+
+
+if (!isNil "dayZ_serverName") then {
+5 cutRsc ["wm_disp","PLAIN"];
+_watermark = (uiNamespace getVariable ""
+03.04.2017 11:54:34: agss (37.47.200.95:14161) 895e3d2c65b38f51d129d36382b81cd5 - #42 "select 0), (_position select 1), (LHA_height+1)];
+
+_this setVehicleInit "this setVectorUp [0,0,1];";
+';#line 42 "mpmissions\__CU"
+03.04.2017 11:54:34: agss (37.47.200.95:14161) 895e3d2c65b38f51d129d36382b81cd5 - #44 "ayer action ["getInCargo",_plane,2];
+_pos = group player addWaypoint [_grid,0];
+[_grid,_plane,_unit,_pos,_haloJump] spawn {
+#lin"
+03.04.2017 11:54:34: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:54:36: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:54:37: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:54:38: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:54:39: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:54:40: agss (37.47.200.95:14161) 895e3d2c65b38f51d129d36382b81cd5 - #46 " ["SURVIVALIST SERVER RULES", [15102.897, 8550]];
+_this setMarkerText "SURVIVALIST-DAYZ SERVER RULES";
+_this setMarkerType "Dot""
+03.04.2017 11:54:42: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:54:43: agss (37.47.200.95:14161) 895e3d2c65b38f51d129d36382b81cd5 - #42 "select 0), (_position select 1), (LHA_height+1)];
+
+_this setVehicleInit "this setVectorUp [0,0,1];";
+';#line 42 "mpmissions\__CU"
+03.04.2017 11:54:43: agss (37.47.200.95:14161) 895e3d2c65b38f51d129d36382b81cd5 - #44 "ayer action ["getInCargo",_plane,2];
+_pos = group player addWaypoint [_grid,0];
+[_grid,_plane,_unit,_pos,_haloJump] spawn {
+#lin"
+03.04.2017 11:54:45: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:54:46: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:54:47: agss (37.47.200.95:14161) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:54:48: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:54:50: agss (37.47.200.95:14161) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:54:51: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:54:57: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:54:58: agss (37.47.200.95:14161) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:54:59: agss (37.47.200.95:14161) 895e3d2c65b38f51d129d36382b81cd5 - #45 " createGroup sideLogic;
+BIS_MPF_logic = BIS_MPF_dummygroup createUnit ["Logic", [1000,10,0], [], 0, "NONE"];
+publicVariable "BIS"
+03.04.2017 11:54:59: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:55:00: agss (37.47.200.95:14161) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:55:01: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:55:02: agss (37.47.200.95:14161) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:55:04: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:55:05: agss (37.47.200.95:14161) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:55:06: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:55:07: agss (37.47.200.95:14161) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:55:09: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:55:11: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:55:12: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:55:15: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:55:18: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:55:21: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:55:23: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:55:26: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:55:29: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:55:32: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:55:35: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:55:37: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:55:39: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:55:41: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:55:42: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #44 "if ((random 3) > 2) then { group this setCurrentWaypoint [(group this), (floor (random (count (waypoints (group this)))))];};"
+03.04.2017 11:55:43: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:55:44: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #44 "if ((random 3) > 2) then { group this setCurrentWaypoint [(group this), (floor (random (count (waypoints (group this)))))];};"
+03.04.2017 11:56:08: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:56:09: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:56:10: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:56:11: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:56:12: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:56:13: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #46 "cleMarker setMarkerSizeLocal [1.0, 1.0];
+_vehicleMarker setMarkerTextLocal format ["Here is your: %1",_vehicleName];
+systemChat "
+03.04.2017 11:56:25: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:56:27: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:56:33: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "
+disableSerialization;
+_showText = {
+private "_textLine";
+15 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:56:37: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:56:38: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "
+disableSerialization;
+_showText = {
+private "_textLine";
+15 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:56:42: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:56:48: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:56:50: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:56:51: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:56:51: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:56:54: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:56:56: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:57:08: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:57:12: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:57:38: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:57:52: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #44 "if ((random 3) > 2) then { group this setCurrentWaypoint [(group this), (floor (random (count (waypoints (group this)))))];};"
+03.04.2017 11:58:03: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "
+disableSerialization;
+_showText = {
+private "_textLine";
+15 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:58:03: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #45 " createGroup sideLogic;
+BIS_MPF_logic = BIS_MPF_dummygroup createUnit ["Logic", [1000,10,0], [], 0, "NONE"];
+publicVariable "BIS"
+03.04.2017 11:58:04: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #44 "if ((random 3) > 2) then { group this setCurrentWaypoint [(group this), (floor (random (count (waypoints (group this)))))];};"
+03.04.2017 11:58:04: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "
+disableSerialization;
+_showText = {
+private "_textLine";
+15 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:58:04: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #45 " createGroup sideLogic;
+BIS_MPF_logic = BIS_MPF_dummygroup createUnit ["Logic", [1000,10,0], [], 0, "NONE"];
+publicVariable "BIS"
+03.04.2017 11:58:04: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "ted)}) exitWith { 
+
+
+
+if (!isNil "dayZ_serverName") then {
+5 cutRsc ["wm_disp","PLAIN"];
+_watermark = (uiNamespace getVariable ""
+03.04.2017 11:58:04: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:58:05: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #45 " createGroup sideLogic;
+BIS_MPF_logic = BIS_MPF_dummygroup createUnit ["Logic", [1000,10,0], [], 0, "NONE"];
+publicVariable "BIS"
+03.04.2017 11:58:05: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "ted)}) exitWith { 
+
+
+
+if (!isNil "dayZ_serverName") then {
+5 cutRsc ["wm_disp","PLAIN"];
+_watermark = (uiNamespace getVariable ""
+03.04.2017 11:58:05: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:58:05: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "
+disableSerialization;
+_showText = {
+private "_textLine";
+15 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:58:05: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "
+disableSerialization;
+_showText = {
+private "_textLine";
+15 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:58:05: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "ted)}) exitWith { 
+
+
+
+if (!isNil "dayZ_serverName") then {
+5 cutRsc ["wm_disp","PLAIN"];
+_watermark = (uiNamespace getVariable ""
+03.04.2017 11:58:05: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #7 ",[7054.2852,2779.2981,4.5776367e-005],-127.20033],
+["MAP_phone_box",[7042.6147,2776.8606,1.2220162],-37.120174],
+["MAP_t_fagus2s"
+03.04.2017 11:58:05: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #7 ",[8408.5156,3004.8831,5.1498413e-005],40.142441],
+["Land_wagon_box",[8427.4453,3014.2915,1.9073486e-005],-46.225819],
+["Land_wag"
+03.04.2017 11:58:05: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "ted)}) exitWith { 
+
+
+
+if (!isNil "dayZ_serverName") then {
+5 cutRsc ["wm_disp","PLAIN"];
+_watermark = (uiNamespace getVariable ""
+03.04.2017 11:58:06: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #7 "8],0],
+["MAP_t_populus3s",[2562.9749,5083.749],0],
+["MAP_phone_box",[2542.759,5070.0776,0.0001373291],0],
+["MAP_phone_box",[2538"
+03.04.2017 11:58:06: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "
+disableSerialization;
+_showText = {
+private "_textLine";
+15 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:58:06: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "ted)}) exitWith { 
+
+
+
+if (!isNil "dayZ_serverName") then {
+5 cutRsc ["wm_disp","PLAIN"];
+_watermark = (uiNamespace getVariable ""
+03.04.2017 11:58:06: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #42 "select 0), (_position select 1), (LHA_height+1)];
+
+_this setVehicleInit "this setVectorUp [0,0,1];";
+';#line 42 "mpmissions\__CU"
+03.04.2017 11:58:06: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #44 "ayer action ["getInCargo",_plane,2];
+_pos = group player addWaypoint [_grid,0];
+[_grid,_plane,_unit,_pos,_haloJump] spawn {
+#lin"
+03.04.2017 11:58:06: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #45 "roup);
+
+
+
+
+
+
+
+_group = createGroup west;
+_newUnit = _group createUnit [_class,respawn_west_original,[],0,"NONE"];
+_newUnit setDi"
+03.04.2017 11:58:06: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:58:06: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:58:06: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:58:06: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #45 "roup);
+
+
+
+
+
+
+
+_group = createGroup west;
+_newUnit = _group createUnit [_class,respawn_west_original,[],0,"NONE"];
+_newUnit setDi"
+03.04.2017 11:58:06: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "
+disableSerialization;
+_showText = {
+private "_textLine";
+15 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:58:06: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #42 "select 0), (_position select 1), (LHA_height+1)];
+
+_this setVehicleInit "this setVectorUp [0,0,1];";
+';#line 42 "mpmissions\__CU"
+03.04.2017 11:58:06: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #44 "ayer action ["getInCargo",_plane,2];
+_pos = group player addWaypoint [_grid,0];
+[_grid,_plane,_unit,_pos,_haloJump] spawn {
+#lin"
+03.04.2017 11:58:06: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #45 " createGroup sideLogic;
+BIS_MPF_logic = BIS_MPF_dummygroup createUnit ["Logic", [1000,10,0], [], 0, "NONE"];
+publicVariable "BIS"
+03.04.2017 11:58:06: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "ted)}) exitWith { 
+
+
+
+if (!isNil "dayZ_serverName") then {
+5 cutRsc ["wm_disp","PLAIN"];
+_watermark = (uiNamespace getVariable ""
+03.04.2017 11:58:07: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "
+disableSerialization;
+_showText = {
+private "_textLine";
+15 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:58:07: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #45 " createGroup sideLogic;
+BIS_MPF_logic = BIS_MPF_dummygroup createUnit ["Logic", [1000,10,0], [], 0, "NONE"];
+publicVariable "BIS"
+03.04.2017 11:58:07: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #42 "select 0), (_position select 1), (LHA_height+1)];
+
+_this setVehicleInit "this setVectorUp [0,0,1];";
+';#line 42 "mpmissions\__CU"
+03.04.2017 11:58:07: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #44 "ayer action ["getInCargo",_plane,2];
+_pos = group player addWaypoint [_grid,0];
+[_grid,_plane,_unit,_pos,_haloJump] spawn {
+#lin"
+03.04.2017 11:58:08: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:58:13: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "ted)}) exitWith { 
+
+
+
+if (!isNil "dayZ_serverName") then {
+5 cutRsc ["wm_disp","PLAIN"];
+_watermark = (uiNamespace getVariable ""
+03.04.2017 11:58:14: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #46 " ["SURVIVALIST SERVER RULES", [15102.897, 8550]];
+_this setMarkerText "SURVIVALIST-DAYZ SERVER RULES";
+_this setMarkerType "Dot""
+03.04.2017 11:58:16: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #42 "select 0), (_position select 1), (LHA_height+1)];
+
+_this setVehicleInit "this setVectorUp [0,0,1];";
+';#line 42 "mpmissions\__CU"
+03.04.2017 11:58:16: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #44 "ayer action ["getInCargo",_plane,2];
+_pos = group player addWaypoint [_grid,0];
+[_grid,_plane,_unit,_pos,_haloJump] spawn {
+#lin"
+03.04.2017 11:58:23: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:58:26: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:58:28: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:58:29: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:58:39: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:58:40: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:58:42: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:58:58: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:59:09: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:59:10: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:59:14: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:59:19: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:59:20: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #44 "if ((random 3) > 2) then { group this setCurrentWaypoint [(group this), (floor (random (count (waypoints (group this)))))];};"
+03.04.2017 11:59:20: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #44 "if ((random 3) > 2) then { group this setCurrentWaypoint [(group this), (floor (random (count (waypoints (group this)))))];};"
+03.04.2017 11:59:21: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "
+disableSerialization;
+_showText = {
+private "_textLine";
+15 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:59:22: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:59:24: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:59:26: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:59:31: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:59:33: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:59:34: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "
+disableSerialization;
+_showText = {
+private "_textLine";
+15 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:59:34: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:59:45: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:59:51: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:59:53: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:59:54: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 11:59:59: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:00:09: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:00:15: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:00:23: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "player_timeout;
+_short = _timeout < 4;
+if (!_short) then {
+4 cutRsc ["playerStatusWaiting", "PLAIN",1];
+playSound "heartbeat_1";"
+03.04.2017 12:00:31: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "player_timeout;
+_short = _timeout < 4;
+if (!_short) then {
+4 cutRsc ["playerStatusWaiting", "PLAIN",1];
+playSound "heartbeat_1";"
+03.04.2017 12:00:37: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "player_timeout;
+_short = _timeout < 4;
+if (!_short) then {
+4 cutRsc ["playerStatusWaiting", "PLAIN",1];
+playSound "heartbeat_1";"
+03.04.2017 12:00:39: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:00:40: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #45 " createGroup sideLogic;
+BIS_MPF_logic = BIS_MPF_dummygroup createUnit ["Logic", [1000,10,0], [], 0, "NONE"];
+publicVariable "BIS"
+03.04.2017 12:00:44: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:00:45: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:00:46: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:00:47: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "player_timeout;
+_short = _timeout < 4;
+if (!_short) then {
+4 cutRsc ["playerStatusWaiting", "PLAIN",1];
+playSound "heartbeat_1";"
+03.04.2017 12:00:57: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "player_timeout;
+_short = _timeout < 4;
+if (!_short) then {
+4 cutRsc ["playerStatusWaiting", "PLAIN",1];
+playSound "heartbeat_1";"
+03.04.2017 12:00:57: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #45 " createGroup sideLogic;
+BIS_MPF_logic = BIS_MPF_dummygroup createUnit ["Logic", [1000,10,0], [], 0, "NONE"];
+publicVariable "BIS"
+03.04.2017 12:00:58: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "Group;
+deleteGroup _myGroup;
+
+80000 cutText ["","PLAIN"]; 
+3 cutRsc ["default", "PLAIN",3];
+4 cutRsc ["default", "PLAIN",3];
+
+_b"
+03.04.2017 12:00:58: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:00:58: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:01:05: Chaba de Hadd (188.104.39.146:3302) 7bb8bcb552d0f049c5020f7d399b0c5c - #41 "Group;
+deleteGroup _myGroup;
+
+80000 cutText ["","PLAIN"]; 
+3 cutRsc ["default", "PLAIN",3];
+4 cutRsc ["default", "PLAIN",3];
+
+_b"
+03.04.2017 12:01:16: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:01:46: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:02:17: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:02:47: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:02:48: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:02:50: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:03:17: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:03:32: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:03:33: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:03:48: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:04:18: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:04:27: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:04:29: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:04:48: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:05:00: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:05:01: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:05:19: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:05:20: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:05:22: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:05:29: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:05:49: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:06:16: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:06:18: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:06:20: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:06:22: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:06:25: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:06:27: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:06:28: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:06:43: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:06:45: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:06:48: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:06:49: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:06:51: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:06:53: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:06:54: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:06:56: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:06:57: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:07:00: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:07:14: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:07:15: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:07:18: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:07:20: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:07:35: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:07:50: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:08:14: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:08:17: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:08:18: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:08:21: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:08:24: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:08:51: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:09:02: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:09:08: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:09:22: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"
+03.04.2017 12:09:23: agss (37.47.200.95:14500) 895e3d2c65b38f51d129d36382b81cd5 - #41 "bleSerialization;
+_showText = {
+private "_textLine";
+4099999 cutRsc ["RSC_DZ_Messages","plain"];
+_textLine = (uiNamespace getVar"

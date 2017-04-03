@@ -1,0 +1,1025 @@
+﻿12:24:18 : Rcon client logging in
+﻿12:24:18 : RCon admin #4 (78.31.67.100:55954) logged in
+﻿12:25:32 : Player #0 [HWB] Penetrator (94.219.213.167:3302) connected
+﻿12:25:33 : Player #0 [HWB] Penetrator - GUID: e2dfd1a22f76dbc861d8a2c62272e0a2 (unverified)
+﻿12:25:34 : Verified GUID (e2dfd1a22f76dbc861d8a2c62272e0a2) of player #0 [HWB] Penetrator
+﻿12:25:34 : Player #0 [HWB] Penetrator - Legacy GUID: 7fb497ad8af0eff5840c19924878df22
+﻿12:26:37 : Player #1 OdlBrodler (109.43.146.220:3302) connected
+﻿12:26:38 : Player #1 OdlBrodler - GUID: 9e43e18a7404bcc79c32e9563966fab9 (unverified)
+﻿12:26:39 : Verified GUID (9e43e18a7404bcc79c32e9563966fab9) of player #1 OdlBrodler
+﻿12:26:39 : Player #1 OdlBrodler - Legacy GUID: d79ff41e80c20f18e07536ba8b50e5ab
+﻿12:26:51 : Player #2 FedteG. (5.186.124.56:3302) connected
+﻿12:26:52 : Player #2 FedteG. - GUID: 73e5525844b02652fb349ccc5e6250cf (unverified)
+﻿12:26:53 : Verified GUID (73e5525844b02652fb349ccc5e6250cf) of player #2 FedteG.
+﻿12:26:53 : Player #2 FedteG. - Legacy GUID: a48261071e9fbcaf10d5f6940df437d3
+﻿12:26:54 : Player #3 Odlkanack (87.182.85.224:3302) connected
+﻿12:26:56 : Player #3 Odlkanack - GUID: c722e5c9efc4161e91f77cf7288d2f53 (unverified)
+﻿12:26:56 : Verified GUID (c722e5c9efc4161e91f77cf7288d2f53) of player #3 Odlkanack
+﻿12:26:56 : Player #3 Odlkanack - Legacy GUID: 4daa1333508ac7a9aa12d5e082e1f3fd
+﻿12:33:02 : RCon admin #5 (109.145.124.53:52744) logged in
+﻿12:34:17 : Player #4 2DIE4 (84.170.125.229:3302) connected
+﻿12:34:18 : Player #4 2DIE4 - GUID: 97b8e8b63e4439b2b62c99dde2b8b8a1 (unverified)
+﻿12:34:18 : Verified GUID (97b8e8b63e4439b2b62c99dde2b8b8a1) of player #4 2DIE4
+﻿12:34:19 : Player #4 2DIE4 - Legacy GUID: e56dc54c0a6d92faa8a284d7c54bffab
+﻿12:35:59 : Player #4 2DIE4 disconnected
+﻿12:38:04 : Player #4 2DIE4 (84.170.125.229:3302) connected
+﻿12:38:05 : Player #4 2DIE4 - GUID: 97b8e8b63e4439b2b62c99dde2b8b8a1 (unverified)
+﻿12:38:06 : Verified GUID (97b8e8b63e4439b2b62c99dde2b8b8a1) of player #4 2DIE4
+﻿12:38:06 : Player #4 2DIE4 - Legacy GUID: e56dc54c0a6d92faa8a284d7c54bffab
+﻿12:38:09 : Player #5 [NG2] Strifer (77.248.130.209:3302) connected
+﻿12:38:10 : Player #5 [NG2] Strifer - GUID: a7f74608b4c87f9a066a8eafb2b83ae9 (unverified)
+﻿12:38:11 : Verified GUID (a7f74608b4c87f9a066a8eafb2b83ae9) of player #5 [NG2] Strifer
+﻿12:38:11 : Player #5 [NG2] Strifer - Legacy GUID: ad07486609cd86b13497bdf0a7bf4f6d
+﻿12:38:18 : RCon admin #4: (Global) Vehicles left in trader zones at restarts will be moved to the vehicle pound and unlocked
+﻿12:38:46 : Player #6 Jesse (77.248.130.209:61598) connected
+﻿12:38:47 : Player #6 Jesse - GUID: 1f7a31a6c97ae9822a9e4dcb3de0e9a0 (unverified)
+﻿12:38:48 : Player #6 Jesse - Legacy GUID: aa29d15133c89f949e71190836ad19cb
+﻿12:38:48 : Verified GUID (1f7a31a6c97ae9822a9e4dcb3de0e9a0) of player #6 Jesse
+﻿12:39:28 : Player #7 Marco (77.248.130.209:61603) connected
+﻿12:39:30 : Player #7 Marco - GUID: 14f47e6fd70fb2a0c0d46684b20a0ac3 (unverified)
+﻿12:39:30 : Verified GUID (14f47e6fd70fb2a0c0d46684b20a0ac3) of player #7 Marco
+﻿12:39:30 : Player #7 Marco - Legacy GUID: bdf0bc664fdc6b39f592a3407474db11
+﻿12:40:54 : Player #8 [NG2] Chekko (77.248.130.209:61608) connected
+﻿12:40:54 : Player #9 Azeo (77.248.130.209:61609) connected
+﻿12:40:55 : Player #8 [NG2] Chekko - GUID: b391613e89be804853338bc48c843474 (unverified)
+﻿12:40:55 : Player #9 Azeo - GUID: e8ea18acbdbd93b8151ac28b5f185f5f (unverified)
+﻿12:40:56 : Player #8 [NG2] Chekko - Legacy GUID: ad3b4566147de8ffaf5fd344f2538f40
+﻿12:40:56 : Verified GUID (b391613e89be804853338bc48c843474) of player #8 [NG2] Chekko
+﻿12:40:56 : Verified GUID (e8ea18acbdbd93b8151ac28b5f185f5f) of player #9 Azeo
+﻿12:40:56 : Player #9 Azeo - Legacy GUID: 8f2aa01a2443322b3f76a2edb21a9c0d
+﻿12:45:25 : Player #10 Fernando (92.177.106.122:3302) connected
+﻿12:45:29 : Player #10 Fernando - GUID: a751f8c9eede1cb7326b331de0db98fb (unverified)
+﻿12:45:29 : Verified GUID (a751f8c9eede1cb7326b331de0db98fb) of player #10 Fernando
+﻿12:45:29 : Player #10 Fernando - Legacy GUID: 56c2b1a061fc8b28973cc36f8b3aca0d
+﻿12:45:41 : Player #10 Fernando disconnected
+﻿12:47:02 : Player #10 Fernando (92.177.106.122:3302) connected
+﻿12:47:05 : Player #10 Fernando - GUID: a751f8c9eede1cb7326b331de0db98fb (unverified)
+﻿12:47:05 : Verified GUID (a751f8c9eede1cb7326b331de0db98fb) of player #10 Fernando
+﻿12:47:06 : Player #10 Fernando - Legacy GUID: 56c2b1a061fc8b28973cc36f8b3aca0d
+﻿12:49:18 : RCon admin #4: (Global) VIEW PLAYER STATS @ SURVIVALIST-DAYZ.COM/STATS
+﻿12:49:44 : RCon admin #1 (109.145.124.53:49334) logged in
+﻿13:01:51 : Player #1 OdlBrodler disconnected
+﻿13:03:18 : RCon admin #4: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!!
+﻿13:04:13 : Player #1 Robert (109.173.209.87:54650) connected
+﻿13:04:15 : Player #1 Robert - GUID: 2355860eb4a21fc5f8df0582967cc178 (unverified)
+﻿13:04:15 : Verified GUID (2355860eb4a21fc5f8df0582967cc178) of player #1 Robert
+﻿13:04:15 : Player #1 Robert - Legacy GUID: 0a07c6a7d437dcb49b8c76786090a23b
+﻿13:04:39 : Player #1 Robert disconnected
+﻿13:08:18 : RCon admin #4: (Global) Vehicles left in trader zones at restarts will be moved to the vehicle pound and unlocked
+﻿13:08:46 : Player #3 Odlkanack disconnected
+﻿13:10:29 : Player #1 NopeSkill (80.77.163.169:3302) connected
+﻿13:10:40 : Player #1 NopeSkill - GUID: e2b1df184f74858ad36bf225a07d7fd8 (unverified)
+﻿13:10:41 : Verified GUID (e2b1df184f74858ad36bf225a07d7fd8) of player #1 NopeSkill
+﻿13:10:41 : Player #1 NopeSkill - Legacy GUID: 8e03bb3ff689485e36a8d16c9b011ff4
+﻿13:14:02 : Player #3 NezoX (89.222.217.11:3302) connected
+﻿13:14:03 : Player #3 NezoX - GUID: a36a8bfa2b1a834b92921660388fca28 (unverified)
+﻿13:14:04 : Verified GUID (a36a8bfa2b1a834b92921660388fca28) of player #3 NezoX
+﻿13:14:04 : Player #3 NezoX - Legacy GUID: 21afd1598b3912c65cf485c78216dc00
+﻿13:15:41 : Player #1 NopeSkill - Legacy GUID: 8e03bb3ff689485e36a8d16c9b011ff4
+﻿13:17:57 : Player #10 Fernando disconnected
+﻿13:18:59 : Player #10 Jackkonoplya (93.170.154.105:3302) connected
+﻿13:19:00 : Player #10 Jackkonoplya - GUID: 6e653704faeec14f958f7104c33c68b4 (unverified)
+﻿13:19:01 : Verified GUID (6e653704faeec14f958f7104c33c68b4) of player #10 Jackkonoplya
+﻿13:19:01 : Player #10 Jackkonoplya - Legacy GUID: d60bce5a182fffd0254b3c14a8250f6f
+﻿13:19:18 : RCon admin #4: (Global) VIEW PLAYER STATS @ SURVIVALIST-DAYZ.COM/STATS
+﻿13:21:08 : Player #11 Lewis (81.152.147.115:2304) connected
+﻿13:21:10 : Player #11 Lewis - GUID: 9a5e9b1cb5365e10c0b53e8570d01208 (unverified)
+﻿13:21:10 : Player #11 Lewis - Legacy GUID: 623fcd62a97253f3c2bb6ee5049c1aed
+﻿13:21:10 : Verified GUID (9a5e9b1cb5365e10c0b53e8570d01208) of player #11 Lewis
+﻿13:22:08 : Player #12 aoyji (109.72.244.53:7626) connected
+﻿13:22:09 : Player #12 aoyji - GUID: ed42a6e2b588e616c3c6c16d1ce6adaf (unverified)
+﻿13:22:10 : Verified GUID (ed42a6e2b588e616c3c6c16d1ce6adaf) of player #12 aoyji
+﻿13:22:10 : Player #12 aoyji - Legacy GUID: 12535806735da9f45735a5dc2407ce51
+﻿13:22:11 : Player #12 aoyji disconnected
+﻿13:23:40 : Player #11 Lewis - Legacy GUID: 623fcd62a97253f3c2bb6ee5049c1aed
+﻿13:28:02 : Player #12 aoyji (109.72.244.53:7626) connected
+﻿13:28:04 : Player #12 aoyji - GUID: ed42a6e2b588e616c3c6c16d1ce6adaf (unverified)
+﻿13:28:04 : Player #12 aoyji - Legacy GUID: 12535806735da9f45735a5dc2407ce51
+﻿13:28:04 : Verified GUID (ed42a6e2b588e616c3c6c16d1ce6adaf) of player #12 aoyji
+﻿13:31:28 : Player #10 Jackkonoplya disconnected
+﻿13:31:56 : Player #10 Pascal (84.131.191.184:2304) connected
+﻿13:31:57 : Player #10 Pascal - GUID: 02f2416990dccb5ef43f50b31d9016a9 (unverified)
+﻿13:31:57 : Verified GUID (02f2416990dccb5ef43f50b31d9016a9) of player #10 Pascal
+﻿13:31:58 : Player #10 Pascal - Legacy GUID: 32138c009b6be5afebcf0988ebf538c3
+﻿13:32:05 : Player #10 Pascal disconnected
+﻿13:33:04 : Player #12 aoyji - Legacy GUID: 12535806735da9f45735a5dc2407ce51
+﻿13:33:18 : RCon admin #4: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!!
+﻿13:38:18 : RCon admin #4: (Global) Vehicles left in trader zones at restarts will be moved to the vehicle pound and unlocked
+﻿13:39:07 : Player #0 [HWB] Penetrator disconnected
+﻿13:47:47 : Player #0 DonMarino (109.59.91.168:2304) connected
+﻿13:47:48 : Player #0 DonMarino - GUID: 17f2b0576f03cd1fcd0ea2eb1b446f90 (unverified)
+﻿13:47:49 : Verified GUID (17f2b0576f03cd1fcd0ea2eb1b446f90) of player #0 DonMarino
+﻿13:47:49 : Player #0 DonMarino - Legacy GUID: 588e9945cacda6566cd843d4337c1d12
+﻿13:49:18 : RCon admin #4: (Global) VIEW PLAYER STATS @ SURVIVALIST-DAYZ.COM/STATS
+﻿13:51:52 : Player #10 willi (155.4.222.157:21974) connected
+﻿13:51:53 : Player #10 willi - GUID: 1dc3e93cb68bf1d2f48a795e5f1b69d1 (unverified)
+﻿13:51:54 : Verified GUID (1dc3e93cb68bf1d2f48a795e5f1b69d1) of player #10 willi
+﻿13:51:54 : Player #10 willi - Legacy GUID: 1478ca8283ca74750abdc9bda58662b2
+﻿13:52:39 : Player #13 anv?ndaren (83.223.26.226:3302) connected
+﻿13:52:41 : Player #13 anv?ndaren - GUID: a59e7cc11255651a36b8eea66ac2c09b (unverified)
+﻿13:52:41 : Verified GUID (a59e7cc11255651a36b8eea66ac2c09b) of player #13 anv?ndaren
+﻿13:52:41 : Player #13 anv?ndaren - Legacy GUID: 14836d75d453d2467591b61a3eaee09e
+﻿13:58:26 : Player #14 Jack_SNIPER (178.126.17.2:2306) connected
+﻿13:58:27 : Player #14 Jack_SNIPER - GUID: 7a0f413c33410da6e300a48ba878f973 (unverified)
+﻿13:58:28 : Verified GUID (7a0f413c33410da6e300a48ba878f973) of player #14 Jack_SNIPER
+﻿13:58:28 : Player #14 Jack_SNIPER - Legacy GUID: e5f7d2268fd2795336acf3de518c216f
+﻿13:58:30 : Player #15 GoosePedrilnyi (91.225.117.5:2304) connected
+﻿13:58:33 : Player #15 GoosePedrilnyi - GUID: 67ced1278c2f935dc0adb794883d0149 (unverified)
+﻿13:58:34 : Verified GUID (67ced1278c2f935dc0adb794883d0149) of player #15 GoosePedrilnyi
+﻿13:58:34 : Player #15 GoosePedrilnyi - Legacy GUID: 4aa03c2c5da3195dd640b7f4f9945433
+﻿14:03:18 : RCon admin #4: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!!
+﻿14:08:18 : RCon admin #4: (Global) Vehicles left in trader zones at restarts will be moved to the vehicle pound and unlocked
+﻿14:17:22 : Player #16 ORA (37.26.142.174:3302) connected
+﻿14:17:23 : Player #16 ORA - GUID: 78c21ce455a7b260502adba878e74b23 (unverified)
+﻿14:17:24 : Verified GUID (78c21ce455a7b260502adba878e74b23) of player #16 ORA
+﻿14:17:24 : Player #16 ORA - Legacy GUID: c267343e9dab60f993bb8d5027a43ec3
+﻿14:17:56 : Player #17 David (85.139.165.182:2304) connected
+﻿14:17:57 : Player #17 David - GUID: 5ccff7c30e675e588a6c26fa92a38e0c (unverified)
+﻿14:17:57 : Verified GUID (5ccff7c30e675e588a6c26fa92a38e0c) of player #17 David
+﻿14:17:58 : Player #17 David - Legacy GUID: 942a8bd4999511a7eb8a8a31ec18c699
+﻿14:18:49 : Player #11 Lewis disconnected
+﻿14:19:18 : RCon admin #4: (Global) VIEW PLAYER STATS @ SURVIVALIST-DAYZ.COM/STATS
+﻿14:23:03 : RCon admin #2 (109.145.124.53:63751) logged in
+﻿14:23:39 : RCon admin #1 (109.145.124.53:63752) logged in
+﻿14:24:00 : Player #11 LWB [SD] (109.145.124.53:1025) connected
+﻿14:24:02 : Player #11 LWB [SD] - GUID: bc07c7c39c76cf95a7a434d686d9df66 (unverified)
+﻿14:24:02 : Verified GUID (bc07c7c39c76cf95a7a434d686d9df66) of player #11 LWB [SD]
+﻿14:24:03 : Player #11 LWB [SD] - Legacy GUID: 977383e15b6c706cac44ca953ba440c7
+﻿14:26:43 : RCon admin #2 (109.145.124.53:49505) logged in
+﻿14:27:09 : RCon admin #0 (109.145.124.53:59095) logged in
+﻿14:28:03 : Player #18 Ola (109.145.124.53:2304) connected
+﻿14:28:04 : Player #18 Ola - GUID: dea2d42442b9f7baf6c9441b3cdd4c28 (unverified)
+﻿14:28:05 : Player #18 Ola - Legacy GUID: 4fb7677ee2815a3907adb63d8d1637f4
+﻿14:28:05 : Verified GUID (dea2d42442b9f7baf6c9441b3cdd4c28) of player #18 Ola
+﻿14:29:05 : Player #19 a-Fe (109.145.124.53:1024) connected
+﻿14:29:06 : Player #19 a-Fe - GUID: d5a7a204223d483926d292f4255aa428 (unverified)
+﻿14:29:07 : Player #19 a-Fe - Legacy GUID: 81e5f276acb3bd8401df80e28c6291a7
+﻿14:29:07 : Verified GUID (d5a7a204223d483926d292f4255aa428) of player #19 a-Fe
+﻿14:33:18 : RCon admin #4: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!!
+﻿14:36:47 : Player #3 NezoX disconnected
+﻿14:36:57 : Player #16 ORA (78c21ce455a7b260502adba878e74b23) has been kicked by BattlEye: Admin Kick (English Only)
+﻿14:37:15 : Player #3 ORA (37.26.142.174:3302) connected
+﻿14:37:16 : Player #12 aoyji (ed42a6e2b588e616c3c6c16d1ce6adaf) has been kicked by BattlEye: Admin Kick
+﻿14:37:16 : Player #3 ORA - GUID: 78c21ce455a7b260502adba878e74b23 (unverified)
+﻿14:37:17 : Verified GUID (78c21ce455a7b260502adba878e74b23) of player #3 ORA
+﻿14:37:17 : Player #3 ORA - Legacy GUID: c267343e9dab60f993bb8d5027a43ec3
+﻿14:37:23 : Player #12 Sanuray (37.113.42.154:3302) connected
+﻿14:37:24 : Player #12 Sanuray - GUID: 67a9dd799d86c5b0240f88e2e6f1ac9a (unverified)
+﻿14:37:24 : Verified GUID (67a9dd799d86c5b0240f88e2e6f1ac9a) of player #12 Sanuray
+﻿14:37:25 : Player #12 Sanuray - Legacy GUID: c3135b37065a91039c6454760f32f55b
+﻿14:38:18 : RCon admin #4: (Global) Vehicles left in trader zones at restarts will be moved to the vehicle pound and unlocked
+﻿14:40:21 : Player #1 NopeSkill disconnected
+﻿14:41:43 : Player #13 anv?ndaren disconnected
+﻿14:44:18 : RCon admin #4: (Global) Server will restart in 10 minutes
+﻿14:44:55 : Player #10 willi disconnected
+﻿14:47:56 : Player #8 [NG2] Chekko disconnected
+﻿14:48:04 : Player #9 Azeo disconnected
+﻿14:48:14 : Player #6 Jesse disconnected
+﻿14:48:14 : Player #5 [NG2] Strifer disconnected
+﻿14:49:18 : RCon admin #4: (Global) VIEW PLAYER STATS @ SURVIVALIST-DAYZ.COM/STATS
+﻿14:49:18 : RCon admin #4: (Global) Server will restart in 5 minutes: Prepare to Logout
+﻿14:52:02 : Player #17 David disconnected
+﻿14:52:18 : RCon admin #4: (Global) The Server is about to restart. LOG OUT NOW OR YOUR GEAR MAY BE LOST!!
+﻿14:52:37 : Player #4 2DIE4 disconnected
+﻿14:53:16 : Player #18 Ola disconnected
+﻿14:53:24 : Player #19 a-Fe disconnected
+﻿14:53:44 : Player #14 Jack_SNIPER disconnected
+﻿14:53:48 : RCon admin #4: (Global) YOU SHOULD BE LOGGED OUT BY NOW! IF YOU ARENT YOU WILL BE AUTO KICKED AND YOUR GEAR MAY BE LOST! NO REFUNDS!
+﻿14:54:52 : Rcon client logging in
+﻿14:54:52 : RCon admin #3 (78.31.67.100:50795) logged in
+﻿14:55:07 : RCon admin #4 (109.145.124.53:54052) logged in
+﻿14:55:18 : Player #2 GoosePedrilnyi (91.225.117.5:2304) connected
+﻿14:55:19 : Player #2 GoosePedrilnyi - GUID: 67ced1278c2f935dc0adb794883d0149 (unverified)
+﻿14:55:20 : Verified GUID (67ced1278c2f935dc0adb794883d0149) of player #2 GoosePedrilnyi
+﻿14:55:20 : Player #2 GoosePedrilnyi - Legacy GUID: 4aa03c2c5da3195dd640b7f4f9945433
+﻿14:55:28 : Player #2 GoosePedrilnyi disconnected
+﻿14:55:44 : Player #2 a-Fe (109.145.124.53:1024) connected
+﻿14:55:45 : Player #2 a-Fe - GUID: d5a7a204223d483926d292f4255aa428 (unverified)
+﻿14:55:46 : Verified GUID (d5a7a204223d483926d292f4255aa428) of player #2 a-Fe
+﻿14:55:46 : Player #2 a-Fe - Legacy GUID: 81e5f276acb3bd8401df80e28c6291a7
+﻿14:55:56 : Player #3 GoosePedrilnyi (91.225.117.5:2304) connected
+﻿14:55:57 : Player #3 GoosePedrilnyi - GUID: 67ced1278c2f935dc0adb794883d0149 (unverified)
+﻿14:55:57 : Verified GUID (67ced1278c2f935dc0adb794883d0149) of player #3 GoosePedrilnyi
+﻿14:55:58 : Player #3 GoosePedrilnyi - Legacy GUID: 4aa03c2c5da3195dd640b7f4f9945433
+﻿14:56:03 : Player #4 Jack_SNIPER (178.126.17.2:2306) connected
+﻿14:56:04 : Player #4 Jack_SNIPER - GUID: 7a0f413c33410da6e300a48ba878f973 (unverified)
+﻿14:56:04 : Verified GUID (7a0f413c33410da6e300a48ba878f973) of player #4 Jack_SNIPER
+﻿14:56:05 : Player #4 Jack_SNIPER - Legacy GUID: e5f7d2268fd2795336acf3de518c216f
+﻿14:56:08 : Player #3 GoosePedrilnyi disconnected
+﻿14:56:11 : Player #3 GoosePedrilnyi (91.225.117.5:2304) connected
+﻿14:56:12 : Player #4 Jack_SNIPER disconnected
+﻿14:56:13 : Player #3 GoosePedrilnyi - GUID: 67ced1278c2f935dc0adb794883d0149 (unverified)
+﻿14:56:13 : Verified GUID (67ced1278c2f935dc0adb794883d0149) of player #3 GoosePedrilnyi
+﻿14:56:14 : Player #3 GoosePedrilnyi - Legacy GUID: 4aa03c2c5da3195dd640b7f4f9945433
+﻿14:56:40 : Player #4 Jack_SNIPER (178.126.17.2:2306) connected
+﻿14:56:41 : Player #4 Jack_SNIPER - GUID: 7a0f413c33410da6e300a48ba878f973 (unverified)
+﻿14:56:42 : Verified GUID (7a0f413c33410da6e300a48ba878f973) of player #4 Jack_SNIPER
+﻿14:56:42 : Player #4 Jack_SNIPER - Legacy GUID: e5f7d2268fd2795336acf3de518c216f
+﻿14:56:53 : Player #4 Jack_SNIPER disconnected
+﻿14:56:56 : Player #4 Jack_SNIPER (178.126.17.2:2306) connected
+﻿14:56:57 : Player #4 Jack_SNIPER - GUID: 7a0f413c33410da6e300a48ba878f973 (unverified)
+﻿14:56:58 : Player #4 Jack_SNIPER - Legacy GUID: e5f7d2268fd2795336acf3de518c216f
+﻿14:56:58 : Verified GUID (7a0f413c33410da6e300a48ba878f973) of player #4 Jack_SNIPER
+﻿14:56:59 : Player #5 ORA (37.26.142.174:3302) connected
+﻿14:57:00 : Player #5 ORA - GUID: 78c21ce455a7b260502adba878e74b23 (unverified)
+﻿14:57:00 : Verified GUID (78c21ce455a7b260502adba878e74b23) of player #5 ORA
+﻿14:57:01 : Player #5 ORA - Legacy GUID: c267343e9dab60f993bb8d5027a43ec3
+﻿14:57:59 : Player #6 Azeo (77.248.130.209:61632) connected
+﻿14:58:00 : Player #6 Azeo - GUID: e8ea18acbdbd93b8151ac28b5f185f5f (unverified)
+﻿14:58:01 : Verified GUID (e8ea18acbdbd93b8151ac28b5f185f5f) of player #6 Azeo
+﻿14:58:01 : Player #6 Azeo - Legacy GUID: 8f2aa01a2443322b3f76a2edb21a9c0d
+﻿14:58:20 : Player #7 NezoX (89.222.217.11:3302) connected
+﻿14:58:21 : Player #7 NezoX - GUID: a36a8bfa2b1a834b92921660388fca28 (unverified)
+﻿14:58:21 : Verified GUID (a36a8bfa2b1a834b92921660388fca28) of player #7 NezoX
+﻿14:58:22 : Player #7 NezoX - Legacy GUID: 21afd1598b3912c65cf485c78216dc00
+﻿14:59:49 : Player #8 BaffledBambi (86.160.6.130:3302) connected
+﻿14:59:50 : Player #8 BaffledBambi - GUID: cfbbbdf74cca620aa69095163448174b (unverified)
+﻿14:59:50 : Verified GUID (cfbbbdf74cca620aa69095163448174b) of player #8 BaffledBambi
+﻿14:59:51 : Player #8 BaffledBambi - Legacy GUID: 5226ab94922d4d986dbe9869af8a5a34
+﻿14:59:53 : Player #9 Marco (77.248.130.209:61633) connected
+﻿14:59:54 : Player #9 Marco - GUID: 14f47e6fd70fb2a0c0d46684b20a0ac3 (unverified)
+﻿14:59:55 : Verified GUID (14f47e6fd70fb2a0c0d46684b20a0ac3) of player #9 Marco
+﻿14:59:55 : Player #9 Marco - Legacy GUID: bdf0bc664fdc6b39f592a3407474db11
+﻿15:00:11 : Player #10 [NG2] Chekko (77.248.130.209:61634) connected
+﻿15:00:12 : Player #10 [NG2] Chekko - GUID: b391613e89be804853338bc48c843474 (unverified)
+﻿15:00:12 : Verified GUID (b391613e89be804853338bc48c843474) of player #10 [NG2] Chekko
+﻿15:00:13 : Player #10 [NG2] Chekko - Legacy GUID: ad3b4566147de8ffaf5fd344f2538f40
+﻿15:00:39 : RCon admin #5 (109.145.124.53:50185) logged in
+﻿15:00:57 : Player #11 Jesse (77.248.130.209:61636) connected
+﻿15:00:58 : Player #11 Jesse - GUID: 1f7a31a6c97ae9822a9e4dcb3de0e9a0 (unverified)
+﻿15:00:59 : Verified GUID (1f7a31a6c97ae9822a9e4dcb3de0e9a0) of player #11 Jesse
+﻿15:00:59 : Player #11 Jesse - Legacy GUID: aa29d15133c89f949e71190836ad19cb
+﻿15:01:03 : Player #12 bloodhound (188.244.136.144:17431) connected
+﻿15:01:04 : Player #12 bloodhound - GUID: cecdccf7016416c9ab0b09aa81974013 (unverified)
+﻿15:01:05 : Verified GUID (cecdccf7016416c9ab0b09aa81974013) of player #12 bloodhound
+﻿15:01:05 : Player #12 bloodhound - Legacy GUID: fc0a8befd74ffe1c05866d47df8e07d7
+﻿15:01:06 : Player #9 Marco (14f47e6fd70fb2a0c0d46684b20a0ac3) has been kicked by BattlEye: CreateVehicle Restriction #1
+﻿15:01:06 : Player #12 bloodhound disconnected
+﻿15:01:14 : Player #7 NezoX disconnected
+﻿15:02:45 : Player #7 bloodhound (188.244.136.144:17223) connected
+﻿15:02:47 : Player #7 bloodhound - GUID: cecdccf7016416c9ab0b09aa81974013 (unverified)
+﻿15:02:47 : Verified GUID (cecdccf7016416c9ab0b09aa81974013) of player #7 bloodhound
+﻿15:02:47 : Player #7 bloodhound - Legacy GUID: fc0a8befd74ffe1c05866d47df8e07d7
+﻿15:02:48 : Player #7 bloodhound disconnected
+﻿15:02:49 : Player #7 2DIE4 (84.170.125.229:3302) connected
+﻿15:02:50 : Player #7 2DIE4 - GUID: 97b8e8b63e4439b2b62c99dde2b8b8a1 (unverified)
+﻿15:02:51 : Verified GUID (97b8e8b63e4439b2b62c99dde2b8b8a1) of player #7 2DIE4
+﻿15:02:51 : Player #7 2DIE4 - Legacy GUID: e56dc54c0a6d92faa8a284d7c54bffab
+﻿15:02:53 : Player #9 Sanuray (37.113.42.154:3302) connected
+﻿15:02:54 : Player #9 Sanuray - GUID: 67a9dd799d86c5b0240f88e2e6f1ac9a (unverified)
+﻿15:02:55 : Player #9 Sanuray - Legacy GUID: c3135b37065a91039c6454760f32f55b
+﻿15:02:55 : Verified GUID (67a9dd799d86c5b0240f88e2e6f1ac9a) of player #9 Sanuray
+﻿15:03:40 : Player #12 KEntoben (212.74.202.100:15419) connected
+﻿15:03:41 : Player #12 KEntoben - GUID: eebf26abc99c5fb472865f19a2b8a09d (unverified)
+﻿15:03:42 : Verified GUID (eebf26abc99c5fb472865f19a2b8a09d) of player #12 KEntoben
+﻿15:03:42 : Player #12 KEntoben - Legacy GUID: d279b396ba2bc406f01cf9be86bc3a56
+﻿15:03:42 : Player #12 KEntoben disconnected
+﻿15:04:15 : Player #12 NezoX (89.222.217.11:3302) connected
+﻿15:04:17 : Player #12 NezoX - GUID: a36a8bfa2b1a834b92921660388fca28 (unverified)
+﻿15:04:17 : Verified GUID (a36a8bfa2b1a834b92921660388fca28) of player #12 NezoX
+﻿15:04:17 : Player #12 NezoX - Legacy GUID: 21afd1598b3912c65cf485c78216dc00
+﻿15:04:37 : Player #13 bloodhound (188.244.136.144:17590) connected
+﻿15:04:38 : Player #13 bloodhound - GUID: cecdccf7016416c9ab0b09aa81974013 (unverified)
+﻿15:04:39 : Verified GUID (cecdccf7016416c9ab0b09aa81974013) of player #13 bloodhound
+﻿15:04:39 : Player #13 bloodhound - Legacy GUID: fc0a8befd74ffe1c05866d47df8e07d7
+﻿15:04:40 : Player #13 bloodhound disconnected
+﻿15:04:53 : Player #9 Sanuray (67a9dd799d86c5b0240f88e2e6f1ac9a) has been kicked by BattlEye: CreateVehicle Restriction #1
+﻿15:06:25 : Player #9 Sanuray (37.113.42.154:3302) connected
+﻿15:06:27 : Player #9 Sanuray - GUID: 67a9dd799d86c5b0240f88e2e6f1ac9a (unverified)
+﻿15:06:28 : Player #9 Sanuray - Legacy GUID: c3135b37065a91039c6454760f32f55b
+﻿15:06:28 : Verified GUID (67a9dd799d86c5b0240f88e2e6f1ac9a) of player #9 Sanuray
+﻿15:06:52 : Player #13 Marco (77.248.130.209:61637) connected
+﻿15:06:53 : Player #13 Marco - GUID: 14f47e6fd70fb2a0c0d46684b20a0ac3 (unverified)
+﻿15:06:53 : Verified GUID (14f47e6fd70fb2a0c0d46684b20a0ac3) of player #13 Marco
+﻿15:06:54 : Player #13 Marco - Legacy GUID: bdf0bc664fdc6b39f592a3407474db11
+﻿15:07:58 : RCon admin #1 (109.145.124.53:57127) logged in
+﻿15:08:52 : RCon admin #3: (Global) Vehicles left in trader zones at restarts will be moved to the vehicle pound and unlocked
+﻿15:08:56 : Player #14 willi (155.4.222.157:21974) connected
+﻿15:08:57 : Player #14 willi - GUID: 1dc3e93cb68bf1d2f48a795e5f1b69d1 (unverified)
+﻿15:08:58 : Verified GUID (1dc3e93cb68bf1d2f48a795e5f1b69d1) of player #14 willi
+﻿15:08:58 : Player #14 willi - Legacy GUID: 1478ca8283ca74750abdc9bda58662b2
+﻿15:09:43 : Player #15 anv?ndaren (83.223.26.226:3302) connected
+﻿15:09:44 : Player #15 anv?ndaren - GUID: a59e7cc11255651a36b8eea66ac2c09b (unverified)
+﻿15:09:45 : Verified GUID (a59e7cc11255651a36b8eea66ac2c09b) of player #15 anv?ndaren
+﻿15:09:45 : Player #15 anv?ndaren - Legacy GUID: 14836d75d453d2467591b61a3eaee09e
+﻿15:09:53 : Player #16 bloodhound (188.244.136.144:17258) connected
+﻿15:09:54 : Player #16 bloodhound - GUID: cecdccf7016416c9ab0b09aa81974013 (unverified)
+﻿15:09:55 : Verified GUID (cecdccf7016416c9ab0b09aa81974013) of player #16 bloodhound
+﻿15:09:55 : Player #16 bloodhound - Legacy GUID: fc0a8befd74ffe1c05866d47df8e07d7
+﻿15:10:02 : Player #16 bloodhound disconnected
+﻿15:15:24 : Player #16 Paul (82.42.172.177:3302) connected
+﻿15:15:25 : Player #16 Paul - GUID: a2b91db64811de5bfd97a22ef6ba29d8 (unverified)
+﻿15:15:26 : Verified GUID (a2b91db64811de5bfd97a22ef6ba29d8) of player #16 Paul
+﻿15:15:26 : Player #16 Paul - Legacy GUID: 36155442e5993c9c86dd268af4e5572e
+﻿15:18:00 : Player #17 [NG2] Strifer (77.248.130.209:61639) connected
+﻿15:18:01 : Player #17 [NG2] Strifer - GUID: a7f74608b4c87f9a066a8eafb2b83ae9 (unverified)
+﻿15:18:02 : Verified GUID (a7f74608b4c87f9a066a8eafb2b83ae9) of player #17 [NG2] Strifer
+﻿15:18:03 : Player #17 [NG2] Strifer - Legacy GUID: ad07486609cd86b13497bdf0a7bf4f6d
+﻿15:19:52 : RCon admin #3: (Global) VIEW PLAYER STATS @ SURVIVALIST-DAYZ.COM/STATS
+﻿15:20:19 : Player #18 Dima (188.187.65.62:3302) connected
+﻿15:20:21 : Player #18 Dima - GUID: b3b194159fe5b8dbe0cc37c0d83423c2 (unverified)
+﻿15:20:21 : Verified GUID (b3b194159fe5b8dbe0cc37c0d83423c2) of player #18 Dima
+﻿15:20:22 : Player #18 Dima - Legacy GUID: 6f243ace78ce6f0448fa621a3d8fdd1d
+﻿15:21:18 : Player #19 NopeSkill (80.77.163.169:3302) connected
+﻿15:21:25 : Player #19 NopeSkill - GUID: e2b1df184f74858ad36bf225a07d7fd8 (unverified)
+﻿15:21:25 : Verified GUID (e2b1df184f74858ad36bf225a07d7fd8) of player #19 NopeSkill
+﻿15:21:27 : Player #19 NopeSkill - Legacy GUID: 8e03bb3ff689485e36a8d16c9b011ff4
+﻿15:23:22 : Player #19 NopeSkill (e2b1df184f74858ad36bf225a07d7fd8) has been kicked by BattlEye: Client not responding
+﻿15:24:05 : Player #18 Dima disconnected
+﻿15:24:40 : Player #18 georg (78.52.217.119:3302) connected
+﻿15:24:41 : Player #18 georg - GUID: 1cc8bbd20a4723759806e0eebdf73bb2 (unverified)
+﻿15:24:42 : Player #18 georg - Legacy GUID: 4df3339afcfe1a1f1a32a8f22a9eec3c
+﻿15:25:02 : Player #19 FedteG. (5.186.124.56:3302) connected
+﻿15:25:04 : Player #19 FedteG. - GUID: 73e5525844b02652fb349ccc5e6250cf (unverified)
+﻿15:25:04 : Verified GUID (73e5525844b02652fb349ccc5e6250cf) of player #19 FedteG.
+﻿15:25:04 : Player #19 FedteG. - Legacy GUID: a48261071e9fbcaf10d5f6940df437d3
+﻿15:25:51 : Player #20 bloodhound (188.244.136.144:18164) connected
+﻿15:25:52 : Player #20 bloodhound - GUID: cecdccf7016416c9ab0b09aa81974013 (unverified)
+﻿15:25:53 : Verified GUID (cecdccf7016416c9ab0b09aa81974013) of player #20 bloodhound
+﻿15:25:53 : Player #20 bloodhound - Legacy GUID: fc0a8befd74ffe1c05866d47df8e07d7
+﻿15:26:12 : Player #18 georg disconnected
+﻿15:27:24 : Player #20 bloodhound disconnected
+﻿15:30:37 : Player #18 jocontacter (92.61.65.154:2304) connected
+﻿15:30:38 : Player #18 jocontacter - GUID: 6c741a6235731913c5c0da30e666efe4 (unverified)
+﻿15:30:39 : Verified GUID (6c741a6235731913c5c0da30e666efe4) of player #18 jocontacter
+﻿15:30:39 : Player #18 jocontacter - Legacy GUID: 311cd16c9d06d58c774968694b9ca5a7
+﻿15:30:41 : Player #18 jocontacter disconnected
+﻿15:32:40 : Player #18 jocontacter (92.61.65.154:2304) connected
+﻿15:32:41 : Player #18 jocontacter - GUID: 6c741a6235731913c5c0da30e666efe4 (unverified)
+﻿15:32:42 : Verified GUID (6c741a6235731913c5c0da30e666efe4) of player #18 jocontacter
+﻿15:32:42 : Player #18 jocontacter - Legacy GUID: 311cd16c9d06d58c774968694b9ca5a7
+﻿15:32:58 : Player #8 BaffledBambi disconnected
+﻿15:32:59 : Player #16 Paul disconnected
+﻿15:33:52 : RCon admin #3: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!!
+﻿15:34:00 : Player #8 Jan-Niklas (79.255.196.49:3302) connected
+﻿15:34:01 : Player #8 Jan-Niklas - GUID: 0fd41fd3f39dc5b2fb8ed65309617c44 (unverified)
+﻿15:34:02 : Verified GUID (0fd41fd3f39dc5b2fb8ed65309617c44) of player #8 Jan-Niklas
+﻿15:34:02 : Player #8 Jan-Niklas - Legacy GUID: 10732fa0279ae450ac6645089a722ed7
+﻿15:34:05 : Player #8 Jan-Niklas disconnected
+﻿15:37:31 : Player #8 bloodhound (188.244.136.144:18386) connected
+﻿15:37:32 : Player #8 bloodhound - GUID: cecdccf7016416c9ab0b09aa81974013 (unverified)
+﻿15:37:33 : Verified GUID (cecdccf7016416c9ab0b09aa81974013) of player #8 bloodhound
+﻿15:37:33 : Player #8 bloodhound - Legacy GUID: fc0a8befd74ffe1c05866d47df8e07d7
+﻿15:38:52 : RCon admin #3: (Global) Vehicles left in trader zones at restarts will be moved to the vehicle pound and unlocked
+﻿15:39:23 : Player #16 NopeSkill (80.77.163.169:3302) connected
+﻿15:39:25 : Player #16 NopeSkill - GUID: e2b1df184f74858ad36bf225a07d7fd8 (unverified)
+﻿15:39:25 : Verified GUID (e2b1df184f74858ad36bf225a07d7fd8) of player #16 NopeSkill
+﻿15:39:25 : Player #16 NopeSkill - Legacy GUID: 8e03bb3ff689485e36a8d16c9b011ff4
+﻿15:41:31 : Player #16 NopeSkill disconnected
+﻿15:42:15 : Player #16 NopeSkill (80.77.163.169:3302) connected
+﻿15:42:16 : Player #16 NopeSkill - GUID: e2b1df184f74858ad36bf225a07d7fd8 (unverified)
+﻿15:42:17 : Verified GUID (e2b1df184f74858ad36bf225a07d7fd8) of player #16 NopeSkill
+﻿15:42:17 : Player #16 NopeSkill - Legacy GUID: 8e03bb3ff689485e36a8d16c9b011ff4
+﻿15:42:23 : Player #20 Fernando (92.177.106.122:3302) connected
+﻿15:42:25 : Player #20 Fernando - Legacy GUID: 56c2b1a061fc8b28973cc36f8b3aca0d
+﻿15:42:25 : Player #20 Fernando - GUID: a751f8c9eede1cb7326b331de0db98fb (unverified)
+﻿15:42:25 : Verified GUID (a751f8c9eede1cb7326b331de0db98fb) of player #20 Fernando
+﻿15:42:33 : Player #8 bloodhound - Legacy GUID: fc0a8befd74ffe1c05866d47df8e07d7
+﻿15:44:02 : Player #16 NopeSkill (e2b1df184f74858ad36bf225a07d7fd8) has been kicked by BattlEye: Client not responding
+﻿15:49:43 : Player #8 bloodhound disconnected
+﻿15:49:52 : RCon admin #3: (Global) VIEW PLAYER STATS @ SURVIVALIST-DAYZ.COM/STATS
+﻿15:55:18 : Player #8 sasha (95.161.247.250:2304) connected
+﻿15:55:19 : Player #8 sasha - GUID: 8d800b5bcbee1f317213d3f8cc857314 (unverified)
+﻿15:55:20 : Player #8 sasha - Legacy GUID: 53b3d0cc2a9b35662cb7787b01766c1d
+﻿15:55:20 : Verified GUID (8d800b5bcbee1f317213d3f8cc857314) of player #8 sasha
+﻿15:56:16 : Player #8 sasha disconnected
+﻿15:57:35 : Player #8 sasha (95.161.247.250:2304) connected
+﻿15:57:36 : Player #8 sasha - GUID: 8d800b5bcbee1f317213d3f8cc857314 (unverified)
+﻿15:57:37 : Verified GUID (8d800b5bcbee1f317213d3f8cc857314) of player #8 sasha
+﻿15:57:37 : Player #8 sasha - Legacy GUID: 53b3d0cc2a9b35662cb7787b01766c1d
+﻿15:58:26 : Player #12 NezoX disconnected
+﻿16:00:11 : Player #15 anv?ndaren disconnected
+﻿16:01:34 : Player #12 Admin (79.80.201.118:2304) connected
+﻿16:01:36 : Player #12 Admin - GUID: ae0913f24a361e40ac43b741a54ba12c (unverified)
+﻿16:01:36 : Player #12 Admin (ae0913f24a361e40ac43b741a54ba12c) has been kicked by BattlEye: Admin Kick (BEC : Your player name is not allowed on this server)
+﻿16:03:52 : RCon admin #3: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!!
+﻿16:04:13 : RCon admin #5 (109.145.124.53:57285) logged in
+﻿16:04:17 : Player #12 David (85.139.165.182:2304) connected
+﻿16:04:18 : Player #12 David - GUID: 5ccff7c30e675e588a6c26fa92a38e0c (unverified)
+﻿16:04:18 : Verified GUID (5ccff7c30e675e588a6c26fa92a38e0c) of player #12 David
+﻿16:04:19 : Player #12 David - Legacy GUID: 942a8bd4999511a7eb8a8a31ec18c699
+﻿16:05:00 : Player #15 Admin (79.80.201.118:2304) connected
+﻿16:05:02 : Player #15 Admin - GUID: ae0913f24a361e40ac43b741a54ba12c (unverified)
+﻿16:05:02 : Player #15 Admin (ae0913f24a361e40ac43b741a54ba12c) has been kicked by BattlEye: Admin Kick (BEC : Your player name is not allowed on this server)
+﻿16:05:32 : Player #15 Boris (31.54.97.124:3302) connected
+﻿16:05:34 : Player #15 Boris - GUID: 4bb77e0eeee4e4a9f9f3420057bcce37 (unverified)
+﻿16:05:34 : Verified GUID (4bb77e0eeee4e4a9f9f3420057bcce37) of player #15 Boris
+﻿16:05:34 : Player #15 Boris - Legacy GUID: 3738ecd7fc3b5f102bbe7eed0323adee
+﻿16:08:52 : RCon admin #3: (Global) Vehicles left in trader zones at restarts will be moved to the vehicle pound and unlocked
+﻿16:16:12 : Player #16 Twiggy (5.186.122.210:25638) connected
+﻿16:16:14 : Player #16 Twiggy - GUID: b507b5e4dee8d9b7fb524607716c8cb6 (unverified)
+﻿16:16:14 : Verified GUID (b507b5e4dee8d9b7fb524607716c8cb6) of player #16 Twiggy
+﻿16:16:14 : Player #16 Twiggy - Legacy GUID: 7f0f64d6b31a0c90106861eab6f38fbd
+﻿16:18:39 : Player #21 Kiero (94.192.67.42:2304) connected
+﻿16:18:40 : Player #21 Kiero disconnected
+﻿16:18:44 : Player #21 Kiero (94.192.67.42:2304) connected
+﻿16:18:45 : Player #21 Kiero disconnected
+﻿16:19:02 : Player #21 Kiero (94.192.67.42:2304) connected
+﻿16:19:03 : Player #21 Kiero disconnected
+﻿16:19:50 : Player #3 GoosePedrilnyi disconnected
+﻿16:19:53 : RCon admin #3: (Global) VIEW PLAYER STATS @ SURVIVALIST-DAYZ.COM/STATS
+﻿16:29:28 : Player #3 Manuel (212.43.86.247:48784) connected
+﻿16:29:30 : Player #3 Manuel - GUID: 1e22f64b7bec445694532862099d9be2 (unverified)
+﻿16:29:31 : Player #3 Manuel - Legacy GUID: 094a86bd87b07d368afb5fad4e2d14c4
+﻿16:29:31 : Verified GUID (1e22f64b7bec445694532862099d9be2) of player #3 Manuel
+﻿16:30:54 : Player #16 Twiggy (b507b5e4dee8d9b7fb524607716c8cb6) has been kicked by BattlEye: Client not responding
+﻿16:33:53 : RCon admin #3: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!!
+﻿16:36:17 : Player #20 Fernando disconnected
+﻿16:36:19 : Player #16 Pinguin (80.192.23.63:3302) connected
+﻿16:36:20 : Player #16 Pinguin - GUID: 4116fdbeef7d83de55b5b7712c287670 (unverified)
+﻿16:36:21 : Player #16 Pinguin - Legacy GUID: 062ce25f826968e6d3e46e32e1c804a7
+﻿16:37:30 : Player #16 Pinguin disconnected
+﻿16:38:53 : RCon admin #3: (Global) Vehicles left in trader zones at restarts will be moved to the vehicle pound and unlocked
+﻿16:39:57 : Player #16 Pinguin (80.192.23.63:3302) connected
+﻿16:39:59 : Player #16 Pinguin - GUID: 4116fdbeef7d83de55b5b7712c287670 (unverified)
+﻿16:39:59 : Verified GUID (4116fdbeef7d83de55b5b7712c287670) of player #16 Pinguin
+﻿16:40:00 : Player #16 Pinguin - Legacy GUID: 062ce25f826968e6d3e46e32e1c804a7
+﻿16:42:30 : Player #6 Azeo disconnected
+﻿16:42:50 : Player #6 GoosePedrilnyi (91.225.117.5:2304) connected
+﻿16:43:02 : Player #6 GoosePedrilnyi - GUID: 67ced1278c2f935dc0adb794883d0149 (unverified)
+﻿16:43:02 : Player #10 [NG2] Chekko disconnected
+﻿16:43:03 : Verified GUID (67ced1278c2f935dc0adb794883d0149) of player #6 GoosePedrilnyi
+﻿16:43:04 : Player #6 GoosePedrilnyi - Legacy GUID: 4aa03c2c5da3195dd640b7f4f9945433
+﻿16:43:50 : Player #17 [NG2] Strifer disconnected
+﻿16:44:13 : Player #6 GoosePedrilnyi disconnected
+﻿16:44:18 : Player #6 GoosePedrilnyi (91.225.117.5:2304) connected
+﻿16:44:26 : Player #6 GoosePedrilnyi disconnected
+﻿16:44:40 : Player #6 GoosePedrilnyi (91.225.117.5:2304) connected
+﻿16:44:48 : Player #6 GoosePedrilnyi - GUID: 67ced1278c2f935dc0adb794883d0149 (unverified)
+﻿16:44:49 : Player #6 GoosePedrilnyi - Legacy GUID: 4aa03c2c5da3195dd640b7f4f9945433
+﻿16:44:49 : Verified GUID (67ced1278c2f935dc0adb794883d0149) of player #6 GoosePedrilnyi
+﻿16:45:10 : Player #6 GoosePedrilnyi disconnected
+﻿16:47:09 : Player #2 a-Fe disconnected
+﻿16:47:54 : Player #2 GoosePedrilnyi (91.225.117.5:2304) connected
+﻿16:47:56 : Player #2 GoosePedrilnyi - GUID: 67ced1278c2f935dc0adb794883d0149 (unverified)
+﻿16:47:57 : Verified GUID (67ced1278c2f935dc0adb794883d0149) of player #2 GoosePedrilnyi
+﻿16:47:58 : Player #2 GoosePedrilnyi - Legacy GUID: 4aa03c2c5da3195dd640b7f4f9945433
+﻿16:49:39 : Player #6 Simon (93.245.2.140:3302) connected
+﻿16:49:41 : Player #6 Simon - GUID: dfeb6c69088cd206750d24b99742e00c (unverified)
+﻿16:49:41 : Verified GUID (dfeb6c69088cd206750d24b99742e00c) of player #6 Simon
+﻿16:49:42 : Player #6 Simon - Legacy GUID: a5782b6275ca909dc4f1469840070048
+﻿16:49:44 : Player #6 Simon disconnected
+﻿16:49:53 : RCon admin #3: (Global) VIEW PLAYER STATS @ SURVIVALIST-DAYZ.COM/STATS
+﻿16:50:18 : Player #12 David disconnected
+﻿16:51:03 : Player #6 Twiggy (5.186.122.210:25638) connected
+﻿16:51:04 : Player #6 Twiggy - GUID: b507b5e4dee8d9b7fb524607716c8cb6 (unverified)
+﻿16:51:05 : Player #6 Twiggy - Legacy GUID: 7f0f64d6b31a0c90106861eab6f38fbd
+﻿16:51:05 : Verified GUID (b507b5e4dee8d9b7fb524607716c8cb6) of player #6 Twiggy
+﻿16:51:09 : Player #10 SilentDeath1 (86.175.43.50:41966) connected
+﻿16:51:10 : Player #10 SilentDeath1 disconnected
+﻿16:51:20 : Player #10 Kezzie (94.192.67.42:2304) connected
+﻿16:51:21 : Player #10 Kezzie disconnected
+﻿16:51:24 : Player #10 SilentDeath1 (86.175.43.50:41966) connected
+﻿16:51:25 : Player #10 SilentDeath1 disconnected
+﻿16:51:34 : Player #10 Kezzie (94.192.67.42:2304) connected
+﻿16:51:35 : Player #10 Kezzie disconnected
+﻿16:54:26 : Player #10 SilentDeath1 (86.175.43.50:22981) connected
+﻿16:54:28 : Player #10 SilentDeath1 disconnected
+﻿16:56:42 : Player #13 Marco disconnected
+﻿16:57:07 : Player #10 Kezzie (94.192.67.42:3302) connected
+﻿16:57:08 : Player #10 Kezzie - GUID: f4a64a4ab9727d22fef1630afe7efc39 (unverified)
+﻿16:57:09 : Verified GUID (f4a64a4ab9727d22fef1630afe7efc39) of player #10 Kezzie
+﻿16:57:09 : Player #10 Kezzie - Legacy GUID: 2f59b47e6b7f2e4c7056df559c2acc94
+﻿16:57:14 : Player #10 Kezzie disconnected
+﻿16:57:23 : Player #11 Jesse disconnected
+﻿16:58:32 : Player #10 Kezzie (94.192.67.42:3302) connected
+﻿16:58:33 : Player #10 Kezzie - GUID: f4a64a4ab9727d22fef1630afe7efc39 (unverified)
+﻿16:58:34 : Verified GUID (f4a64a4ab9727d22fef1630afe7efc39) of player #10 Kezzie
+﻿16:58:34 : Player #10 Kezzie - Legacy GUID: 2f59b47e6b7f2e4c7056df559c2acc94
+﻿17:01:04 : Player #10 Kezzie - Legacy GUID: 2f59b47e6b7f2e4c7056df559c2acc94
+﻿17:03:53 : RCon admin #3: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!!
+﻿17:04:04 : Player #16 Pinguin disconnected
+﻿17:04:37 : Player #11 Christmas (86.134.103.245:2304) connected
+﻿17:04:39 : Player #11 Christmas - GUID: 2c29b4a5e8c5b39bc6b05ac32f806ee6 (unverified)
+﻿17:04:39 : Player #11 Christmas - Legacy GUID: e772f5805de3abb4f55e73e66390b647
+﻿17:04:40 : Verified GUID (2c29b4a5e8c5b39bc6b05ac32f806ee6) of player #11 Christmas
+﻿17:05:03 : Player #12 Simon (93.245.2.140:3302) connected
+﻿17:05:05 : Player #12 Simon - GUID: dfeb6c69088cd206750d24b99742e00c (unverified)
+﻿17:05:06 : Verified GUID (dfeb6c69088cd206750d24b99742e00c) of player #12 Simon
+﻿17:05:07 : Player #12 Simon - Legacy GUID: a5782b6275ca909dc4f1469840070048
+﻿17:06:10 : Player #13 Wiiilf (83.90.146.127:3302) connected
+﻿17:06:11 : Player #13 Wiiilf - GUID: 24e88fee9ae07e5468f7ae1a242b83b9 (unverified)
+﻿17:06:12 : Player #13 Wiiilf - Legacy GUID: 57dc416bcec4c70f8c1887edefac44d9
+﻿17:06:12 : Verified GUID (24e88fee9ae07e5468f7ae1a242b83b9) of player #13 Wiiilf
+﻿17:08:31 : Player #13 Wiiilf disconnected
+﻿17:08:52 : RCon admin #3: (Global) Vehicles left in trader zones at restarts will be moved to the vehicle pound and unlocked
+﻿17:09:35 : Player #2 GoosePedrilnyi disconnected
+﻿17:12:25 : RCon admin #1: (Global) [LWB] It appears that way, yes. Im looking into it
+﻿17:14:52 : RCon admin #3: (Global) Server will restart in 10 minutes
+﻿17:19:52 : RCon admin #3: (Global) VIEW PLAYER STATS @ SURVIVALIST-DAYZ.COM/STATS
+﻿17:19:53 : RCon admin #3: (Global) Server will restart in 5 minutes: Prepare to Logout
+﻿17:19:54 : Player #2 Czikson (185.42.44.75:3302) connected
+﻿17:19:56 : Player #2 Czikson - GUID: ee793bff9b1b464a4d2e691ee06241e6 (unverified)
+﻿17:19:56 : Player #2 Czikson - Legacy GUID: 9402cc3dd30a9f84cf8d760673b9d194
+﻿17:19:56 : Verified GUID (ee793bff9b1b464a4d2e691ee06241e6) of player #2 Czikson
+﻿17:22:52 : RCon admin #3: (Global) The Server is about to restart. LOG OUT NOW OR YOUR GEAR MAY BE LOST!!
+﻿17:23:04 : Player #2 Czikson disconnected
+﻿17:23:14 : Player #3 Manuel disconnected
+﻿17:23:16 : Player #8 sasha disconnected
+﻿17:23:21 : Player #19 FedteG. disconnected
+﻿17:23:35 : Player #12 Simon disconnected
+﻿17:23:44 : Player #18 jocontacter disconnected
+﻿17:23:54 : Player #4 Jack_SNIPER disconnected
+﻿17:23:56 : Player #6 Twiggy disconnected
+﻿17:23:57 : Player #10 Kezzie disconnected
+﻿17:23:58 : Player #15 Boris disconnected
+﻿17:24:22 : RCon admin #3: (Global) YOU SHOULD BE LOGGED OUT BY NOW! IF YOU ARENT YOU WILL BE AUTO KICKED AND YOUR GEAR MAY BE LOST! NO REFUNDS!
+﻿17:24:39 : Player #9 Sanuray disconnected
+﻿17:25:26 : Rcon client logging in
+﻿17:25:26 : RCon admin #3 (109.145.124.53:59957) logged in
+﻿17:25:26 : RCon admin #4 (78.31.67.100:59718) logged in
+﻿17:25:26 : Player #1 Jesse (77.248.130.209:3302) connected
+﻿17:25:26 : Player #2 Christmas (86.134.103.245:2304) connected
+﻿17:25:27 : Player #1 Jesse - GUID: 1f7a31a6c97ae9822a9e4dcb3de0e9a0 (unverified)
+﻿17:25:28 : Verified GUID (1f7a31a6c97ae9822a9e4dcb3de0e9a0) of player #1 Jesse
+﻿17:25:28 : Player #2 Christmas - GUID: 2c29b4a5e8c5b39bc6b05ac32f806ee6 (unverified)
+﻿17:25:28 : Verified GUID (2c29b4a5e8c5b39bc6b05ac32f806ee6) of player #2 Christmas
+﻿17:25:28 : Player #1 Jesse - Legacy GUID: aa29d15133c89f949e71190836ad19cb
+﻿17:25:28 : Player #2 Christmas - Legacy GUID: e772f5805de3abb4f55e73e66390b647
+﻿17:25:37 : Player #3 Marco (77.248.130.209:61690) connected
+﻿17:25:38 : Player #3 Marco - GUID: 14f47e6fd70fb2a0c0d46684b20a0ac3 (unverified)
+﻿17:25:39 : Verified GUID (14f47e6fd70fb2a0c0d46684b20a0ac3) of player #3 Marco
+﻿17:25:39 : Player #3 Marco - Legacy GUID: bdf0bc664fdc6b39f592a3407474db11
+﻿17:25:55 : Player #4 Jack_SNIPER (178.126.17.2:2306) connected
+﻿17:25:56 : Player #4 Jack_SNIPER - GUID: 7a0f413c33410da6e300a48ba878f973 (unverified)
+﻿17:25:56 : Verified GUID (7a0f413c33410da6e300a48ba878f973) of player #4 Jack_SNIPER
+﻿17:25:57 : Player #4 Jack_SNIPER - Legacy GUID: e5f7d2268fd2795336acf3de518c216f
+﻿17:26:02 : Player #5 FedteG. (5.186.124.56:3302) connected
+﻿17:26:03 : Player #5 FedteG. - GUID: 73e5525844b02652fb349ccc5e6250cf (unverified)
+﻿17:26:03 : Verified GUID (73e5525844b02652fb349ccc5e6250cf) of player #5 FedteG.
+﻿17:26:03 : Player #5 FedteG. - Legacy GUID: a48261071e9fbcaf10d5f6940df437d3
+﻿17:26:07 : Player #6 GoosePedrilnyi (91.225.119.185:2304) connected
+﻿17:26:12 : Player #6 GoosePedrilnyi - GUID: 67ced1278c2f935dc0adb794883d0149 (unverified)
+﻿17:26:12 : Verified GUID (67ced1278c2f935dc0adb794883d0149) of player #6 GoosePedrilnyi
+﻿17:26:13 : Player #6 GoosePedrilnyi - Legacy GUID: 4aa03c2c5da3195dd640b7f4f9945433
+﻿17:26:13 : Player #7 Freddiiiiiii (88.129.218.227:3302) connected
+﻿17:26:15 : Player #7 Freddiiiiiii - GUID: 6d5a40e86ea24c95b48fb7c7059cb5cf (unverified)
+﻿17:26:15 : Verified GUID (6d5a40e86ea24c95b48fb7c7059cb5cf) of player #7 Freddiiiiiii
+﻿17:26:15 : Player #7 Freddiiiiiii - Legacy GUID: a086897cd57f36f888507c1dfba1ac47
+﻿17:26:21 : Player #8 Simon (93.245.2.140:3302) connected
+﻿17:26:23 : Player #8 Simon - GUID: dfeb6c69088cd206750d24b99742e00c (unverified)
+﻿17:26:23 : Player #8 Simon - Legacy GUID: a5782b6275ca909dc4f1469840070048
+﻿17:26:23 : Verified GUID (dfeb6c69088cd206750d24b99742e00c) of player #8 Simon
+﻿17:26:27 : Player #7 Freddiiiiiii disconnected
+﻿17:26:31 : Player #7 ORA (37.26.142.174:3302) connected
+﻿17:26:32 : Player #7 ORA - GUID: 78c21ce455a7b260502adba878e74b23 (unverified)
+﻿17:26:32 : Verified GUID (78c21ce455a7b260502adba878e74b23) of player #7 ORA
+﻿17:26:33 : Player #7 ORA - Legacy GUID: c267343e9dab60f993bb8d5027a43ec3
+﻿17:27:03 : Player #9 Twiggy (5.186.122.210:25638) connected
+﻿17:27:05 : Player #9 Twiggy - GUID: b507b5e4dee8d9b7fb524607716c8cb6 (unverified)
+﻿17:27:05 : Verified GUID (b507b5e4dee8d9b7fb524607716c8cb6) of player #9 Twiggy
+﻿17:27:05 : Player #9 Twiggy - Legacy GUID: 7f0f64d6b31a0c90106861eab6f38fbd
+﻿17:27:25 : Player #10 Sanuray (37.113.42.154:3302) connected
+﻿17:27:26 : Player #10 Sanuray - GUID: 67a9dd799d86c5b0240f88e2e6f1ac9a (unverified)
+﻿17:27:27 : Verified GUID (67a9dd799d86c5b0240f88e2e6f1ac9a) of player #10 Sanuray
+﻿17:27:27 : Player #10 Sanuray - Legacy GUID: c3135b37065a91039c6454760f32f55b
+﻿17:31:25 : Player #11 Manuel (212.43.86.247:36073) connected
+﻿17:31:27 : Player #11 Manuel - Legacy GUID: 094a86bd87b07d368afb5fad4e2d14c4
+﻿17:31:27 : Player #11 Manuel - GUID: 1e22f64b7bec445694532862099d9be2 (unverified)
+﻿17:31:28 : Verified GUID (1e22f64b7bec445694532862099d9be2) of player #11 Manuel
+﻿17:34:15 : Player #12 RKara (92.110.3.251:3302) connected
+﻿17:34:16 : Player #12 RKara - GUID: 46696486e68876283858f8eef2f2ee19 (unverified)
+﻿17:34:17 : Verified GUID (46696486e68876283858f8eef2f2ee19) of player #12 RKara
+﻿17:34:17 : Player #12 RKara - Legacy GUID: 4252f7dfc68faaf451d8441f6722fcd0
+﻿17:34:55 : Player #6 GoosePedrilnyi disconnected
+﻿17:39:26 : RCon admin #4: (Global) Vehicles left in trader zones at restarts will be moved to the vehicle pound and unlocked
+﻿17:40:11 : Player #6 2DIE4 (84.170.125.229:3302) connected
+﻿17:40:12 : Player #6 2DIE4 - GUID: 97b8e8b63e4439b2b62c99dde2b8b8a1 (unverified)
+﻿17:40:13 : Verified GUID (97b8e8b63e4439b2b62c99dde2b8b8a1) of player #6 2DIE4
+﻿17:40:13 : Player #6 2DIE4 - Legacy GUID: e56dc54c0a6d92faa8a284d7c54bffab
+﻿17:41:53 : Player #12 RKara disconnected
+﻿17:43:37 : Player #12 Niklas (83.223.18.182:3302) connected
+﻿17:43:38 : Player #12 Niklas - GUID: 8eee542676b6cf0d5d20c3489c534e09 (unverified)
+﻿17:43:39 : Verified GUID (8eee542676b6cf0d5d20c3489c534e09) of player #12 Niklas
+﻿17:43:39 : Player #12 Niklas - Legacy GUID: 1a2092c6c1590376f7198e8d640ccea7
+﻿17:46:39 : Player #4 Jack_SNIPER disconnected
+﻿17:46:47 : Player #4 S.T.A.L.K.E.R. (194.208.78.138:3302) connected
+﻿17:46:48 : Player #4 S.T.A.L.K.E.R. - GUID: 4d0427ec68c450f26d70ea1b4d883504 (unverified)
+﻿17:46:49 : Verified GUID (4d0427ec68c450f26d70ea1b4d883504) of player #4 S.T.A.L.K.E.R.
+﻿17:46:49 : Player #4 S.T.A.L.K.E.R. - Legacy GUID: 67264d6d8ebb9b4ccec5f7871810062b
+﻿17:50:04 : Player #4 S.T.A.L.K.E.R. disconnected
+﻿17:50:26 : RCon admin #4: (Global) VIEW PLAYER STATS @ SURVIVALIST-DAYZ.COM/STATS
+﻿17:53:24 : Player #4 muci_ (95.91.213.142:59884) connected
+﻿17:53:26 : Player #4 muci_ - Legacy GUID: 569e231e1730a3b8a60f320bcb4a168c
+﻿17:53:26 : Player #4 muci_ - GUID: d67f7b01b2e2648c721bed26057cacf8 (unverified)
+﻿17:53:27 : Verified GUID (d67f7b01b2e2648c721bed26057cacf8) of player #4 muci_
+﻿17:57:05 : Player #13 RKara (92.110.3.251:3302) connected
+﻿17:57:07 : Player #13 RKara - GUID: 46696486e68876283858f8eef2f2ee19 (unverified)
+﻿17:57:07 : Verified GUID (46696486e68876283858f8eef2f2ee19) of player #13 RKara
+﻿17:57:07 : Player #13 RKara - Legacy GUID: 4252f7dfc68faaf451d8441f6722fcd0
+﻿17:58:27 : Player #4 muci_ - Legacy GUID: 569e231e1730a3b8a60f320bcb4a168c
+﻿17:59:36 : Player #6 2DIE4 disconnected
+﻿18:01:38 : Player #13 RKara disconnected
+﻿18:04:26 : RCon admin #4: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!!
+﻿18:04:59 : Player #6 RKara (92.110.3.251:3302) connected
+﻿18:05:01 : Player #6 RKara - GUID: 46696486e68876283858f8eef2f2ee19 (unverified)
+﻿18:05:01 : Verified GUID (46696486e68876283858f8eef2f2ee19) of player #6 RKara
+﻿18:05:01 : Player #6 RKara - Legacy GUID: 4252f7dfc68faaf451d8441f6722fcd0
+﻿18:09:26 : RCon admin #4: (Global) Vehicles left in trader zones at restarts will be moved to the vehicle pound and unlocked
+﻿18:09:54 : Player #2 Christmas disconnected
+﻿18:10:59 : Player #2 TAG Awfo (76.181.192.183:3302) connected
+﻿18:11:00 : Player #2 TAG Awfo - GUID: 94d78c0a5119a8f19da6d884e0c6754d (unverified)
+﻿18:11:01 : Verified GUID (94d78c0a5119a8f19da6d884e0c6754d) of player #2 TAG Awfo
+﻿18:11:01 : Player #2 TAG Awfo - Legacy GUID: 623a11a945451c1bd78ce4409539dc79
+﻿18:11:01 : Player #2 TAG Awfo disconnected
+﻿18:14:09 : Player #2 Ola (109.145.124.53:2304) connected
+﻿18:14:10 : Player #2 Ola - GUID: dea2d42442b9f7baf6c9441b3cdd4c28 (unverified)
+﻿18:14:10 : Verified GUID (dea2d42442b9f7baf6c9441b3cdd4c28) of player #2 Ola
+﻿18:14:11 : Player #2 Ola - Legacy GUID: 4fb7677ee2815a3907adb63d8d1637f4
+﻿18:19:07 : Player #13 willi (155.4.222.157:21974) connected
+﻿18:19:09 : Player #13 willi - GUID: 1dc3e93cb68bf1d2f48a795e5f1b69d1 (unverified)
+﻿18:19:09 : Verified GUID (1dc3e93cb68bf1d2f48a795e5f1b69d1) of player #13 willi
+﻿18:19:09 : Player #13 willi - Legacy GUID: 1478ca8283ca74750abdc9bda58662b2
+﻿18:20:26 : RCon admin #4: (Global) VIEW PLAYER STATS @ SURVIVALIST-DAYZ.COM/STATS
+﻿18:22:41 : Player #14 bubu (88.123.82.121:3302) connected
+﻿18:22:43 : Player #14 bubu - GUID: 553b958b271adf7be21509c288b7d9d4 (unverified)
+﻿18:22:43 : Verified GUID (553b958b271adf7be21509c288b7d9d4) of player #14 bubu
+﻿18:22:44 : Player #14 bubu - Legacy GUID: 24143050904bdd4f72e827ff773c067a
+﻿18:24:04 : Player #14 bubu (553b958b271adf7be21509c288b7d9d4) has been kicked by BattlEye: Client not responding
+﻿18:28:10 : Player #14 glynz (88.109.59.142:2304) connected
+﻿18:28:11 : Player #14 glynz - GUID: f871cb3da48061bdf51f70e3959df331 (unverified)
+﻿18:28:12 : Verified GUID (f871cb3da48061bdf51f70e3959df331) of player #14 glynz
+﻿18:28:12 : Player #14 glynz - Legacy GUID: a761e9c656b58f5acf360c81eb5391ef
+﻿18:28:14 : Player #14 glynz disconnected
+﻿18:33:19 : Player #14 a-Fe (109.145.124.53:1025) connected
+﻿18:33:21 : Player #14 a-Fe - GUID: d5a7a204223d483926d292f4255aa428 (unverified)
+﻿18:33:21 : Verified GUID (d5a7a204223d483926d292f4255aa428) of player #14 a-Fe
+﻿18:33:22 : Player #14 a-Fe - Legacy GUID: 81e5f276acb3bd8401df80e28c6291a7
+﻿18:33:48 : Player #14 a-Fe disconnected
+﻿18:34:26 : RCon admin #4: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!!
+﻿18:34:39 : Player #14 a-Fe (109.145.124.53:1025) connected
+﻿18:34:40 : Player #14 a-Fe - GUID: d5a7a204223d483926d292f4255aa428 (unverified)
+﻿18:34:41 : Verified GUID (d5a7a204223d483926d292f4255aa428) of player #14 a-Fe
+﻿18:34:41 : Player #14 a-Fe - Legacy GUID: 81e5f276acb3bd8401df80e28c6291a7
+﻿18:37:19 : Player #15 bubu (88.123.82.121:3302) connected
+﻿18:37:20 : Player #15 bubu - GUID: 553b958b271adf7be21509c288b7d9d4 (unverified)
+﻿18:37:21 : Verified GUID (553b958b271adf7be21509c288b7d9d4) of player #15 bubu
+﻿18:37:21 : Player #15 bubu - Legacy GUID: 24143050904bdd4f72e827ff773c067a
+﻿18:39:26 : RCon admin #4: (Global) Vehicles left in trader zones at restarts will be moved to the vehicle pound and unlocked
+﻿18:50:26 : RCon admin #4: (Global) VIEW PLAYER STATS @ SURVIVALIST-DAYZ.COM/STATS
+﻿18:57:01 : Player #16 Sprutmuskel (83.252.5.173:3302) connected
+﻿18:57:02 : Player #16 Sprutmuskel - GUID: d08fe86f64eab688fec1e52ddb591db5 (unverified)
+﻿18:57:03 : Verified GUID (d08fe86f64eab688fec1e52ddb591db5) of player #16 Sprutmuskel
+﻿18:57:03 : Player #16 Sprutmuskel - Legacy GUID: 7f58b047f7fcdcc6c31b37aa435878b6
+﻿19:04:26 : RCon admin #4: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!!
+﻿19:06:17 : RCon admin #5 (109.145.124.53:49359) logged in
+﻿19:09:03 : Player #17 Odlkanack (87.182.85.224:3302) connected
+﻿19:09:04 : Player #17 Odlkanack - GUID: c722e5c9efc4161e91f77cf7288d2f53 (unverified)
+﻿19:09:05 : Player #17 Odlkanack - Legacy GUID: 4daa1333508ac7a9aa12d5e082e1f3fd
+﻿19:09:05 : Verified GUID (c722e5c9efc4161e91f77cf7288d2f53) of player #17 Odlkanack
+﻿19:09:18 : Player #16 Sprutmuskel (d08fe86f64eab688fec1e52ddb591db5) has been kicked by BattlEye: Client not responding
+﻿19:09:26 : RCon admin #4: (Global) Vehicles left in trader zones at restarts will be moved to the vehicle pound and unlocked
+﻿19:09:43 : Player #16 Bonez (95.118.130.143:2304) connected
+﻿19:09:46 : Player #16 Bonez - GUID: 0ee0fba2b189f2adeac12a9c8f2cb6d4 (unverified)
+﻿19:09:47 : Player #16 Bonez - Legacy GUID: d7caee3f959bfc096aec6874c918ab70
+﻿19:09:47 : Verified GUID (0ee0fba2b189f2adeac12a9c8f2cb6d4) of player #16 Bonez
+﻿19:09:47 : Player #16 Bonez disconnected
+﻿19:12:07 : Player #16 Sprutmuskel (83.252.5.173:3302) connected
+﻿19:12:08 : Player #16 Sprutmuskel - GUID: d08fe86f64eab688fec1e52ddb591db5 (unverified)
+﻿19:12:08 : Verified GUID (d08fe86f64eab688fec1e52ddb591db5) of player #16 Sprutmuskel
+﻿19:12:09 : Player #16 Sprutmuskel - Legacy GUID: 7f58b047f7fcdcc6c31b37aa435878b6
+﻿19:15:03 : Player #17 Odlkanack disconnected
+﻿19:18:10 : Player #17 JohnnyLube (86.129.129.189:3302) connected
+﻿19:18:11 : Player #17 JohnnyLube - GUID: fc45c7cae03d5670a3f8ebd4245c8455 (unverified)
+﻿19:18:11 : Verified GUID (fc45c7cae03d5670a3f8ebd4245c8455) of player #17 JohnnyLube
+﻿19:18:12 : Player #17 JohnnyLube - Legacy GUID: e6d7637264126ffa9241b2b89094befd
+﻿19:18:12 : Player #17 JohnnyLube disconnected
+﻿19:19:01 : Player #16 Sprutmuskel (d08fe86f64eab688fec1e52ddb591db5) has been kicked by BattlEye: Ping too high (1469)
+﻿19:20:26 : RCon admin #4: (Global) VIEW PLAYER STATS @ SURVIVALIST-DAYZ.COM/STATS
+﻿19:22:02 : Player #6 RKara disconnected
+﻿19:22:48 : Player #4 muci_ disconnected
+﻿19:26:59 : Player #13 willi disconnected
+﻿19:27:20 : Player #4 willi (155.4.222.157:21974) connected
+﻿19:27:21 : Player #4 willi - GUID: 1dc3e93cb68bf1d2f48a795e5f1b69d1 (unverified)
+﻿19:27:22 : Verified GUID (1dc3e93cb68bf1d2f48a795e5f1b69d1) of player #4 willi
+﻿19:27:22 : Player #4 willi - Legacy GUID: 1478ca8283ca74750abdc9bda58662b2
+﻿19:34:26 : RCon admin #4: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!!
+﻿19:39:26 : RCon admin #4: (Global) Vehicles left in trader zones at restarts will be moved to the vehicle pound and unlocked
+﻿19:40:58 : Player #1 Jesse disconnected
+﻿19:41:18 : Player #1 Palmer (45.20.137.147:3302) connected
+﻿19:41:20 : Player #1 Palmer - GUID: 6006e7ec8a902214be43bb1ca70d1b1b (unverified)
+﻿19:41:20 : Player #1 Palmer - Legacy GUID: 9e0e64331b881aa54ac69004b1c55207
+﻿19:41:20 : Verified GUID (6006e7ec8a902214be43bb1ca70d1b1b) of player #1 Palmer
+﻿19:41:24 : Player #1 Palmer disconnected
+﻿19:43:16 : Player #3 Marco disconnected
+﻿19:45:26 : RCon admin #4: (Global) Server will restart in 10 minutes
+﻿19:48:42 : Player #0 Kezzie disconnected
+﻿19:49:50 : Player #0 2DIE4 (84.170.125.229:3302) connected
+﻿19:49:51 : Player #0 2DIE4 - GUID: 97b8e8b63e4439b2b62c99dde2b8b8a1 (unverified)
+﻿19:49:52 : Verified GUID (97b8e8b63e4439b2b62c99dde2b8b8a1) of player #0 2DIE4
+﻿19:49:52 : Player #0 2DIE4 - Legacy GUID: e56dc54c0a6d92faa8a284d7c54bffab
+﻿19:50:26 : RCon admin #4: (Global) VIEW PLAYER STATS @ SURVIVALIST-DAYZ.COM/STATS
+﻿19:50:27 : RCon admin #4: (Global) Server will restart in 5 minutes: Prepare to Logout
+﻿19:50:27 : Player #4 willi disconnected
+﻿19:50:30 : Player #12 Niklas disconnected
+﻿19:51:48 : Player #1 JamesDaGamer (45.20.137.147:3302) connected
+﻿19:51:49 : Player #1 JamesDaGamer - GUID: 6006e7ec8a902214be43bb1ca70d1b1b (unverified)
+﻿19:51:50 : Player #1 JamesDaGamer - Legacy GUID: 9e0e64331b881aa54ac69004b1c55207
+﻿19:51:50 : Verified GUID (6006e7ec8a902214be43bb1ca70d1b1b) of player #1 JamesDaGamer
+﻿19:51:59 : Player #1 JamesDaGamer disconnected
+﻿19:52:26 : RCon admin #3 (109.145.124.53:56830) logged in
+﻿19:52:49 : Player #9 Twiggy disconnected
+﻿19:53:26 : RCon admin #4: (Global) The Server is about to restart. LOG OUT NOW OR YOUR GEAR MAY BE LOST!!
+﻿19:53:38 : Player #8 Simon disconnected
+﻿19:53:49 : Player #11 Manuel disconnected
+﻿19:53:50 : Player #2 Ola disconnected
+﻿19:54:00 : Player #14 a-Fe disconnected
+﻿19:54:34 : Player #7 ORA disconnected
+﻿19:54:51 : Player #10 Sanuray disconnected
+﻿19:54:56 : Player #0 2DIE4 disconnected
+﻿19:54:56 : RCon admin #4: (Global) YOU SHOULD BE LOGGED OUT BY NOW! IF YOU ARENT YOU WILL BE AUTO KICKED AND YOUR GEAR MAY BE LOST! NO REFUNDS!
+﻿19:56:00 : Rcon client logging in
+﻿19:56:00 : RCon admin #3 (78.31.67.100:60083) logged in
+﻿19:56:09 : RCon admin #4 (109.145.124.53:61165) logged in
+﻿19:56:38 : Player #2 bubu (88.123.82.121:3302) connected
+﻿19:56:39 : Player #2 bubu - GUID: 553b958b271adf7be21509c288b7d9d4 (unverified)
+﻿19:56:40 : Verified GUID (553b958b271adf7be21509c288b7d9d4) of player #2 bubu
+﻿19:56:40 : Player #2 bubu - Legacy GUID: 24143050904bdd4f72e827ff773c067a
+﻿19:57:02 : Player #3 Sanuray (37.113.42.154:3302) connected
+﻿19:57:03 : Player #3 Sanuray - GUID: 67a9dd799d86c5b0240f88e2e6f1ac9a (unverified)
+﻿19:57:03 : Verified GUID (67a9dd799d86c5b0240f88e2e6f1ac9a) of player #3 Sanuray
+﻿19:57:04 : Player #3 Sanuray - Legacy GUID: c3135b37065a91039c6454760f32f55b
+﻿19:57:16 : Player #4 FedteG. (5.186.124.56:3302) connected
+﻿19:57:17 : Player #4 FedteG. - GUID: 73e5525844b02652fb349ccc5e6250cf (unverified)
+﻿19:57:17 : Verified GUID (73e5525844b02652fb349ccc5e6250cf) of player #4 FedteG.
+﻿19:57:18 : Player #4 FedteG. - Legacy GUID: a48261071e9fbcaf10d5f6940df437d3
+﻿19:59:11 : Player #5 Simon (93.245.2.140:3302) connected
+﻿19:59:13 : Player #5 Simon - GUID: dfeb6c69088cd206750d24b99742e00c (unverified)
+﻿19:59:13 : Verified GUID (dfeb6c69088cd206750d24b99742e00c) of player #5 Simon
+﻿19:59:13 : Player #5 Simon - Legacy GUID: a5782b6275ca909dc4f1469840070048
+﻿20:00:02 : Player #6 a-Fe (109.145.124.53:1025) connected
+﻿20:00:03 : Player #6 a-Fe - GUID: d5a7a204223d483926d292f4255aa428 (unverified)
+﻿20:00:03 : Verified GUID (d5a7a204223d483926d292f4255aa428) of player #6 a-Fe
+﻿20:00:04 : Player #6 a-Fe - Legacy GUID: 81e5f276acb3bd8401df80e28c6291a7
+﻿20:00:53 : Player #7 Manuel (212.43.86.247:44813) connected
+﻿20:00:55 : Player #7 Manuel - GUID: 1e22f64b7bec445694532862099d9be2 (unverified)
+﻿20:00:55 : Verified GUID (1e22f64b7bec445694532862099d9be2) of player #7 Manuel
+﻿20:00:55 : Player #7 Manuel - Legacy GUID: 094a86bd87b07d368afb5fad4e2d14c4
+﻿20:01:54 : RCon admin #5 (109.145.124.53:57466) logged in
+﻿20:02:42 : Player #8 Ola (109.145.124.53:2304) connected
+﻿20:02:43 : Player #8 Ola - GUID: dea2d42442b9f7baf6c9441b3cdd4c28 (unverified)
+﻿20:02:44 : Verified GUID (dea2d42442b9f7baf6c9441b3cdd4c28) of player #8 Ola
+﻿20:02:44 : Player #8 Ola - Legacy GUID: 4fb7677ee2815a3907adb63d8d1637f4
+﻿20:05:09 : RCon admin #1 (109.145.124.53:55117) logged in
+﻿20:05:58 : RCon admin #5 (109.145.124.53:49881) logged in
+﻿20:10:00 : RCon admin #3: (Global) Vehicles left in trader zones at restarts will be moved to the vehicle pound and unlocked
+﻿20:13:30 : Player #9 willi (155.4.222.157:21974) connected
+﻿20:13:32 : Player #9 willi - GUID: 1dc3e93cb68bf1d2f48a795e5f1b69d1 (unverified)
+﻿20:13:32 : Player #9 willi - Legacy GUID: 1478ca8283ca74750abdc9bda58662b2
+﻿20:13:32 : Verified GUID (1dc3e93cb68bf1d2f48a795e5f1b69d1) of player #9 willi
+﻿20:15:11 : Player #10 anv?ndaren (83.223.26.226:3302) connected
+﻿20:15:12 : Player #10 anv?ndaren - GUID: a59e7cc11255651a36b8eea66ac2c09b (unverified)
+﻿20:15:13 : Verified GUID (a59e7cc11255651a36b8eea66ac2c09b) of player #10 anv?ndaren
+﻿20:15:13 : Player #10 anv?ndaren - Legacy GUID: 14836d75d453d2467591b61a3eaee09e
+﻿20:16:19 : Player #3 Sanuray (67a9dd799d86c5b0240f88e2e6f1ac9a) has been kicked by BattlEye: Client not responding
+﻿20:18:29 : Player #3 Niklas (83.223.18.182:3302) connected
+﻿20:18:31 : Player #3 Niklas - GUID: 8eee542676b6cf0d5d20c3489c534e09 (unverified)
+﻿20:18:31 : Verified GUID (8eee542676b6cf0d5d20c3489c534e09) of player #3 Niklas
+﻿20:18:32 : Player #3 Niklas - Legacy GUID: 1a2092c6c1590376f7198e8d640ccea7
+﻿20:21:00 : RCon admin #3: (Global) VIEW PLAYER STATS @ SURVIVALIST-DAYZ.COM/STATS
+﻿20:26:03 : Player #11 Chedaki (5.80.235.19:3302) connected
+﻿20:26:05 : Player #11 Chedaki disconnected
+﻿20:27:05 : Player #11 Sanuray (37.113.42.154:3302) connected
+﻿20:27:06 : Player #11 Sanuray - GUID: 67a9dd799d86c5b0240f88e2e6f1ac9a (unverified)
+﻿20:27:07 : Player #11 Sanuray - Legacy GUID: c3135b37065a91039c6454760f32f55b
+﻿20:27:07 : Verified GUID (67a9dd799d86c5b0240f88e2e6f1ac9a) of player #11 Sanuray
+﻿20:27:49 : Player #12 Chedaki (5.80.235.19:3302) connected
+﻿20:27:51 : Player #12 Chedaki disconnected
+﻿20:29:28 : Player #12 Chedaki (5.80.235.19:3302) connected
+﻿20:29:30 : Player #12 Chedaki disconnected
+﻿20:32:30 : Player #12 Odlkanack (87.182.85.224:3302) connected
+﻿20:32:32 : Player #12 Odlkanack - GUID: c722e5c9efc4161e91f77cf7288d2f53 (unverified)
+﻿20:32:32 : Player #12 Odlkanack - Legacy GUID: 4daa1333508ac7a9aa12d5e082e1f3fd
+﻿20:32:32 : Verified GUID (c722e5c9efc4161e91f77cf7288d2f53) of player #12 Odlkanack
+﻿20:35:00 : RCon admin #3: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!!
+﻿20:36:01 : RCon admin #2: (Global) [SierraDZ] English only in sidechat pls.
+﻿20:37:05 : Player #13 Tobias Wendelboe (85.27.137.164:3302) connected
+﻿20:37:06 : Player #13 Tobias Wendelboe - GUID: 6f218fcae146611f0137af88dc9d0a1c (unverified)
+﻿20:37:07 : Verified GUID (6f218fcae146611f0137af88dc9d0a1c) of player #13 Tobias Wendelboe
+﻿20:37:07 : Player #13 Tobias Wendelboe - Legacy GUID: c1261e767ff20ceb3a845f9c5145f3ea
+﻿20:40:00 : RCon admin #3: (Global) Vehicles left in trader zones at restarts will be moved to the vehicle pound and unlocked
+﻿20:44:24 : Player #14 Lewis (81.152.147.115:2304) connected
+﻿20:44:25 : Player #14 Lewis - GUID: 9a5e9b1cb5365e10c0b53e8570d01208 (unverified)
+﻿20:44:26 : Verified GUID (9a5e9b1cb5365e10c0b53e8570d01208) of player #14 Lewis
+﻿20:44:26 : Player #14 Lewis - Legacy GUID: 623fcd62a97253f3c2bb6ee5049c1aed
+﻿20:45:25 : Player #13 Tobias Wendelboe disconnected
+﻿20:49:27 : Player #13 JamesDaGamer (45.20.137.147:3302) connected
+﻿20:49:30 : Player #13 JamesDaGamer - Legacy GUID: 9e0e64331b881aa54ac69004b1c55207
+﻿20:49:30 : Player #13 JamesDaGamer - GUID: 6006e7ec8a902214be43bb1ca70d1b1b (unverified)
+﻿20:49:31 : Verified GUID (6006e7ec8a902214be43bb1ca70d1b1b) of player #13 JamesDaGamer
+﻿20:49:31 : Player #13 JamesDaGamer disconnected
+﻿20:51:00 : RCon admin #3: (Global) VIEW PLAYER STATS @ SURVIVALIST-DAYZ.COM/STATS
+﻿20:54:09 : Player #13 Sprutmuskel (83.252.5.173:3302) connected
+﻿20:54:10 : Player #13 Sprutmuskel - GUID: d08fe86f64eab688fec1e52ddb591db5 (unverified)
+﻿20:54:11 : Verified GUID (d08fe86f64eab688fec1e52ddb591db5) of player #13 Sprutmuskel
+﻿20:54:11 : Player #13 Sprutmuskel - Legacy GUID: 7f58b047f7fcdcc6c31b37aa435878b6
+﻿20:59:44 : Player #6 a-Fe disconnected
+﻿21:00:07 : Player #8 Ola disconnected
+﻿21:03:45 : RCon admin #0 (109.145.124.53:59715) logged in
+﻿21:03:51 : RCon admin #1 (109.145.124.53:52079) logged in
+﻿21:03:54 : RCon admin #2 (109.145.124.53:51617) logged in
+﻿21:05:00 : RCon admin #3: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!!
+﻿21:09:51 : Player #13 Sprutmuskel (d08fe86f64eab688fec1e52ddb591db5) has been kicked by BattlEye: Ping too high (1719)
+﻿21:10:00 : RCon admin #3: (Global) Vehicles left in trader zones at restarts will be moved to the vehicle pound and unlocked
+﻿21:11:04 : Player #6 JamesDaGamer (45.20.137.147:3302) connected
+﻿21:11:06 : Player #6 JamesDaGamer - GUID: 6006e7ec8a902214be43bb1ca70d1b1b (unverified)
+﻿21:11:06 : Player #6 JamesDaGamer - Legacy GUID: 9e0e64331b881aa54ac69004b1c55207
+﻿21:11:07 : Verified GUID (6006e7ec8a902214be43bb1ca70d1b1b) of player #6 JamesDaGamer
+﻿21:11:23 : Player #6 JamesDaGamer disconnected
+﻿21:15:17 : Player #6 JamesDaGamer (45.20.137.147:3302) connected
+﻿21:15:19 : Player #6 JamesDaGamer - GUID: 6006e7ec8a902214be43bb1ca70d1b1b (unverified)
+﻿21:15:19 : Player #6 JamesDaGamer - Legacy GUID: 9e0e64331b881aa54ac69004b1c55207
+﻿21:15:19 : Verified GUID (6006e7ec8a902214be43bb1ca70d1b1b) of player #6 JamesDaGamer
+﻿21:15:58 : Player #6 JamesDaGamer disconnected
+﻿21:21:00 : RCon admin #3: (Global) VIEW PLAYER STATS @ SURVIVALIST-DAYZ.COM/STATS
+﻿21:21:25 : Player #1 2DIE4 disconnected
+﻿21:25:25 : Player #11 Sanuray (67a9dd799d86c5b0240f88e2e6f1ac9a) has been kicked by BattlEye: Client not responding
+﻿21:27:23 : Player #4 FedteG. disconnected
+﻿21:30:18 : Player #1 OdlBrodler (77.24.112.159:3302) connected
+﻿21:30:19 : Player #1 OdlBrodler - GUID: 9e43e18a7404bcc79c32e9563966fab9 (unverified)
+﻿21:30:20 : Verified GUID (9e43e18a7404bcc79c32e9563966fab9) of player #1 OdlBrodler
+﻿21:30:20 : Player #1 OdlBrodler - Legacy GUID: d79ff41e80c20f18e07536ba8b50e5ab
+﻿21:33:44 : Player #4 phantom009 (177.228.114.12:4712) connected
+﻿21:33:46 : Player #4 phantom009 - GUID: 2a1f6592bdc3b3aad6937963ebf26c01 (unverified)
+﻿21:33:46 : Verified GUID (2a1f6592bdc3b3aad6937963ebf26c01) of player #4 phantom009
+﻿21:33:46 : Player #4 phantom009 - Legacy GUID: af8d0605cafb1904ac18792c8c9c784f
+﻿21:34:08 : Player #6 Sanuray (37.113.42.154:3302) connected
+﻿21:34:10 : Player #6 Sanuray - GUID: 67a9dd799d86c5b0240f88e2e6f1ac9a (unverified)
+﻿21:34:10 : Verified GUID (67a9dd799d86c5b0240f88e2e6f1ac9a) of player #6 Sanuray
+﻿21:34:10 : Player #6 Sanuray - Legacy GUID: c3135b37065a91039c6454760f32f55b
+﻿21:35:00 : RCon admin #3: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!!
+﻿21:35:52 : Player #4 phantom009 (2a1f6592bdc3b3aad6937963ebf26c01) has been kicked by BattlEye: Client not responding
+﻿21:36:11 : Player #4 Copperhead (84.143.202.51:3302) connected
+﻿21:36:12 : Player #4 Copperhead - GUID: 450154416e6a38ba753e5a2b827dc0de (unverified)
+﻿21:36:13 : Verified GUID (450154416e6a38ba753e5a2b827dc0de) of player #4 Copperhead
+﻿21:36:13 : Player #4 Copperhead - Legacy GUID: b4dd58f7116df244401a84f480ef3202
+﻿21:37:15 : Player #3 Niklas disconnected
+﻿21:37:40 : Player #3 phantom009 (177.228.114.12:4712) connected
+﻿21:37:41 : Player #3 phantom009 - GUID: 2a1f6592bdc3b3aad6937963ebf26c01 (unverified)
+﻿21:37:42 : Verified GUID (2a1f6592bdc3b3aad6937963ebf26c01) of player #3 phantom009
+﻿21:37:42 : Player #3 phantom009 - Legacy GUID: af8d0605cafb1904ac18792c8c9c784f
+﻿21:38:03 : Player #4 Copperhead (450154416e6a38ba753e5a2b827dc0de) has been kicked by BattlEye: Client not responding
+﻿21:38:54 : Player #4 SMEKALKA (93.84.202.39:3402) connected
+﻿21:38:55 : Player #4 SMEKALKA - GUID: 71a3b37afadc281356fc7188ba6d6b73 (unverified)
+﻿21:38:56 : Verified GUID (71a3b37afadc281356fc7188ba6d6b73) of player #4 SMEKALKA
+﻿21:38:56 : Player #4 SMEKALKA - Legacy GUID: afca70298808b11a4ea6fa9240800bf4
+﻿21:38:57 : Player #4 SMEKALKA disconnected
+﻿21:39:48 : Player #3 phantom009 (2a1f6592bdc3b3aad6937963ebf26c01) has been kicked by BattlEye: Client not responding
+﻿21:40:00 : RCon admin #3: (Global) Vehicles left in trader zones at restarts will be moved to the vehicle pound and unlocked
+﻿21:41:08 : Player #0 ORA disconnected
+﻿21:41:36 : Player #0 phantom009 (177.228.114.12:4712) connected
+﻿21:41:37 : Player #3 Copperhead (84.143.202.51:3302) connected
+﻿21:41:37 : Player #0 phantom009 - GUID: 2a1f6592bdc3b3aad6937963ebf26c01 (unverified)
+﻿21:41:38 : Verified GUID (2a1f6592bdc3b3aad6937963ebf26c01) of player #0 phantom009
+﻿21:41:38 : Player #3 Copperhead - GUID: 450154416e6a38ba753e5a2b827dc0de (unverified)
+﻿21:41:38 : Player #0 phantom009 - Legacy GUID: af8d0605cafb1904ac18792c8c9c784f
+﻿21:41:38 : Verified GUID (450154416e6a38ba753e5a2b827dc0de) of player #3 Copperhead
+﻿21:41:39 : Player #3 Copperhead - Legacy GUID: b4dd58f7116df244401a84f480ef3202
+﻿21:41:55 : Player #6 Sanuray disconnected
+﻿21:43:34 : Player #0 phantom009 (2a1f6592bdc3b3aad6937963ebf26c01) has been kicked by BattlEye: Client not responding
+﻿21:44:08 : Player #7 Manuel disconnected
+﻿21:44:23 : Player #5 Simon disconnected
+﻿21:47:10 : Player #0 Fernando (92.177.106.122:3302) connected
+﻿21:47:13 : Player #0 Fernando - GUID: a751f8c9eede1cb7326b331de0db98fb (unverified)
+﻿21:47:14 : Verified GUID (a751f8c9eede1cb7326b331de0db98fb) of player #0 Fernando
+﻿21:47:14 : Player #0 Fernando - Legacy GUID: 56c2b1a061fc8b28973cc36f8b3aca0d
+﻿21:47:38 : Player #4 phantom009 (177.228.114.12:16604) connected
+﻿21:47:40 : Player #4 phantom009 - GUID: 2a1f6592bdc3b3aad6937963ebf26c01 (unverified)
+﻿21:47:40 : Verified GUID (2a1f6592bdc3b3aad6937963ebf26c01) of player #4 phantom009
+﻿21:47:40 : Player #4 phantom009 - Legacy GUID: af8d0605cafb1904ac18792c8c9c784f
+﻿21:48:26 : Player #0 Fernando disconnected
+﻿21:48:54 : Player #0 Fernando (92.177.106.122:3302) connected
+﻿21:48:57 : Player #0 Fernando - GUID: a751f8c9eede1cb7326b331de0db98fb (unverified)
+﻿21:48:58 : Verified GUID (a751f8c9eede1cb7326b331de0db98fb) of player #0 Fernando
+﻿21:48:58 : Player #0 Fernando - Legacy GUID: 56c2b1a061fc8b28973cc36f8b3aca0d
+﻿21:51:00 : RCon admin #3: (Global) VIEW PLAYER STATS @ SURVIVALIST-DAYZ.COM/STATS
+﻿21:59:52 : Player #3 Copperhead disconnected
+﻿22:00:35 : Player #9 willi disconnected
+﻿22:02:23 : Player #10 anv?ndaren disconnected
+﻿22:04:44 : Player #3 BaffledBambi (86.160.6.130:3302) connected
+﻿22:04:45 : Player #3 BaffledBambi - GUID: cfbbbdf74cca620aa69095163448174b (unverified)
+﻿22:04:45 : Verified GUID (cfbbbdf74cca620aa69095163448174b) of player #3 BaffledBambi
+﻿22:04:46 : Player #3 BaffledBambi - Legacy GUID: 5226ab94922d4d986dbe9869af8a5a34
+﻿22:05:00 : RCon admin #3: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!!
+﻿22:06:06 : RCon admin #6 (109.145.124.53:56217) logged in
+﻿22:09:07 : Player #2 bubu disconnected
+﻿22:10:00 : RCon admin #3: (Global) Vehicles left in trader zones at restarts will be moved to the vehicle pound and unlocked
+﻿22:15:58 : Player #2 yurab (37.78.48.107:3302) connected
+﻿22:15:59 : Player #2 yurab - GUID: 03db2335c3c0b3c14efebda49f866ec7 (unverified)
+﻿22:15:59 : Verified GUID (03db2335c3c0b3c14efebda49f866ec7) of player #2 yurab
+﻿22:16:00 : Player #2 yurab - Legacy GUID: 681735ddfc7db678ec3143639c8b2e25
+﻿22:16:00 : RCon admin #3: (Global) Server will restart in 10 minutes
+﻿22:16:23 : Player #0 Fernando disconnected
+﻿22:17:44 : Player #0 Artem (46.29.15.100:3302) connected
+﻿22:17:47 : Player #0 Artem - GUID: 51e1758e385753cd6334002214acf535 (unverified)
+﻿22:17:47 : Verified GUID (51e1758e385753cd6334002214acf535) of player #0 Artem
+﻿22:17:49 : Player #0 Artem - Legacy GUID: a095873e4edc9841462226fec9a3e00a
+﻿22:17:51 : Player #0 Artem disconnected
+﻿22:21:00 : RCon admin #3: (Global) VIEW PLAYER STATS @ SURVIVALIST-DAYZ.COM/STATS
+﻿22:21:01 : RCon admin #3: (Global) Server will restart in 5 minutes: Prepare to Logout
+﻿22:21:03 : Player #1 OdlBrodler disconnected
+﻿22:21:09 : Player #0 Jesse (145.133.183.236:3302) connected
+﻿22:21:10 : Player #0 Jesse - GUID: 1f7a31a6c97ae9822a9e4dcb3de0e9a0 (unverified)
+﻿22:21:10 : Verified GUID (1f7a31a6c97ae9822a9e4dcb3de0e9a0) of player #0 Jesse
+﻿22:21:11 : Player #0 Jesse - Legacy GUID: aa29d15133c89f949e71190836ad19cb
+﻿22:21:12 : Player #12 Odlkanack disconnected
+﻿22:22:30 : Player #1 Artem (46.29.15.100:3302) connected
+﻿22:22:32 : Player #1 Artem - GUID: 51e1758e385753cd6334002214acf535 (unverified)
+﻿22:22:32 : Verified GUID (51e1758e385753cd6334002214acf535) of player #1 Artem
+﻿22:22:32 : Player #1 Artem - Legacy GUID: a095873e4edc9841462226fec9a3e00a
+﻿22:22:36 : Player #1 Artem disconnected
+﻿22:22:46 : Player #4 phantom009 disconnected
+﻿22:23:48 : Player #14 Lewis disconnected
+﻿22:23:53 : Player #2 yurab disconnected
+﻿22:24:00 : RCon admin #3: (Global) The Server is about to restart. LOG OUT NOW OR YOUR GEAR MAY BE LOST!!
+﻿22:24:16 : Player #3 BaffledBambi disconnected
+﻿22:25:30 : RCon admin #3: (Global) YOU SHOULD BE LOGGED OUT BY NOW! IF YOU ARENT YOU WILL BE AUTO KICKED AND YOUR GEAR MAY BE LOST! NO REFUNDS!
+﻿22:26:34 : Rcon client logging in
+﻿22:26:34 : RCon admin #5 (78.31.67.100:51310) logged in
+﻿22:26:43 : Player #0 Marco (62.194.208.30:64007) connected
+﻿22:26:44 : Player #0 Marco - GUID: 14f47e6fd70fb2a0c0d46684b20a0ac3 (unverified)
+﻿22:26:44 : Verified GUID (14f47e6fd70fb2a0c0d46684b20a0ac3) of player #0 Marco
+﻿22:26:45 : Player #0 Marco - Legacy GUID: bdf0bc664fdc6b39f592a3407474db11
+﻿22:27:17 : Player #1 Lewis (81.152.147.115:2304) connected
+﻿22:27:19 : Player #1 Lewis - GUID: 9a5e9b1cb5365e10c0b53e8570d01208 (unverified)
+﻿22:27:19 : Verified GUID (9a5e9b1cb5365e10c0b53e8570d01208) of player #1 Lewis
+﻿22:27:19 : Player #1 Lewis - Legacy GUID: 623fcd62a97253f3c2bb6ee5049c1aed
+﻿22:27:25 : Player #2 Fernando (92.177.106.122:3302) connected
+﻿22:27:27 : Player #2 Fernando - GUID: a751f8c9eede1cb7326b331de0db98fb (unverified)
+﻿22:27:27 : Player #2 Fernando - Legacy GUID: 56c2b1a061fc8b28973cc36f8b3aca0d
+﻿22:27:27 : Verified GUID (a751f8c9eede1cb7326b331de0db98fb) of player #2 Fernando
+﻿22:27:38 : Player #3 Jesse (145.133.183.236:3302) connected
+﻿22:27:39 : Player #3 Jesse - GUID: 1f7a31a6c97ae9822a9e4dcb3de0e9a0 (unverified)
+﻿22:27:40 : Verified GUID (1f7a31a6c97ae9822a9e4dcb3de0e9a0) of player #3 Jesse
+﻿22:27:40 : Player #3 Jesse - Legacy GUID: aa29d15133c89f949e71190836ad19cb
+﻿22:29:19 : Player #4 Odlkanack (87.182.85.224:3302) connected
+﻿22:29:20 : Player #4 Odlkanack - GUID: c722e5c9efc4161e91f77cf7288d2f53 (unverified)
+﻿22:29:20 : Verified GUID (c722e5c9efc4161e91f77cf7288d2f53) of player #4 Odlkanack
+﻿22:29:21 : Player #4 Odlkanack - Legacy GUID: 4daa1333508ac7a9aa12d5e082e1f3fd
+﻿22:30:05 : Player #5 Paulo (2.155.105.154:3302) connected
+﻿22:30:06 : Player #5 Paulo - GUID: 3efa768ab9c0f847dde1c0957ee30bf2 (unverified)
+﻿22:30:07 : Verified GUID (3efa768ab9c0f847dde1c0957ee30bf2) of player #5 Paulo
+﻿22:30:07 : Player #5 Paulo - Legacy GUID: f6502b9669664071ce626a0be3524649
+﻿22:30:47 : Player #6 LWB [SD] (109.145.124.53:1024) connected
+﻿22:30:48 : Player #6 LWB [SD] - GUID: bc07c7c39c76cf95a7a434d686d9df66 (unverified)
+﻿22:30:48 : Verified GUID (bc07c7c39c76cf95a7a434d686d9df66) of player #6 LWB [SD]
+﻿22:30:49 : Player #6 LWB [SD] - Legacy GUID: 977383e15b6c706cac44ca953ba440c7
+﻿22:33:07 : Player #7 OdlBrodler (77.24.112.159:3302) connected
+﻿22:33:11 : Player #7 OdlBrodler - Legacy GUID: d79ff41e80c20f18e07536ba8b50e5ab
+﻿22:33:11 : Player #7 OdlBrodler - GUID: 9e43e18a7404bcc79c32e9563966fab9 (unverified)
+﻿22:33:12 : Verified GUID (9e43e18a7404bcc79c32e9563966fab9) of player #7 OdlBrodler
+﻿22:40:34 : RCon admin #5: (Global) Vehicles left in trader zones at restarts will be moved to the vehicle pound and unlocked
+﻿22:40:35 : Player #8 ethan (24.255.147.232:3302) connected
+﻿22:40:37 : Player #8 ethan - GUID: e93e4cfa14c4c2874801a4a8ce5816dc (unverified)
+﻿22:40:37 : Player #8 ethan - Legacy GUID: ef579bd58e6362b619c36b85b05dd793
+﻿22:40:37 : Verified GUID (e93e4cfa14c4c2874801a4a8ce5816dc) of player #8 ethan
+﻿22:43:07 : Player #8 ethan - Legacy GUID: ef579bd58e6362b619c36b85b05dd793
+﻿22:43:33 : Player #9 Chedaki (5.80.235.19:3302) connected
+﻿22:43:34 : Player #9 Chedaki disconnected
+﻿22:49:35 : Player #9 Chedaki (5.80.235.19:3302) connected
+﻿22:49:37 : Player #9 Chedaki disconnected
+﻿22:51:34 : RCon admin #5: (Global) VIEW PLAYER STATS @ SURVIVALIST-DAYZ.COM/STATS
+﻿23:05:34 : RCon admin #5: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!!
+﻿23:10:34 : RCon admin #5: (Global) Vehicles left in trader zones at restarts will be moved to the vehicle pound and unlocked
+﻿23:10:59 : Player #1 Lewis disconnected
+﻿23:12:27 : Player #5 Paulo disconnected
+﻿23:19:48 : Player #1 LuciFer (86.184.75.215:3302) connected
+﻿23:19:49 : Player #1 LuciFer - GUID: bc52ea7bf6d0a26e7eb663826c9e0a82 (unverified)
+﻿23:19:49 : Verified GUID (bc52ea7bf6d0a26e7eb663826c9e0a82) of player #1 LuciFer
+﻿23:19:50 : Player #1 LuciFer - Legacy GUID: 0d5e8e1dbc529eca84cea21f5179977e
+﻿23:21:34 : RCon admin #5: (Global) VIEW PLAYER STATS @ SURVIVALIST-DAYZ.COM/STATS
+﻿23:27:08 : Player #5 Cyril (184.175.57.68:3302) connected
+﻿23:27:09 : Player #5 Cyril - GUID: 3c0b6cc0875b07e6da5f0e3d6f187701 (unverified)
+﻿23:27:10 : Player #5 Cyril - Legacy GUID: 7d971092e7475032f8da984bca76e4b5
+﻿23:27:20 : Verified GUID (3c0b6cc0875b07e6da5f0e3d6f187701) of player #5 Cyril
+﻿23:30:54 : Player #9 anv?ndaren (83.223.26.226:3302) connected
+﻿23:30:55 : Player #9 anv?ndaren - GUID: a59e7cc11255651a36b8eea66ac2c09b (unverified)
+﻿23:30:56 : Player #9 anv?ndaren - Legacy GUID: 14836d75d453d2467591b61a3eaee09e
+﻿23:30:56 : Verified GUID (a59e7cc11255651a36b8eea66ac2c09b) of player #9 anv?ndaren
+﻿23:31:40 : Player #10 Niklas (83.223.18.182:3302) connected
+﻿23:31:41 : Player #10 Niklas - GUID: 8eee542676b6cf0d5d20c3489c534e09 (unverified)
+﻿23:31:41 : Verified GUID (8eee542676b6cf0d5d20c3489c534e09) of player #10 Niklas
+﻿23:31:42 : Player #10 Niklas - Legacy GUID: 1a2092c6c1590376f7198e8d640ccea7
+﻿23:32:31 : Player #5 Cyril disconnected
+﻿23:33:43 : Player #2 Fernando disconnected
+﻿23:35:34 : RCon admin #5: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!!
+﻿23:36:59 : Player #2 willi (155.4.222.157:21974) connected
+﻿23:37:00 : Player #2 willi - GUID: 1dc3e93cb68bf1d2f48a795e5f1b69d1 (unverified)
+﻿23:37:00 : Verified GUID (1dc3e93cb68bf1d2f48a795e5f1b69d1) of player #2 willi
+﻿23:37:01 : Player #2 willi - Legacy GUID: 1478ca8283ca74750abdc9bda58662b2
+﻿23:40:34 : RCon admin #5: (Global) Vehicles left in trader zones at restarts will be moved to the vehicle pound and unlocked
+﻿23:40:59 : Player #5 Sprutmuskel (83.252.5.173:3302) connected
+﻿23:41:00 : Player #5 Sprutmuskel - GUID: d08fe86f64eab688fec1e52ddb591db5 (unverified)
+﻿23:41:00 : Verified GUID (d08fe86f64eab688fec1e52ddb591db5) of player #5 Sprutmuskel
+﻿23:41:01 : Player #5 Sprutmuskel - Legacy GUID: 7f58b047f7fcdcc6c31b37aa435878b6
+﻿23:43:27 : Player #5 Sprutmuskel disconnected
+﻿23:44:15 : Player #5 Sprutmuskel (83.252.5.173:3302) connected
+﻿23:44:17 : Player #5 Sprutmuskel - GUID: d08fe86f64eab688fec1e52ddb591db5 (unverified)
+﻿23:44:17 : Verified GUID (d08fe86f64eab688fec1e52ddb591db5) of player #5 Sprutmuskel
+﻿23:44:17 : Player #5 Sprutmuskel - Legacy GUID: 7f58b047f7fcdcc6c31b37aa435878b6
+﻿23:47:04 : Player #11 Headshot (81.11.176.169:40763) connected
+﻿23:47:06 : Player #11 Headshot - GUID: ea606236675be7338700aba8ceeb732f (unverified)
+﻿23:47:06 : Verified GUID (ea606236675be7338700aba8ceeb732f) of player #11 Headshot
+﻿23:47:07 : Player #11 Headshot - Legacy GUID: 5751e0bee4be76b7ae681d971364c3ec
+﻿23:51:34 : RCon admin #5: (Global) VIEW PLAYER STATS @ SURVIVALIST-DAYZ.COM/STATS
+﻿23:56:21 : Player #1 LuciFer disconnected

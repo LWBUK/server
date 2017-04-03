@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<!--
+
+Web Doc : http://www.ibattle.org/install-and-configure/define-admins/
+
+-->
+
+
+<BEAdmins>
+
+
+<admin id="0">
+    <name>Admin</name>
+    <guid>23230a3c0fd37b4a67b51c613a1f07b3</guid>
+    <group>1</group>
+    <groupname>Admin</groupname>
+</admin>
+</BEAdmins>
+
+
+

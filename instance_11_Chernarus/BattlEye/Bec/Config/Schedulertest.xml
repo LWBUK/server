@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<!--
+
+Web Doc : http://www.ibattle.org/install-and-configure/setting-up-the-scheduler/
+
+
+Restarts every 2 hours from server startup with 10, 5 and 1 minute warnings
+
+-->
+
+
+<Scheduler>
+    <!-- Messages every 10 minute -->
+   
+
+<job id="0">
+        <day>1,2,3,4,5,6,7</day>
+        <start>000130</start>
+        <runtime>000000</runtime>
+        <loop>0</loop>
+        <cmd>say -1 Server is restarting: LOG OUT NOW TO AVOID DATA LOSS/DEATH AND DATABASE CRASHES</cmd>
+    </job>
+
+    <job id="1">
+        <day>1,2,3,4,5,6,7</day>
+        <start>000200</start>
+        <runtime>000000</runtime>
+        <loop>0</loop>
+        <cmd>#shutdown</cmd>
+    </job>
+	
+	<job id='2'>
+	<day>1,2,3,4,5,6,7</day>
+	<start>000200</start>
+	<runtime>000000</runtime>
+	<loop>0</loop>
+	<cmd>C:\Users\Administrator\Desktop\Epoch\Server_Restart.bat</cmd>
+</job>
+</Scheduler>

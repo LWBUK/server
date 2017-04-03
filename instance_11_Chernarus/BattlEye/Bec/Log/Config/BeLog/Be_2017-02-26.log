@@ -1,0 +1,758 @@
+﻿00:00:08 : Rcon client logging in
+﻿00:00:08 : RCon admin #3 (78.31.67.100:59145) logged in
+﻿00:01:23 : Player #0 [OCB]Dodgy Embalmer (81.104.140.9:3302) connected
+﻿00:01:25 : Player #0 [OCB]Dodgy Embalmer - GUID: 38a93b9f0b2c7b7eb033f1a4b2026f75 (unverified)
+﻿00:01:25 : Verified GUID (38a93b9f0b2c7b7eb033f1a4b2026f75) of player #0 [OCB]Dodgy Embalmer
+﻿00:01:25 : Player #0 [OCB]Dodgy Embalmer - Legacy GUID: 4be85e1b432b4692c09a26acd7cd89f7
+﻿00:02:02 : Player #1 Pork Loin (79.142.216.98:18526) connected
+﻿00:02:03 : Player #1 Pork Loin - GUID: 1d7b9d64f648c6049e30dd8f8ea29fe1 (unverified)
+﻿00:02:04 : Verified GUID (1d7b9d64f648c6049e30dd8f8ea29fe1) of player #1 Pork Loin
+﻿00:02:04 : Player #1 Pork Loin - Legacy GUID: c3b086e5052a9f219266d8a11a061518
+﻿00:02:05 : Player #2 Desert Panther (83.254.204.104:3302) connected
+﻿00:02:06 : Player #2 Desert Panther - GUID: 284478f3aae17405e660e42f49496f1e (unverified)
+﻿00:02:06 : Verified GUID (284478f3aae17405e660e42f49496f1e) of player #2 Desert Panther
+﻿00:02:07 : Player #2 Desert Panther - Legacy GUID: 8a16005e1731b4893b67d4e94a159085
+﻿00:02:10 : Player #3 GGTeemo (195.19.34.29:3302) connected
+﻿00:02:11 : Player #3 GGTeemo - GUID: 0635bb68e78ed192889660d0139ba63c (unverified)
+﻿00:02:11 : Verified GUID (0635bb68e78ed192889660d0139ba63c) of player #3 GGTeemo
+﻿00:02:12 : Player #3 GGTeemo - Legacy GUID: ed91c122bd2998b1b8d3ed6c94ba74bf
+﻿00:03:01 : Player #4 Luca (82.49.204.96:3302) connected
+﻿00:03:02 : Player #4 Luca - GUID: 6e7c40a61724544b4275966bd75de0e6 (unverified)
+﻿00:03:02 : Verified GUID (6e7c40a61724544b4275966bd75de0e6) of player #4 Luca
+﻿00:03:03 : Player #4 Luca - Legacy GUID: 9d6f7df8f28bf750a2189a9c4d05f558
+﻿00:14:08 : RCon admin #3: (Global) NO SQUAD XML: ENGLISH ONLY IN SIDE CHAT: VEHICLES AND GEAR CAN BE STOLEN ANYWHERE
+﻿00:25:08 : RCon admin #3: (Global) ADMINS: LWB AND SIERRA | VISIT THE WEBSITE SURVIVALIST-DAYZ.COM
+﻿00:39:08 : RCon admin #3: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!! VEHICLES MUST BE USED EVERY 3 DAYS!!
+﻿00:44:08 : RCon admin #3: (Global) NO SQUAD XML: ENGLISH ONLY IN SIDE CHAT: VEHICLES AND GEAR CAN BE STOLEN ANYWHERE
+﻿00:49:55 : Player #5 DLugar (75.187.240.212:3302) connected
+﻿00:49:57 : Player #5 DLugar - GUID: af08a384e8d64c0507537ea68a0a827b (unverified)
+﻿00:49:57 : Verified GUID (af08a384e8d64c0507537ea68a0a827b) of player #5 DLugar
+﻿00:49:57 : Player #5 DLugar - Legacy GUID: 6b7e1e6081661e5b429a7ab3286cd43c
+﻿00:53:17 : Player #5 DLugar disconnected
+﻿00:55:08 : RCon admin #3: (Global) ADMINS: LWB AND SIERRA | VISIT THE WEBSITE SURVIVALIST-DAYZ.COM
+﻿01:09:08 : RCon admin #3: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!! VEHICLES MUST BE USED EVERY 3 DAYS!!
+﻿01:12:16 : Player #5 Annie (76.177.0.38:3302) connected
+﻿01:12:19 : Player #5 Annie - GUID: ccc980406d0a8c49ae49cd0fd23e9c0c (unverified)
+﻿01:12:19 : Player #5 Annie - Legacy GUID: 3dd61f14e5e66e70aff4895a7a4491f9
+﻿01:12:19 : Verified GUID (ccc980406d0a8c49ae49cd0fd23e9c0c) of player #5 Annie
+﻿01:13:42 : Player #3 GGTeemo disconnected
+﻿01:14:08 : RCon admin #3: (Global) NO SQUAD XML: ENGLISH ONLY IN SIDE CHAT: VEHICLES AND GEAR CAN BE STOLEN ANYWHERE
+﻿01:25:08 : RCon admin #3: (Global) ADMINS: LWB AND SIERRA | VISIT THE WEBSITE SURVIVALIST-DAYZ.COM
+﻿01:30:12 : Player #5 Annie disconnected
+﻿01:39:08 : RCon admin #3: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!! VEHICLES MUST BE USED EVERY 3 DAYS!!
+﻿01:44:08 : RCon admin #3: (Global) NO SQUAD XML: ENGLISH ONLY IN SIDE CHAT: VEHICLES AND GEAR CAN BE STOLEN ANYWHERE
+﻿01:55:08 : RCon admin #3: (Global) ADMINS: LWB AND SIERRA | VISIT THE WEBSITE SURVIVALIST-DAYZ.COM
+﻿02:09:08 : RCon admin #3: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!! VEHICLES MUST BE USED EVERY 3 DAYS!!
+﻿02:14:08 : RCon admin #3: (Global) NO SQUAD XML: ENGLISH ONLY IN SIDE CHAT: VEHICLES AND GEAR CAN BE STOLEN ANYWHERE
+﻿02:20:08 : RCon admin #3: (Global) Server will restart in 10 minutes
+﻿02:25:08 : RCon admin #3: (Global) ADMINS: LWB AND SIERRA | VISIT THE WEBSITE SURVIVALIST-DAYZ.COM
+﻿02:25:09 : RCon admin #3: (Global) Server will restart in 5 minutes: Prepare to Logout
+﻿02:25:26 : Player #3 Kekus Attilus (195.191.175.247:58371) connected
+﻿02:25:27 : Player #3 Kekus Attilus - GUID: d0fbaa5c1260c82034576f6e7c9ebfb5 (unverified)
+﻿02:25:28 : Player #3 Kekus Attilus - Legacy GUID: fbaac5e141a8b99ced468648b58aa0fe
+﻿02:25:28 : Verified GUID (d0fbaa5c1260c82034576f6e7c9ebfb5) of player #3 Kekus Attilus
+﻿02:25:49 : RCon admin #4 (5.80.3.54:58206) logged in
+﻿02:26:30 : Player #5 Awaken (91.224.99.227:53414) connected
+﻿02:26:32 : Player #5 Awaken - GUID: 0036a2a13de5bc2efa2e0ec64e308625 (unverified)
+﻿02:26:32 : Verified GUID (0036a2a13de5bc2efa2e0ec64e308625) of player #5 Awaken
+﻿02:26:32 : Player #5 Awaken - Legacy GUID: 4610743979c67c6fb2ae698a9c277233
+﻿02:27:10 : Player #4 Luca disconnected
+﻿02:28:05 : Player #1 Pork Loin disconnected
+﻿02:28:08 : RCon admin #3: (Global) The Server is about to restart. LOG OUT NOW OR YOUR GEAR MAY BE LOST!!
+﻿02:28:09 : Player #2 Desert Panther disconnected
+﻿02:29:27 : Player #5 Awaken disconnected
+﻿02:29:32 : Player #3 Kekus Attilus disconnected
+﻿02:29:38 : RCon admin #3: (Global) YOU SHOULD BE LOGGED OUT BY NOW! IF YOU ARENT YOU WILL BE AUTO KICKED AND YOUR GEAR MAY BE LOST! NO REFUNDS!
+﻿02:30:42 : Rcon client logging in
+﻿02:30:42 : RCon admin #3 (78.31.67.100:58591) logged in
+﻿02:31:59 : Player #0 rayne (173.90.117.127:3302) connected
+﻿02:32:14 : Player #0 rayne disconnected
+﻿02:32:18 : Player #0 Awaken (91.224.99.227:52131) connected
+﻿02:32:19 : Player #0 Awaken - GUID: 0036a2a13de5bc2efa2e0ec64e308625 (unverified)
+﻿02:32:20 : Verified GUID (0036a2a13de5bc2efa2e0ec64e308625) of player #0 Awaken
+﻿02:32:20 : Player #0 Awaken - Legacy GUID: 4610743979c67c6fb2ae698a9c277233
+﻿02:33:28 : Player #1 Kekus Attilus (195.191.175.247:61917) connected
+﻿02:33:29 : Player #1 Kekus Attilus - GUID: d0fbaa5c1260c82034576f6e7c9ebfb5 (unverified)
+﻿02:33:30 : Player #1 Kekus Attilus - Legacy GUID: fbaac5e141a8b99ced468648b58aa0fe
+﻿02:33:30 : Verified GUID (d0fbaa5c1260c82034576f6e7c9ebfb5) of player #1 Kekus Attilus
+﻿02:40:43 : Player #2 Luca (82.49.204.96:3302) connected
+﻿02:40:44 : Player #2 Luca - GUID: 6e7c40a61724544b4275966bd75de0e6 (unverified)
+﻿02:40:44 : Verified GUID (6e7c40a61724544b4275966bd75de0e6) of player #2 Luca
+﻿02:40:45 : Player #2 Luca - Legacy GUID: 9d6f7df8f28bf750a2189a9c4d05f558
+﻿02:43:14 : Player #3 Wallace (68.184.6.149:3302) connected
+﻿02:43:16 : Player #3 Wallace - GUID: 38230a3c0fd37b4a67b51c613a1f07b4 (unverified)
+﻿02:43:16 : Verified GUID (38230a3c0fd37b4a67b51c613a1f07b4) of player #3 Wallace
+﻿02:43:17 : Player #3 Wallace - Legacy GUID: eb452eaae6e2507430fc43fcecf09d0c
+﻿02:43:17 : Player #2 Luca disconnected
+﻿02:44:42 : RCon admin #3: (Global) NO SQUAD XML: ENGLISH ONLY IN SIDE CHAT: VEHICLES AND GEAR CAN BE STOLEN ANYWHERE
+﻿02:55:42 : RCon admin #3: (Global) ADMINS: LWB AND SIERRA | VISIT THE WEBSITE SURVIVALIST-DAYZ.COM
+﻿03:09:42 : RCon admin #3: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!! VEHICLES MUST BE USED EVERY 3 DAYS!!
+﻿03:14:42 : RCon admin #3: (Global) NO SQUAD XML: ENGLISH ONLY IN SIDE CHAT: VEHICLES AND GEAR CAN BE STOLEN ANYWHERE
+﻿03:25:42 : RCon admin #3: (Global) ADMINS: LWB AND SIERRA | VISIT THE WEBSITE SURVIVALIST-DAYZ.COM
+﻿03:30:05 : Player #2 Ryan (73.228.74.113:3302) connected
+﻿03:30:08 : Player #2 Ryan - GUID: 94d09d174e279b17d9c2da18b066a3e8 (unverified)
+﻿03:30:09 : Verified GUID (94d09d174e279b17d9c2da18b066a3e8) of player #2 Ryan
+﻿03:30:09 : Player #2 Ryan - Legacy GUID: e212a8a546ac6125a97a6bbe46cd26d1
+﻿03:39:42 : RCon admin #3: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!! VEHICLES MUST BE USED EVERY 3 DAYS!!
+﻿03:44:42 : RCon admin #3: (Global) NO SQUAD XML: ENGLISH ONLY IN SIDE CHAT: VEHICLES AND GEAR CAN BE STOLEN ANYWHERE
+﻿03:55:42 : RCon admin #3: (Global) ADMINS: LWB AND SIERRA | VISIT THE WEBSITE SURVIVALIST-DAYZ.COM
+﻿04:09:42 : RCon admin #3: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!! VEHICLES MUST BE USED EVERY 3 DAYS!!
+﻿04:14:42 : RCon admin #3: (Global) NO SQUAD XML: ENGLISH ONLY IN SIDE CHAT: VEHICLES AND GEAR CAN BE STOLEN ANYWHERE
+﻿04:20:52 : RCon admin #4 (5.80.3.54:64320) logged in
+﻿04:25:42 : RCon admin #3: (Global) ADMINS: LWB AND SIERRA | VISIT THE WEBSITE SURVIVALIST-DAYZ.COM
+﻿04:31:28 : Player #2 Ryan disconnected
+﻿04:39:42 : RCon admin #3: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!! VEHICLES MUST BE USED EVERY 3 DAYS!!
+﻿04:44:37 : Player #2 Freedom (173.85.71.79:2304) connected
+﻿04:44:38 : Player #2 Freedom - GUID: 32974eed83d84dab3c6a86016f1a1d12 (unverified)
+﻿04:44:39 : Verified GUID (32974eed83d84dab3c6a86016f1a1d12) of player #2 Freedom
+﻿04:44:39 : Player #2 Freedom - Legacy GUID: 97a8c85ef5bf1164b1deba8cac447118
+﻿04:44:42 : RCon admin #3: (Global) NO SQUAD XML: ENGLISH ONLY IN SIDE CHAT: VEHICLES AND GEAR CAN BE STOLEN ANYWHERE
+﻿04:50:42 : RCon admin #3: (Global) Server will restart in 10 minutes
+﻿04:54:27 : Player #2 Freedom disconnected
+﻿04:54:50 : Player #2 ilya (94.180.69.136:3302) connected
+﻿04:54:51 : Player #2 ilya - GUID: 62b9ad757d91486c10b5ed162dbf5293 (unverified)
+﻿04:54:52 : Verified GUID (62b9ad757d91486c10b5ed162dbf5293) of player #2 ilya
+﻿04:54:52 : Player #2 ilya - Legacy GUID: df0a3c378b393d00e26d905748a7b152
+﻿04:54:53 : Player #4 1897 (37.194.146.57:3302) connected
+﻿04:54:55 : Player #4 1897 - GUID: 33411b4513ff25e5ff964caa3d20de0c (unverified)
+﻿04:54:56 : Verified GUID (33411b4513ff25e5ff964caa3d20de0c) of player #4 1897
+﻿04:54:56 : Player #4 1897 - Legacy GUID: ff4fbda8fb979bca7423015b717b3638
+﻿04:55:42 : RCon admin #3: (Global) ADMINS: LWB AND SIERRA | VISIT THE WEBSITE SURVIVALIST-DAYZ.COM
+﻿04:55:43 : RCon admin #3: (Global) Server will restart in 5 minutes: Prepare to Logout
+﻿04:57:24 : Player #3 Wallace disconnected
+﻿04:58:42 : RCon admin #3: (Global) The Server is about to restart. LOG OUT NOW OR YOUR GEAR MAY BE LOST!!
+﻿04:59:10 : Player #0 Awaken disconnected
+﻿04:59:12 : Player #1 Kekus Attilus disconnected
+﻿05:00:12 : RCon admin #3: (Global) YOU SHOULD BE LOGGED OUT BY NOW! IF YOU ARENT YOU WILL BE AUTO KICKED AND YOUR GEAR MAY BE LOST! NO REFUNDS!
+﻿05:01:16 : Rcon client logging in
+﻿05:01:16 : RCon admin #3 (78.31.67.100:54133) logged in
+﻿05:04:58 : Player #0 Awaken (91.224.99.227:49108) connected
+﻿05:04:59 : Player #0 Awaken - GUID: 0036a2a13de5bc2efa2e0ec64e308625 (unverified)
+﻿05:05:00 : Verified GUID (0036a2a13de5bc2efa2e0ec64e308625) of player #0 Awaken
+﻿05:05:00 : Player #0 Awaken - Legacy GUID: 4610743979c67c6fb2ae698a9c277233
+﻿05:05:08 : Player #1 Kekus Attilus (195.191.175.247:45130) connected
+﻿05:05:12 : Player #2 Freedom (173.85.71.79:2304) connected
+﻿05:05:13 : Player #2 Freedom - GUID: 32974eed83d84dab3c6a86016f1a1d12 (unverified)
+﻿05:05:13 : Player #1 Kekus Attilus - GUID: d0fbaa5c1260c82034576f6e7c9ebfb5 (unverified)
+﻿05:05:13 : Verified GUID (32974eed83d84dab3c6a86016f1a1d12) of player #2 Freedom
+﻿05:05:13 : Verified GUID (d0fbaa5c1260c82034576f6e7c9ebfb5) of player #1 Kekus Attilus
+﻿05:05:14 : Player #1 Kekus Attilus - Legacy GUID: fbaac5e141a8b99ced468648b58aa0fe
+﻿05:05:14 : Player #2 Freedom - Legacy GUID: 97a8c85ef5bf1164b1deba8cac447118
+﻿05:15:16 : RCon admin #3: (Global) NO SQUAD XML: ENGLISH ONLY IN SIDE CHAT: VEHICLES AND GEAR CAN BE STOLEN ANYWHERE
+﻿05:16:52 : Player #1 Kekus Attilus disconnected
+﻿05:18:52 : Player #0 Awaken disconnected
+﻿05:23:10 : Player #2 Freedom disconnected
+﻿05:26:16 : RCon admin #3: (Global) ADMINS: LWB AND SIERRA | VISIT THE WEBSITE SURVIVALIST-DAYZ.COM
+﻿05:38:59 : RCon admin #4 (5.80.3.54:52762) logged in
+﻿05:40:16 : RCon admin #3: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!! VEHICLES MUST BE USED EVERY 3 DAYS!!
+﻿05:45:16 : RCon admin #3: (Global) NO SQUAD XML: ENGLISH ONLY IN SIDE CHAT: VEHICLES AND GEAR CAN BE STOLEN ANYWHERE
+﻿05:50:53 : Player #0 VLADIMIR>*** (37.248.153.238:12806) connected
+﻿05:50:56 : Player #0 VLADIMIR>*** - GUID: 23ba3b72c27f9037a89a5be52475278a (unverified)
+﻿05:50:56 : Player #0 VLADIMIR>*** - Legacy GUID: 3ae9f2bd0cfa61de1e742c02f56f7f78
+﻿05:50:56 : Verified GUID (23ba3b72c27f9037a89a5be52475278a) of player #0 VLADIMIR>***
+﻿05:56:16 : RCon admin #3: (Global) ADMINS: LWB AND SIERRA | VISIT THE WEBSITE SURVIVALIST-DAYZ.COM
+﻿06:10:16 : RCon admin #3: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!! VEHICLES MUST BE USED EVERY 3 DAYS!!
+﻿06:15:16 : RCon admin #3: (Global) NO SQUAD XML: ENGLISH ONLY IN SIDE CHAT: VEHICLES AND GEAR CAN BE STOLEN ANYWHERE
+﻿06:26:16 : RCon admin #3: (Global) ADMINS: LWB AND SIERRA | VISIT THE WEBSITE SURVIVALIST-DAYZ.COM
+﻿06:34:05 : Player #1 ilya (94.180.69.136:3302) connected
+﻿06:34:07 : Player #1 ilya - GUID: 62b9ad757d91486c10b5ed162dbf5293 (unverified)
+﻿06:34:07 : Verified GUID (62b9ad757d91486c10b5ed162dbf5293) of player #1 ilya
+﻿06:34:07 : Player #1 ilya - Legacy GUID: df0a3c378b393d00e26d905748a7b152
+﻿06:40:16 : RCon admin #3: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!! VEHICLES MUST BE USED EVERY 3 DAYS!!
+﻿06:45:16 : RCon admin #3: (Global) NO SQUAD XML: ENGLISH ONLY IN SIDE CHAT: VEHICLES AND GEAR CAN BE STOLEN ANYWHERE
+﻿06:45:54 : RCon admin #0 (5.80.3.54:58540) logged in
+﻿06:45:54 : RCon admin #5 (5.80.3.54:53508) logged in
+﻿06:52:52 : Player #1 ilya disconnected
+﻿06:56:16 : RCon admin #3: (Global) ADMINS: LWB AND SIERRA | VISIT THE WEBSITE SURVIVALIST-DAYZ.COM
+﻿07:10:16 : RCon admin #3: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!! VEHICLES MUST BE USED EVERY 3 DAYS!!
+﻿07:15:16 : RCon admin #3: (Global) NO SQUAD XML: ENGLISH ONLY IN SIDE CHAT: VEHICLES AND GEAR CAN BE STOLEN ANYWHERE
+﻿07:21:16 : RCon admin #3: (Global) Server will restart in 10 minutes
+﻿07:26:16 : RCon admin #3: (Global) ADMINS: LWB AND SIERRA | VISIT THE WEBSITE SURVIVALIST-DAYZ.COM
+﻿07:26:17 : RCon admin #3: (Global) Server will restart in 5 minutes: Prepare to Logout
+﻿07:29:16 : RCon admin #3: (Global) The Server is about to restart. LOG OUT NOW OR YOUR GEAR MAY BE LOST!!
+﻿07:30:44 : Player #0 VLADIMIR>*** disconnected
+﻿07:30:46 : RCon admin #3: (Global) YOU SHOULD BE LOGGED OUT BY NOW! IF YOU ARENT YOU WILL BE AUTO KICKED AND YOUR GEAR MAY BE LOST! NO REFUNDS!
+﻿07:31:50 : Rcon client logging in
+﻿07:31:50 : RCon admin #2 (78.31.67.100:53583) logged in
+﻿07:32:04 : RCon admin #3 (5.80.3.54:64815) logged in
+﻿07:45:50 : RCon admin #2: (Global) NO SQUAD XML: ENGLISH ONLY IN SIDE CHAT: VEHICLES AND GEAR CAN BE STOLEN ANYWHERE
+﻿07:56:00 : Player #1 Walasznikow (185.93.72.2:3302) connected
+﻿07:56:01 : Player #1 Walasznikow - GUID: d29dbfa4a3d5d5c51df67a3d52ed76b5 (unverified)
+﻿07:56:01 : Verified GUID (d29dbfa4a3d5d5c51df67a3d52ed76b5) of player #1 Walasznikow
+﻿07:56:02 : Player #1 Walasznikow - Legacy GUID: 15dc2c7c756f1ff3a94cd8605fa50dc2
+﻿07:56:50 : RCon admin #2: (Global) ADMINS: LWB AND SIERRA | VISIT THE WEBSITE SURVIVALIST-DAYZ.COM
+﻿08:10:50 : RCon admin #2: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!! VEHICLES MUST BE USED EVERY 3 DAYS!!
+﻿08:15:51 : RCon admin #2: (Global) NO SQUAD XML: ENGLISH ONLY IN SIDE CHAT: VEHICLES AND GEAR CAN BE STOLEN ANYWHERE
+﻿08:18:18 : Player #2 Kekus Attilus (195.191.175.247:43896) connected
+﻿08:18:19 : Player #2 Kekus Attilus - GUID: d0fbaa5c1260c82034576f6e7c9ebfb5 (unverified)
+﻿08:18:19 : Verified GUID (d0fbaa5c1260c82034576f6e7c9ebfb5) of player #2 Kekus Attilus
+﻿08:18:20 : Player #2 Kekus Attilus - Legacy GUID: fbaac5e141a8b99ced468648b58aa0fe
+﻿08:21:50 : Player #2 Kekus Attilus disconnected
+﻿08:26:50 : RCon admin #2: (Global) ADMINS: LWB AND SIERRA | VISIT THE WEBSITE SURVIVALIST-DAYZ.COM
+﻿08:40:50 : RCon admin #2: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!! VEHICLES MUST BE USED EVERY 3 DAYS!!
+﻿08:45:50 : RCon admin #2: (Global) NO SQUAD XML: ENGLISH ONLY IN SIDE CHAT: VEHICLES AND GEAR CAN BE STOLEN ANYWHERE
+﻿08:56:50 : RCon admin #2: (Global) ADMINS: LWB AND SIERRA | VISIT THE WEBSITE SURVIVALIST-DAYZ.COM
+﻿09:07:49 : RCon admin #4 (5.80.3.54:54970) logged in
+﻿09:10:50 : RCon admin #2: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!! VEHICLES MUST BE USED EVERY 3 DAYS!!
+﻿09:14:20 : Player #1 Walasznikow disconnected
+﻿09:15:14 : RCon admin #0 (5.80.3.54:51217) logged in
+﻿09:15:50 : RCon admin #2: (Global) NO SQUAD XML: ENGLISH ONLY IN SIDE CHAT: VEHICLES AND GEAR CAN BE STOLEN ANYWHERE
+﻿09:26:51 : RCon admin #2: (Global) ADMINS: LWB AND SIERRA | VISIT THE WEBSITE SURVIVALIST-DAYZ.COM
+﻿09:39:29 : RCon admin #4 (5.80.3.54:56925) logged in
+﻿09:40:50 : RCon admin #2: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!! VEHICLES MUST BE USED EVERY 3 DAYS!!
+﻿09:43:44 : RCon admin #0 (5.80.3.54:56926) logged in
+﻿09:45:50 : RCon admin #2: (Global) NO SQUAD XML: ENGLISH ONLY IN SIDE CHAT: VEHICLES AND GEAR CAN BE STOLEN ANYWHERE
+﻿09:46:17 : Player #1 Pibe (79.47.243.182:60249) connected
+﻿09:46:18 : Player #1 Pibe - GUID: db019d7abee4e75a3d01d99ff45bfec5 (unverified)
+﻿09:46:19 : Verified GUID (db019d7abee4e75a3d01d99ff45bfec5) of player #1 Pibe
+﻿09:46:19 : Player #1 Pibe - Legacy GUID: df1af60c27a8b4e01079091e4b66044b
+﻿09:49:34 : RCon admin #4 (5.80.3.54:60216) logged in
+﻿09:50:05 : RCon admin #0 (5.80.3.54:60218) logged in
+﻿09:50:50 : RCon admin #4 (5.80.3.54:60219) logged in
+﻿09:51:50 : RCon admin #2: (Global) Server will restart in 10 minutes
+﻿09:56:50 : RCon admin #2: (Global) ADMINS: LWB AND SIERRA | VISIT THE WEBSITE SURVIVALIST-DAYZ.COM
+﻿09:56:51 : RCon admin #2: (Global) Server will restart in 5 minutes: Prepare to Logout
+﻿09:58:39 : Player #1 Pibe disconnected
+﻿09:59:50 : RCon admin #2: (Global) The Server is about to restart. LOG OUT NOW OR YOUR GEAR MAY BE LOST!!
+﻿10:01:20 : RCon admin #2: (Global) YOU SHOULD BE LOGGED OUT BY NOW! IF YOU ARENT YOU WILL BE AUTO KICKED AND YOUR GEAR MAY BE LOST! NO REFUNDS!
+﻿10:02:24 : Rcon client logging in
+﻿10:02:24 : RCon admin #3 (78.31.67.100:54990) logged in
+﻿10:16:00 : Player #0 Pork Loin (79.142.216.98:19758) connected
+﻿10:16:02 : Player #0 Pork Loin - GUID: 1d7b9d64f648c6049e30dd8f8ea29fe1 (unverified)
+﻿10:16:02 : Verified GUID (1d7b9d64f648c6049e30dd8f8ea29fe1) of player #0 Pork Loin
+﻿10:16:02 : Player #0 Pork Loin - Legacy GUID: c3b086e5052a9f219266d8a11a061518
+﻿10:16:24 : RCon admin #3: (Global) NO SQUAD XML: ENGLISH ONLY IN SIDE CHAT: VEHICLES AND GEAR CAN BE STOLEN ANYWHERE
+﻿10:27:24 : RCon admin #3: (Global) ADMINS: LWB AND SIERRA | VISIT THE WEBSITE SURVIVALIST-DAYZ.COM
+﻿10:29:00 : RCon admin #4 (5.80.3.54:50263) logged in
+﻿10:29:22 : RCon admin #1 (5.80.3.54:50264) logged in
+﻿10:41:24 : RCon admin #3: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!! VEHICLES MUST BE USED EVERY 3 DAYS!!
+﻿10:42:23 : Player #1 Pibe (79.47.243.182:53972) connected
+﻿10:42:24 : Player #1 Pibe - GUID: db019d7abee4e75a3d01d99ff45bfec5 (unverified)
+﻿10:42:24 : Verified GUID (db019d7abee4e75a3d01d99ff45bfec5) of player #1 Pibe
+﻿10:42:25 : Player #1 Pibe - Legacy GUID: df1af60c27a8b4e01079091e4b66044b
+﻿10:46:25 : RCon admin #3: (Global) NO SQUAD XML: ENGLISH ONLY IN SIDE CHAT: VEHICLES AND GEAR CAN BE STOLEN ANYWHERE
+﻿10:48:01 : RCon admin #4 (5.80.3.54:55535) logged in
+﻿10:57:24 : RCon admin #3: (Global) ADMINS: LWB AND SIERRA | VISIT THE WEBSITE SURVIVALIST-DAYZ.COM
+﻿11:05:38 : Player #0 Pork Loin disconnected
+﻿11:11:24 : RCon admin #3: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!! VEHICLES MUST BE USED EVERY 3 DAYS!!
+﻿11:16:24 : RCon admin #3: (Global) NO SQUAD XML: ENGLISH ONLY IN SIDE CHAT: VEHICLES AND GEAR CAN BE STOLEN ANYWHERE
+﻿11:19:44 : Player #0 nabekren (188.32.35.18:3302) connected
+﻿11:19:45 : Player #0 nabekren - GUID: 7ce9241b7db6bc69cdbe2964de0b8c40 (unverified)
+﻿11:19:46 : Verified GUID (7ce9241b7db6bc69cdbe2964de0b8c40) of player #0 nabekren
+﻿11:19:46 : Player #0 nabekren - Legacy GUID: 20ae4b63115beb9c922bbba6c4a837b4
+﻿11:27:24 : RCon admin #3: (Global) ADMINS: LWB AND SIERRA | VISIT THE WEBSITE SURVIVALIST-DAYZ.COM
+﻿11:29:58 : Player #1 Pibe disconnected
+﻿11:30:42 : Player #1 Awaken (91.224.99.227:52381) connected
+﻿11:30:43 : Player #1 Awaken - GUID: 0036a2a13de5bc2efa2e0ec64e308625 (unverified)
+﻿11:30:43 : Verified GUID (0036a2a13de5bc2efa2e0ec64e308625) of player #1 Awaken
+﻿11:30:44 : Player #1 Awaken - Legacy GUID: 4610743979c67c6fb2ae698a9c277233
+﻿11:30:59 : Player #2 Kekus Attilus (195.191.175.247:41730) connected
+﻿11:31:01 : Player #2 Kekus Attilus - GUID: d0fbaa5c1260c82034576f6e7c9ebfb5 (unverified)
+﻿11:31:01 : Verified GUID (d0fbaa5c1260c82034576f6e7c9ebfb5) of player #2 Kekus Attilus
+﻿11:31:01 : Player #2 Kekus Attilus - Legacy GUID: fbaac5e141a8b99ced468648b58aa0fe
+﻿11:31:41 : Player #0 nabekren disconnected
+﻿11:41:25 : RCon admin #3: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!! VEHICLES MUST BE USED EVERY 3 DAYS!!
+﻿11:46:25 : RCon admin #3: (Global) NO SQUAD XML: ENGLISH ONLY IN SIDE CHAT: VEHICLES AND GEAR CAN BE STOLEN ANYWHERE
+﻿11:49:32 : RCon admin #1 (5.80.3.54:57420) logged in
+﻿11:55:02 : Player #0 Turmoil (85.164.44.228:3302) connected
+﻿11:55:03 : Player #0 Turmoil - GUID: 078d3175e22fad797d9a152aaaa83806 (unverified)
+﻿11:55:04 : Verified GUID (078d3175e22fad797d9a152aaaa83806) of player #0 Turmoil
+﻿11:55:04 : Player #0 Turmoil - Legacy GUID: 153330a3c1eb9ccf7092e322ab07ebb0
+﻿11:57:25 : RCon admin #3: (Global) ADMINS: LWB AND SIERRA | VISIT THE WEBSITE SURVIVALIST-DAYZ.COM
+﻿11:58:53 : RCon admin #4 (5.80.3.54:54718) logged in
+﻿12:05:10 : Player #3 nabekren (188.32.35.18:3302) connected
+﻿12:05:11 : Player #3 nabekren - GUID: 7ce9241b7db6bc69cdbe2964de0b8c40 (unverified)
+﻿12:05:11 : Verified GUID (7ce9241b7db6bc69cdbe2964de0b8c40) of player #3 nabekren
+﻿12:05:12 : Player #3 nabekren - Legacy GUID: 20ae4b63115beb9c922bbba6c4a837b4
+﻿12:05:33 : RCon admin #1 (5.80.3.54:64898) logged in
+﻿12:08:47 : RCon admin #4 (5.80.3.54:49279) logged in
+﻿12:09:14 : Player #4 Zarig (176.14.227.147:3302) connected
+﻿12:09:16 : Player #4 Zarig - GUID: 72b7dc8708f53859f8b08ac16fd6d730 (unverified)
+﻿12:09:16 : Verified GUID (72b7dc8708f53859f8b08ac16fd6d730) of player #4 Zarig
+﻿12:09:16 : Player #4 Zarig - Legacy GUID: 458452c2c2126c928bb8df440158d641
+﻿12:11:25 : RCon admin #3: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!! VEHICLES MUST BE USED EVERY 3 DAYS!!
+﻿12:13:22 : Player #5 2DIE4 (84.130.96.245:3302) connected
+﻿12:13:24 : Player #5 2DIE4 - GUID: 97b8e8b63e4439b2b62c99dde2b8b8a1 (unverified)
+﻿12:13:24 : Player #5 2DIE4 - Legacy GUID: e56dc54c0a6d92faa8a284d7c54bffab
+﻿12:13:25 : Verified GUID (97b8e8b63e4439b2b62c99dde2b8b8a1) of player #5 2DIE4
+﻿12:16:25 : RCon admin #3: (Global) NO SQUAD XML: ENGLISH ONLY IN SIDE CHAT: VEHICLES AND GEAR CAN BE STOLEN ANYWHERE
+﻿12:22:25 : RCon admin #3: (Global) Server will restart in 10 minutes
+﻿12:27:25 : RCon admin #3: (Global) ADMINS: LWB AND SIERRA | VISIT THE WEBSITE SURVIVALIST-DAYZ.COM
+﻿12:27:25 : RCon admin #3: (Global) Server will restart in 5 minutes: Prepare to Logout
+﻿12:28:08 : Player #0 Turmoil disconnected
+﻿12:28:35 : Player #0 ded (5.153.161.202:2304) connected
+﻿12:28:36 : Player #0 ded - GUID: 4ea1e88abc5523a75c51653146b7088b (unverified)
+﻿12:28:37 : Player #0 ded - Legacy GUID: d27a46697553ba4d6475544c29ae9d45
+﻿12:28:37 : Verified GUID (4ea1e88abc5523a75c51653146b7088b) of player #0 ded
+﻿12:30:24 : Player #2 Kekus Attilus disconnected
+﻿12:30:25 : RCon admin #3: (Global) The Server is about to restart. LOG OUT NOW OR YOUR GEAR MAY BE LOST!!
+﻿12:31:01 : Player #1 Awaken disconnected
+﻿12:31:42 : Player #5 2DIE4 disconnected
+﻿12:31:55 : RCon admin #3: (Global) YOU SHOULD BE LOGGED OUT BY NOW! IF YOU ARENT YOU WILL BE AUTO KICKED AND YOUR GEAR MAY BE LOST! NO REFUNDS!
+﻿12:32:58 : Rcon client logging in
+﻿12:32:58 : RCon admin #4 (78.31.67.100:56498) logged in
+﻿12:34:28 : Player #0 Awaken (91.224.99.227:56670) connected
+﻿12:34:30 : Player #0 Awaken - GUID: 0036a2a13de5bc2efa2e0ec64e308625 (unverified)
+﻿12:34:30 : Player #0 Awaken - Legacy GUID: 4610743979c67c6fb2ae698a9c277233
+﻿12:34:30 : Verified GUID (0036a2a13de5bc2efa2e0ec64e308625) of player #0 Awaken
+﻿12:34:58 : Player #1 Kekus Attilus (195.191.175.247:61562) connected
+﻿12:35:01 : Player #1 Kekus Attilus - GUID: d0fbaa5c1260c82034576f6e7c9ebfb5 (unverified)
+﻿12:35:01 : Player #1 Kekus Attilus - Legacy GUID: fbaac5e141a8b99ced468648b58aa0fe
+﻿12:35:02 : Verified GUID (d0fbaa5c1260c82034576f6e7c9ebfb5) of player #1 Kekus Attilus
+﻿12:38:54 : Player #2 2DIE4 (84.130.96.245:3302) connected
+﻿12:38:55 : Player #2 2DIE4 - GUID: 97b8e8b63e4439b2b62c99dde2b8b8a1 (unverified)
+﻿12:38:56 : Verified GUID (97b8e8b63e4439b2b62c99dde2b8b8a1) of player #2 2DIE4
+﻿12:38:56 : Player #2 2DIE4 - Legacy GUID: e56dc54c0a6d92faa8a284d7c54bffab
+﻿12:42:09 : Player #3 nabekren (188.32.35.18:3302) connected
+﻿12:42:11 : Player #3 nabekren - GUID: 7ce9241b7db6bc69cdbe2964de0b8c40 (unverified)
+﻿12:42:11 : Player #3 nabekren - Legacy GUID: 20ae4b63115beb9c922bbba6c4a837b4
+﻿12:42:11 : Verified GUID (7ce9241b7db6bc69cdbe2964de0b8c40) of player #3 nabekren
+﻿12:42:12 : Player #4 Zarig (176.14.227.147:3302) connected
+﻿12:42:13 : Player #4 Zarig - GUID: 72b7dc8708f53859f8b08ac16fd6d730 (unverified)
+﻿12:42:14 : Verified GUID (72b7dc8708f53859f8b08ac16fd6d730) of player #4 Zarig
+﻿12:42:14 : Player #4 Zarig - Legacy GUID: 458452c2c2126c928bb8df440158d641
+﻿12:46:58 : RCon admin #4: (Global) NO SQUAD XML: ENGLISH ONLY IN SIDE CHAT: VEHICLES AND GEAR CAN BE STOLEN ANYWHERE
+﻿12:55:53 : RCon admin #5 (5.80.3.54:63903) logged in
+﻿12:57:58 : RCon admin #4: (Global) ADMINS: LWB AND SIERRA | VISIT THE WEBSITE SURVIVALIST-DAYZ.COM
+﻿13:05:18 : RCon admin #5: (Global) LWB: No
+﻿13:05:35 : RCon admin #5: (Global) LWB: :)
+﻿13:06:44 : RCon admin #5: (Global) LWB: No but heroes have superhero trader at 30k with slightly cheaper stuff and a few extras
+﻿13:09:03 : RCon admin #5: (Global) LWB: Its not a problem, thats how dayz works
+﻿13:09:15 : RCon admin #5: (Global) LWB: you kill heroes/surviors you loose humaity
+﻿13:11:28 : RCon admin #5: (Global) LWB: Think we have more heros than bandits actually right now
+﻿13:11:56 : RCon admin #5: (Global) LWB: We only need one ;D
+﻿13:11:58 : RCon admin #4: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!! VEHICLES MUST BE USED EVERY 3 DAYS!!
+﻿13:12:14 : RCon admin #5: (Global) LWB: Mm, maybe, but its so easy to be bandit
+﻿13:13:20 : RCon admin #5: (Global) LWB: Did I not do that yet? Hm, thought I did, wierd
+﻿13:14:58 : RCon admin #5: (Global) LWB: I think you would qualify for lvl 20
+﻿13:16:58 : RCon admin #4: (Global) NO SQUAD XML: ENGLISH ONLY IN SIDE CHAT: VEHICLES AND GEAR CAN BE STOLEN ANYWHERE
+﻿13:27:58 : RCon admin #4: (Global) ADMINS: LWB AND SIERRA | VISIT THE WEBSITE SURVIVALIST-DAYZ.COM
+﻿13:28:25 : RCon admin #1 (5.80.3.54:62720) logged in
+﻿13:30:37 : Player #5 Pibe (79.47.243.182:65491) connected
+﻿13:30:38 : Player #5 Pibe - GUID: db019d7abee4e75a3d01d99ff45bfec5 (unverified)
+﻿13:30:38 : Verified GUID (db019d7abee4e75a3d01d99ff45bfec5) of player #5 Pibe
+﻿13:30:39 : Player #5 Pibe - Legacy GUID: df1af60c27a8b4e01079091e4b66044b
+﻿13:32:47 : Player #6 VLADIMIR>*** (37.248.153.238:12802) connected
+﻿13:32:48 : Player #6 VLADIMIR>*** - GUID: 23ba3b72c27f9037a89a5be52475278a (unverified)
+﻿13:32:49 : Verified GUID (23ba3b72c27f9037a89a5be52475278a) of player #6 VLADIMIR>***
+﻿13:32:49 : Player #6 VLADIMIR>*** - Legacy GUID: 3ae9f2bd0cfa61de1e742c02f56f7f78
+﻿13:38:06 : Player #5 Pibe disconnected
+﻿13:39:36 : Player #5 Mark (84.186.176.187:3302) connected
+﻿13:39:38 : Player #5 Mark - GUID: 208bd65ed0daa5c6f4a36d7d0f8fbd19 (unverified)
+﻿13:39:38 : Verified GUID (208bd65ed0daa5c6f4a36d7d0f8fbd19) of player #5 Mark
+﻿13:39:38 : Player #5 Mark - Legacy GUID: 9329e7b7abf28343e31662bff24ad412
+﻿13:39:47 : Player #5 Mark disconnected
+﻿13:41:58 : RCon admin #4: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!! VEHICLES MUST BE USED EVERY 3 DAYS!!
+﻿13:44:35 : RCon admin #0 (5.80.3.54:65312) logged in
+﻿13:46:58 : RCon admin #4: (Global) NO SQUAD XML: ENGLISH ONLY IN SIDE CHAT: VEHICLES AND GEAR CAN BE STOLEN ANYWHERE
+﻿13:48:51 : Player #5 [OCB]Dodgy Embalmer (81.104.140.9:3302) connected
+﻿13:48:52 : Player #5 [OCB]Dodgy Embalmer - GUID: 38a93b9f0b2c7b7eb033f1a4b2026f75 (unverified)
+﻿13:48:53 : Verified GUID (38a93b9f0b2c7b7eb033f1a4b2026f75) of player #5 [OCB]Dodgy Embalmer
+﻿13:48:53 : Player #5 [OCB]Dodgy Embalmer - Legacy GUID: 4be85e1b432b4692c09a26acd7cd89f7
+﻿13:57:05 : RCon admin #1 (5.80.3.54:54275) logged in
+﻿13:57:58 : RCon admin #4: (Global) ADMINS: LWB AND SIERRA | VISIT THE WEBSITE SURVIVALIST-DAYZ.COM
+﻿14:02:34 : Player #2 2DIE4 disconnected
+﻿14:03:37 : Player #2 Walasznikow (95.41.18.84:3302) connected
+﻿14:03:39 : Player #2 Walasznikow - GUID: d29dbfa4a3d5d5c51df67a3d52ed76b5 (unverified)
+﻿14:03:39 : Player #2 Walasznikow - Legacy GUID: 15dc2c7c756f1ff3a94cd8605fa50dc2
+﻿14:03:39 : Verified GUID (d29dbfa4a3d5d5c51df67a3d52ed76b5) of player #2 Walasznikow
+﻿14:06:46 : Player #7 Pibe (79.47.243.182:55640) connected
+﻿14:06:47 : Player #7 Pibe - GUID: db019d7abee4e75a3d01d99ff45bfec5 (unverified)
+﻿14:06:48 : Verified GUID (db019d7abee4e75a3d01d99ff45bfec5) of player #7 Pibe
+﻿14:06:48 : Player #7 Pibe - Legacy GUID: df1af60c27a8b4e01079091e4b66044b
+﻿14:09:03 : Player #8 Sir Bogdan (176.212.226.135:3302) connected
+﻿14:09:05 : Player #8 Sir Bogdan - GUID: 0f8e06f8b6d9eb73df60c891c72244b5 (unverified)
+﻿14:09:05 : Verified GUID (0f8e06f8b6d9eb73df60c891c72244b5) of player #8 Sir Bogdan
+﻿14:09:06 : Player #8 Sir Bogdan - Legacy GUID: ad9a268358b6611c6cd0354eff1d5d51
+﻿14:11:58 : RCon admin #4: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!! VEHICLES MUST BE USED EVERY 3 DAYS!!
+﻿14:14:01 : Player #8 Sir Bogdan disconnected
+﻿14:16:58 : RCon admin #4: (Global) NO SQUAD XML: ENGLISH ONLY IN SIDE CHAT: VEHICLES AND GEAR CAN BE STOLEN ANYWHERE
+﻿14:27:58 : RCon admin #4: (Global) ADMINS: LWB AND SIERRA | VISIT THE WEBSITE SURVIVALIST-DAYZ.COM
+﻿14:28:04 : Player #8 WUKONS (80.5.37.197:3302) connected
+﻿14:28:05 : Player #8 WUKONS - GUID: f4f0584888724b524d86deb26b66d272 (unverified)
+﻿14:28:06 : Player #8 WUKONS - Legacy GUID: baa07ea9148b5fb35306dc7fc312a134
+﻿14:28:06 : Verified GUID (f4f0584888724b524d86deb26b66d272) of player #8 WUKONS
+﻿14:38:35 : Player #0 Awaken disconnected
+﻿14:38:35 : Player #1 Kekus Attilus disconnected
+﻿14:39:24 : Player #0 Luca (82.49.204.96:3302) connected
+﻿14:39:26 : Player #0 Luca - GUID: 6e7c40a61724544b4275966bd75de0e6 (unverified)
+﻿14:39:27 : Player #0 Luca - Legacy GUID: 9d6f7df8f28bf750a2189a9c4d05f558
+﻿14:39:27 : Verified GUID (6e7c40a61724544b4275966bd75de0e6) of player #0 Luca
+﻿14:41:58 : RCon admin #4: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!! VEHICLES MUST BE USED EVERY 3 DAYS!!
+﻿14:46:58 : RCon admin #4: (Global) NO SQUAD XML: ENGLISH ONLY IN SIDE CHAT: VEHICLES AND GEAR CAN BE STOLEN ANYWHERE
+﻿14:49:01 : Player #3 nabekren disconnected
+﻿14:49:47 : Player #4 Zarig disconnected
+﻿14:50:44 : Player #6 VLADIMIR>*** (23ba3b72c27f9037a89a5be52475278a) has been kicked by BattlEye: Client not responding
+﻿14:51:41 : Player #8 WUKONS disconnected
+﻿14:52:58 : RCon admin #4: (Global) Server will restart in 10 minutes
+﻿14:53:34 : Player #1 VLADIMIR>*** (37.248.157.32:11273) connected
+﻿14:53:36 : Player #1 VLADIMIR>*** - GUID: 23ba3b72c27f9037a89a5be52475278a (unverified)
+﻿14:53:36 : Player #1 VLADIMIR>*** - Legacy GUID: 3ae9f2bd0cfa61de1e742c02f56f7f78
+﻿14:53:36 : Verified GUID (23ba3b72c27f9037a89a5be52475278a) of player #1 VLADIMIR>***
+﻿14:57:58 : RCon admin #4: (Global) ADMINS: LWB AND SIERRA | VISIT THE WEBSITE SURVIVALIST-DAYZ.COM
+﻿14:57:59 : RCon admin #4: (Global) Server will restart in 5 minutes: Prepare to Logout
+﻿14:58:22 : RCon admin #0 (5.80.3.54:57826) logged in
+﻿15:00:58 : RCon admin #4: (Global) The Server is about to restart. LOG OUT NOW OR YOUR GEAR MAY BE LOST!!
+﻿15:01:30 : Player #2 Walasznikow disconnected
+﻿15:01:43 : Player #0 Luca disconnected
+﻿15:01:45 : Player #7 Pibe disconnected
+﻿15:02:28 : RCon admin #4: (Global) YOU SHOULD BE LOGGED OUT BY NOW! IF YOU ARENT YOU WILL BE AUTO KICKED AND YOUR GEAR MAY BE LOST! NO REFUNDS!
+﻿15:02:54 : Player #1 VLADIMIR>*** disconnected
+﻿15:03:32 : Rcon client logging in
+﻿15:03:32 : RCon admin #4 (78.31.67.100:55074) logged in
+﻿15:04:07 : Player #0 VLADIMIR>*** (37.248.157.32:11273) connected
+﻿15:04:09 : Player #0 VLADIMIR>*** - Legacy GUID: 3ae9f2bd0cfa61de1e742c02f56f7f78
+﻿15:04:09 : Player #0 VLADIMIR>*** - GUID: 23ba3b72c27f9037a89a5be52475278a (unverified)
+﻿15:04:10 : Verified GUID (23ba3b72c27f9037a89a5be52475278a) of player #0 VLADIMIR>***
+﻿15:05:41 : Player #1 Luca (82.49.204.96:3302) connected
+﻿15:05:42 : Player #1 Luca - GUID: 6e7c40a61724544b4275966bd75de0e6 (unverified)
+﻿15:05:42 : Verified GUID (6e7c40a61724544b4275966bd75de0e6) of player #1 Luca
+﻿15:05:43 : Player #1 Luca - Legacy GUID: 9d6f7df8f28bf750a2189a9c4d05f558
+﻿15:05:58 : Player #2 Bacon (80.203.101.130:3302) connected
+﻿15:05:59 : Player #2 Bacon - GUID: 0e9e1f7b6a7ed66fa630a6d0926baf2d (unverified)
+﻿15:05:59 : Verified GUID (0e9e1f7b6a7ed66fa630a6d0926baf2d) of player #2 Bacon
+﻿15:06:00 : Player #2 Bacon - Legacy GUID: 1bf5a18000c0793a88253090a1893c80
+﻿15:06:30 : Player #3 Walasznikow (95.41.18.84:3302) connected
+﻿15:06:31 : Player #3 Walasznikow - GUID: d29dbfa4a3d5d5c51df67a3d52ed76b5 (unverified)
+﻿15:06:32 : Verified GUID (d29dbfa4a3d5d5c51df67a3d52ed76b5) of player #3 Walasznikow
+﻿15:06:32 : Player #3 Walasznikow - Legacy GUID: 15dc2c7c756f1ff3a94cd8605fa50dc2
+﻿15:07:41 : Player #4 WUKONS (80.5.37.197:3302) connected
+﻿15:07:42 : Player #4 WUKONS - GUID: f4f0584888724b524d86deb26b66d272 (unverified)
+﻿15:07:42 : Verified GUID (f4f0584888724b524d86deb26b66d272) of player #4 WUKONS
+﻿15:07:43 : Player #4 WUKONS - Legacy GUID: baa07ea9148b5fb35306dc7fc312a134
+﻿15:17:33 : RCon admin #4: (Global) NO SQUAD XML: ENGLISH ONLY IN SIDE CHAT: VEHICLES AND GEAR CAN BE STOLEN ANYWHERE
+﻿15:24:04 : Player #5 Pibe (79.47.243.182:57164) connected
+﻿15:24:05 : Player #5 Pibe - GUID: db019d7abee4e75a3d01d99ff45bfec5 (unverified)
+﻿15:24:06 : Verified GUID (db019d7abee4e75a3d01d99ff45bfec5) of player #5 Pibe
+﻿15:24:06 : Player #5 Pibe - Legacy GUID: df1af60c27a8b4e01079091e4b66044b
+﻿15:28:33 : RCon admin #4: (Global) ADMINS: LWB AND SIERRA | VISIT THE WEBSITE SURVIVALIST-DAYZ.COM
+﻿15:37:24 : Player #6 [OCB]Dodgy Embalmer (81.104.140.9:3302) connected
+﻿15:37:25 : Player #6 [OCB]Dodgy Embalmer - GUID: 38a93b9f0b2c7b7eb033f1a4b2026f75 (unverified)
+﻿15:37:26 : Verified GUID (38a93b9f0b2c7b7eb033f1a4b2026f75) of player #6 [OCB]Dodgy Embalmer
+﻿15:37:26 : Player #6 [OCB]Dodgy Embalmer - Legacy GUID: 4be85e1b432b4692c09a26acd7cd89f7
+﻿15:42:32 : RCon admin #4: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!! VEHICLES MUST BE USED EVERY 3 DAYS!!
+﻿15:45:08 : RCon admin #5 (5.80.3.54:56712) logged in
+﻿15:46:43 : RCon admin #3 (5.80.3.54:51947) logged in
+﻿15:47:32 : RCon admin #4: (Global) NO SQUAD XML: ENGLISH ONLY IN SIDE CHAT: VEHICLES AND GEAR CAN BE STOLEN ANYWHERE
+﻿15:50:28 : RCon admin #5 (5.80.3.54:52778) logged in
+﻿15:58:33 : RCon admin #4: (Global) ADMINS: LWB AND SIERRA | VISIT THE WEBSITE SURVIVALIST-DAYZ.COM
+﻿16:08:32 : Player #7 PRISMIC (195.39.192.26:3302) connected
+﻿16:08:33 : Player #7 PRISMIC - GUID: c2a9b9e975c3a16bc843e3b1437182ca (unverified)
+﻿16:08:34 : Verified GUID (c2a9b9e975c3a16bc843e3b1437182ca) of player #7 PRISMIC
+﻿16:08:34 : Player #7 PRISMIC - Legacy GUID: 40b9483bb39fdbf38ebf22597947cee7
+﻿16:08:45 : Player #8 Laurence Gommersil (109.176.194.200:3302) connected
+﻿16:08:47 : Player #8 Laurence Gommersil - GUID: f1f45f96a2cdd71b21097c87e6cef51a (unverified)
+﻿16:08:47 : Verified GUID (f1f45f96a2cdd71b21097c87e6cef51a) of player #8 Laurence Gommersil
+﻿16:08:47 : Player #8 Laurence Gommersil - Legacy GUID: 968c41ae2194f0cd7392781b4dee481b
+﻿16:10:39 : Player #9 bazil (85.115.118.141:3302) connected
+﻿16:10:40 : Player #9 bazil - GUID: e1e214a9f1ebe3a030ec1faf439b01f8 (unverified)
+﻿16:10:41 : Verified GUID (e1e214a9f1ebe3a030ec1faf439b01f8) of player #9 bazil
+﻿16:10:41 : Player #9 bazil - Legacy GUID: 3217f436f9724e5dffcbc28f32de4993
+﻿16:12:33 : RCon admin #4: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!! VEHICLES MUST BE USED EVERY 3 DAYS!!
+﻿16:13:02 : Player #10 Ziltoid (5.80.3.54:2304) connected
+﻿16:13:03 : Player #10 Ziltoid - GUID: bc07c7c39c76cf95a7a434d686d9df66 (unverified)
+﻿16:13:04 : Verified GUID (bc07c7c39c76cf95a7a434d686d9df66) of player #10 Ziltoid
+﻿16:13:04 : Player #10 Ziltoid - Legacy GUID: 977383e15b6c706cac44ca953ba440c7
+﻿16:17:33 : RCon admin #4: (Global) NO SQUAD XML: ENGLISH ONLY IN SIDE CHAT: VEHICLES AND GEAR CAN BE STOLEN ANYWHERE
+﻿16:22:51 : Player #11 Lynchyy (94.7.161.218:3302) connected
+﻿16:22:52 : Player #11 Lynchyy disconnected
+﻿16:23:00 : Player #11 2DIE4 (84.130.96.245:3302) connected
+﻿16:23:01 : Player #11 2DIE4 - GUID: 97b8e8b63e4439b2b62c99dde2b8b8a1 (unverified)
+﻿16:23:02 : Player #11 2DIE4 - Legacy GUID: e56dc54c0a6d92faa8a284d7c54bffab
+﻿16:23:02 : Verified GUID (97b8e8b63e4439b2b62c99dde2b8b8a1) of player #11 2DIE4
+﻿16:28:09 : Player #12 streamX (85.115.118.141:1025) connected
+﻿16:28:10 : Player #12 streamX - GUID: 61f5664b19f607900ba25ce8b792341a (unverified)
+﻿16:28:11 : Player #12 streamX - Legacy GUID: a5e586564ef9adeb91714587004539c8
+﻿16:28:11 : Verified GUID (61f5664b19f607900ba25ce8b792341a) of player #12 streamX
+﻿16:28:33 : RCon admin #4: (Global) ADMINS: LWB AND SIERRA | VISIT THE WEBSITE SURVIVALIST-DAYZ.COM
+﻿16:31:28 : Player #0 VLADIMIR>*** disconnected
+﻿16:32:37 : Player #8 Laurence Gommersil disconnected
+﻿16:32:52 : Player #0 Laurence Gommersil (109.176.194.200:3302) connected
+﻿16:32:54 : Player #0 Laurence Gommersil - GUID: f1f45f96a2cdd71b21097c87e6cef51a (unverified)
+﻿16:32:54 : Player #0 Laurence Gommersil - Legacy GUID: 968c41ae2194f0cd7392781b4dee481b
+﻿16:32:55 : Verified GUID (f1f45f96a2cdd71b21097c87e6cef51a) of player #0 Laurence Gommersil
+﻿16:37:25 : Player #0 Laurence Gommersil disconnected
+﻿16:41:47 : Player #7 PRISMIC disconnected
+﻿16:42:33 : RCon admin #4: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!! VEHICLES MUST BE USED EVERY 3 DAYS!!
+﻿16:47:33 : RCon admin #4: (Global) NO SQUAD XML: ENGLISH ONLY IN SIDE CHAT: VEHICLES AND GEAR CAN BE STOLEN ANYWHERE
+﻿16:58:33 : RCon admin #4: (Global) ADMINS: LWB AND SIERRA | VISIT THE WEBSITE SURVIVALIST-DAYZ.COM
+﻿17:02:53 : Player #12 streamX disconnected
+﻿17:03:38 : Player #0 [FIN]pollerpon (94.74.126.203:3302) connected
+﻿17:03:40 : Player #0 [FIN]pollerpon - GUID: 8d83e01e7b2b6e3d0d14ffa3f6a78b95 (unverified)
+﻿17:03:40 : Player #0 [FIN]pollerpon - Legacy GUID: caed2188345018bd75b91f031a88f142
+﻿17:03:40 : Verified GUID (8d83e01e7b2b6e3d0d14ffa3f6a78b95) of player #0 [FIN]pollerpon
+﻿17:06:55 : RCon admin #3 (5.80.3.54:57693) logged in
+﻿17:10:15 : Player #9 bazil disconnected
+﻿17:10:41 : Player #0 [FIN]pollerpon disconnected
+﻿17:12:33 : RCon admin #4: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!! VEHICLES MUST BE USED EVERY 3 DAYS!!
+﻿17:17:33 : RCon admin #4: (Global) NO SQUAD XML: ENGLISH ONLY IN SIDE CHAT: VEHICLES AND GEAR CAN BE STOLEN ANYWHERE
+﻿17:22:45 : RCon admin #5 (5.80.3.54:53689) logged in
+﻿17:23:33 : RCon admin #4: (Global) Server will restart in 10 minutes
+﻿17:24:34 : Player #0 MartDeSjaak (77.165.154.26:2304) connected
+﻿17:24:35 : Player #0 MartDeSjaak - GUID: 279108a761cc44d7ed5a867668790203 (unverified)
+﻿17:24:35 : Verified GUID (279108a761cc44d7ed5a867668790203) of player #0 MartDeSjaak
+﻿17:24:36 : Player #0 MartDeSjaak - Legacy GUID: f0077fe661304e57bb3ff5322c101a37
+﻿17:25:43 : Player #3 Walasznikow disconnected
+﻿17:27:35 : Player #3 iGrotuS (46.42.138.209:3302) connected
+﻿17:27:36 : Player #3 iGrotuS - GUID: e281aa4160595bb97716b455754e4111 (unverified)
+﻿17:27:37 : Verified GUID (e281aa4160595bb97716b455754e4111) of player #3 iGrotuS
+﻿17:27:37 : Player #3 iGrotuS - Legacy GUID: 811bbdc99170f22399de07480cad3e36
+﻿17:28:33 : RCon admin #4: (Global) ADMINS: LWB AND SIERRA | VISIT THE WEBSITE SURVIVALIST-DAYZ.COM
+﻿17:28:33 : RCon admin #4: (Global) Server will restart in 5 minutes: Prepare to Logout
+﻿17:28:50 : Player #7 Shadow (87.117.178.31:16971) connected
+﻿17:28:51 : Player #7 Shadow - GUID: efde6919d239e194d0efeb9bf0a4fe5e (unverified)
+﻿17:28:52 : Verified GUID (efde6919d239e194d0efeb9bf0a4fe5e) of player #7 Shadow
+﻿17:28:52 : Player #7 Shadow - Legacy GUID: 9699eba44a94e788bf6f0b76d7180a4c
+﻿17:29:33 : Player #4 WUKONS disconnected
+﻿17:31:33 : RCon admin #4: (Global) The Server is about to restart. LOG OUT NOW OR YOUR GEAR MAY BE LOST!!
+﻿17:31:43 : Player #10 Ziltoid disconnected
+﻿17:31:51 : Player #1 Luca disconnected
+﻿17:32:37 : Player #11 2DIE4 disconnected
+﻿17:32:42 : Player #0 MartDeSjaak disconnected
+﻿17:33:02 : RCon admin #4: (Global) YOU SHOULD BE LOGGED OUT BY NOW! IF YOU ARENT YOU WILL BE AUTO KICKED AND YOUR GEAR MAY BE LOST! NO REFUNDS!
+﻿17:33:06 : Player #5 Pibe disconnected
+﻿17:33:26 : Player #3 iGrotuS disconnected
+﻿17:34:06 : Rcon client logging in
+﻿17:34:06 : RCon admin #4 (78.31.67.100:55767) logged in
+﻿17:37:15 : Player #0 2DIE4 (84.130.96.245:3302) connected
+﻿17:37:17 : Player #0 2DIE4 - GUID: 97b8e8b63e4439b2b62c99dde2b8b8a1 (unverified)
+﻿17:37:17 : Verified GUID (97b8e8b63e4439b2b62c99dde2b8b8a1) of player #0 2DIE4
+﻿17:37:17 : Player #0 2DIE4 - Legacy GUID: e56dc54c0a6d92faa8a284d7c54bffab
+﻿17:40:11 : Player #1 Luca (82.49.204.96:3302) connected
+﻿17:40:12 : Player #1 Luca - GUID: 6e7c40a61724544b4275966bd75de0e6 (unverified)
+﻿17:40:13 : Verified GUID (6e7c40a61724544b4275966bd75de0e6) of player #1 Luca
+﻿17:40:13 : Player #1 Luca - Legacy GUID: 9d6f7df8f28bf750a2189a9c4d05f558
+﻿17:43:20 : Player #2 Pibe (79.47.243.182:50628) connected
+﻿17:43:21 : Player #2 Pibe - GUID: db019d7abee4e75a3d01d99ff45bfec5 (unverified)
+﻿17:43:21 : Verified GUID (db019d7abee4e75a3d01d99ff45bfec5) of player #2 Pibe
+﻿17:43:22 : Player #2 Pibe - Legacy GUID: df1af60c27a8b4e01079091e4b66044b
+﻿17:43:52 : Player #3 Walasznikow (95.41.18.84:3302) connected
+﻿17:43:53 : Player #3 Walasznikow - GUID: d29dbfa4a3d5d5c51df67a3d52ed76b5 (unverified)
+﻿17:43:53 : Verified GUID (d29dbfa4a3d5d5c51df67a3d52ed76b5) of player #3 Walasznikow
+﻿17:43:54 : Player #3 Walasznikow - Legacy GUID: 15dc2c7c756f1ff3a94cd8605fa50dc2
+﻿17:48:07 : RCon admin #4: (Global) NO SQUAD XML: ENGLISH ONLY IN SIDE CHAT: VEHICLES AND GEAR CAN BE STOLEN ANYWHERE
+﻿17:48:48 : Player #4 Bacon (80.203.101.130:3302) connected
+﻿17:48:49 : Player #4 Bacon - GUID: 0e9e1f7b6a7ed66fa630a6d0926baf2d (unverified)
+﻿17:48:50 : Verified GUID (0e9e1f7b6a7ed66fa630a6d0926baf2d) of player #4 Bacon
+﻿17:48:50 : Player #4 Bacon - Legacy GUID: 1bf5a18000c0793a88253090a1893c80
+﻿17:49:36 : Player #5 Kerekes (94.21.208.228:30578) connected
+﻿17:49:37 : Player #5 Kerekes - GUID: 0cb7f5ec26ae247fbbf2176e86d72d26 (unverified)
+﻿17:49:38 : Player #5 Kerekes - Legacy GUID: af6df0e7b95421bd2b9cd20385d33aba
+﻿17:49:39 : Verified GUID (0cb7f5ec26ae247fbbf2176e86d72d26) of player #5 Kerekes
+﻿17:50:25 : Player #6 WUKONS (80.5.37.197:3302) connected
+﻿17:50:27 : Player #6 WUKONS - GUID: f4f0584888724b524d86deb26b66d272 (unverified)
+﻿17:50:27 : Verified GUID (f4f0584888724b524d86deb26b66d272) of player #6 WUKONS
+﻿17:50:27 : Player #6 WUKONS - Legacy GUID: baa07ea9148b5fb35306dc7fc312a134
+﻿17:56:22 : Player #5 Kerekes disconnected
+﻿17:59:07 : RCon admin #4: (Global) ADMINS: LWB AND SIERRA | VISIT THE WEBSITE SURVIVALIST-DAYZ.COM
+﻿18:01:03 : Player #4 Bacon disconnected
+﻿18:10:32 : RCon admin #5 (5.80.3.54:55779) logged in
+﻿18:10:57 : RCon admin #1 (5.80.3.54:55780) logged in
+﻿18:11:20 : Player #4 bazil (85.115.118.141:3302) connected
+﻿18:11:21 : Player #4 bazil - GUID: e1e214a9f1ebe3a030ec1faf439b01f8 (unverified)
+﻿18:11:22 : Verified GUID (e1e214a9f1ebe3a030ec1faf439b01f8) of player #4 bazil
+﻿18:11:22 : Player #4 bazil - Legacy GUID: 3217f436f9724e5dffcbc28f32de4993
+﻿18:13:07 : RCon admin #4: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!! VEHICLES MUST BE USED EVERY 3 DAYS!!
+﻿18:16:36 : Player #5 Awaken (91.224.99.227:41718) connected
+﻿18:16:38 : Player #5 Awaken - GUID: 0036a2a13de5bc2efa2e0ec64e308625 (unverified)
+﻿18:16:38 : Player #5 Awaken - Legacy GUID: 4610743979c67c6fb2ae698a9c277233
+﻿18:16:38 : Verified GUID (0036a2a13de5bc2efa2e0ec64e308625) of player #5 Awaken
+﻿18:17:14 : Player #7 [NG2] Jesse (145.133.183.236:3302) connected
+﻿18:17:15 : Player #7 [NG2] Jesse - GUID: 1f7a31a6c97ae9822a9e4dcb3de0e9a0 (unverified)
+﻿18:17:16 : Verified GUID (1f7a31a6c97ae9822a9e4dcb3de0e9a0) of player #7 [NG2] Jesse
+﻿18:17:16 : Player #7 [NG2] Jesse disconnected
+﻿18:18:07 : RCon admin #4: (Global) NO SQUAD XML: ENGLISH ONLY IN SIDE CHAT: VEHICLES AND GEAR CAN BE STOLEN ANYWHERE
+﻿18:18:47 : Player #7 Kekus Attilus (195.191.175.247:32843) connected
+﻿18:18:49 : Player #7 Kekus Attilus - GUID: d0fbaa5c1260c82034576f6e7c9ebfb5 (unverified)
+﻿18:18:49 : Verified GUID (d0fbaa5c1260c82034576f6e7c9ebfb5) of player #7 Kekus Attilus
+﻿18:18:50 : Player #7 Kekus Attilus - Legacy GUID: fbaac5e141a8b99ced468648b58aa0fe
+﻿18:19:04 : Player #8 [NG2] Jesse (145.133.183.236:3302) connected
+﻿18:19:06 : Player #8 [NG2] Jesse - GUID: 1f7a31a6c97ae9822a9e4dcb3de0e9a0 (unverified)
+﻿18:19:06 : Verified GUID (1f7a31a6c97ae9822a9e4dcb3de0e9a0) of player #8 [NG2] Jesse
+﻿18:19:06 : Player #8 [NG2] Jesse disconnected
+﻿18:21:43 : Player #8 [NG2] Jesse (145.133.183.236:3302) connected
+﻿18:21:44 : Player #8 [NG2] Jesse - GUID: 1f7a31a6c97ae9822a9e4dcb3de0e9a0 (unverified)
+﻿18:21:45 : Verified GUID (1f7a31a6c97ae9822a9e4dcb3de0e9a0) of player #8 [NG2] Jesse
+﻿18:21:45 : Player #8 [NG2] Jesse disconnected
+﻿18:24:43 : Player #8 [NG2] Jesse (145.133.183.236:3302) connected
+﻿18:24:44 : Player #8 [NG2] Jesse - GUID: 1f7a31a6c97ae9822a9e4dcb3de0e9a0 (unverified)
+﻿18:24:45 : Verified GUID (1f7a31a6c97ae9822a9e4dcb3de0e9a0) of player #8 [NG2] Jesse
+﻿18:24:45 : Player #8 [NG2] Jesse disconnected
+﻿18:25:56 : Player #4 bazil disconnected
+﻿18:26:56 : Player #4 bazil (85.115.118.141:3302) connected
+﻿18:26:58 : Player #4 bazil - GUID: e1e214a9f1ebe3a030ec1faf439b01f8 (unverified)
+﻿18:26:58 : Verified GUID (e1e214a9f1ebe3a030ec1faf439b01f8) of player #4 bazil
+﻿18:26:58 : Player #4 bazil - Legacy GUID: 3217f436f9724e5dffcbc28f32de4993
+﻿18:27:35 : Player #8 [NG2] Jesse (145.133.183.236:3302) connected
+﻿18:27:36 : Player #8 [NG2] Jesse - GUID: 1f7a31a6c97ae9822a9e4dcb3de0e9a0 (unverified)
+﻿18:27:36 : Verified GUID (1f7a31a6c97ae9822a9e4dcb3de0e9a0) of player #8 [NG2] Jesse
+﻿18:27:37 : Player #8 [NG2] Jesse disconnected
+﻿18:28:05 : RCon admin #5 (5.80.3.54:56991) logged in
+﻿18:29:07 : RCon admin #4: (Global) ADMINS: LWB AND SIERRA | VISIT THE WEBSITE SURVIVALIST-DAYZ.COM
+﻿18:29:26 : Player #8 [NG2] Jesse (145.133.183.236:3302) connected
+﻿18:29:27 : Player #8 [NG2] Jesse - GUID: 1f7a31a6c97ae9822a9e4dcb3de0e9a0 (unverified)
+﻿18:29:28 : Verified GUID (1f7a31a6c97ae9822a9e4dcb3de0e9a0) of player #8 [NG2] Jesse
+﻿18:29:28 : Player #8 [NG2] Jesse - Legacy GUID: aa29d15133c89f949e71190836ad19cb
+﻿18:33:17 : Player #6 WUKONS disconnected
+﻿18:41:03 : Player #2 Pibe disconnected
+﻿18:43:07 : RCon admin #4: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!! VEHICLES MUST BE USED EVERY 3 DAYS!!
+﻿18:43:57 : Player #2 Nikita (176.108.153.116:3302) connected
+﻿18:43:58 : Player #2 Nikita - GUID: eef0d09c308d0dae1c849f3c7e705e27 (unverified)
+﻿18:43:59 : Player #2 Nikita - Legacy GUID: ecd70c72978cc42c5d11e64042ab1d97
+﻿18:43:59 : Verified GUID (eef0d09c308d0dae1c849f3c7e705e27) of player #2 Nikita
+﻿18:48:07 : RCon admin #4: (Global) NO SQUAD XML: ENGLISH ONLY IN SIDE CHAT: VEHICLES AND GEAR CAN BE STOLEN ANYWHERE
+﻿18:59:07 : RCon admin #4: (Global) ADMINS: LWB AND SIERRA | VISIT THE WEBSITE SURVIVALIST-DAYZ.COM
+﻿19:02:21 : Player #6 Cpt.BonD (95.25.239.108:3302) connected
+﻿19:02:22 : Player #6 Cpt.BonD - GUID: c50e67a93a403e6848a825e1008ad832 (unverified)
+﻿19:02:23 : Verified GUID (c50e67a93a403e6848a825e1008ad832) of player #6 Cpt.BonD
+﻿19:02:23 : Player #6 Cpt.BonD - Owner GUID: e7457c3ec71ee7e6c8c1ec350e3e891e
+﻿19:02:23 : Player #6 Cpt.BonD - Legacy GUID: 0baaf0d67e50c71da0e1c860462cf547
+﻿19:08:53 : Player #8 [NG2] Jesse disconnected
+﻿19:11:13 : Player #6 Cpt.BonD disconnected
+﻿19:13:07 : RCon admin #4: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!! VEHICLES MUST BE USED EVERY 3 DAYS!!
+﻿19:14:27 : Player #6 EVSYUK (213.24.132.78:45043) connected
+﻿19:14:28 : Player #6 EVSYUK - GUID: 7ede369ed182158934ddcc73e3c440ae (unverified)
+﻿19:14:29 : Verified GUID (7ede369ed182158934ddcc73e3c440ae) of player #6 EVSYUK
+﻿19:14:29 : Player #6 EVSYUK - Legacy GUID: 085f0b3b8a05ed11da4f7fa955be3da9
+﻿19:16:02 : Player #8 Maxno (5.142.2.8:3302) connected
+﻿19:16:03 : Player #8 Maxno - GUID: bb5c5224d08aa457dfd151fb778bdc54 (unverified)
+﻿19:16:04 : Verified GUID (bb5c5224d08aa457dfd151fb778bdc54) of player #8 Maxno
+﻿19:16:04 : Player #8 Maxno - Legacy GUID: 180a87588078ce6ef868688ac4ddd069
+﻿19:16:29 : RCon admin #1 (5.80.3.54:57537) logged in
+﻿19:18:07 : RCon admin #4: (Global) NO SQUAD XML: ENGLISH ONLY IN SIDE CHAT: VEHICLES AND GEAR CAN BE STOLEN ANYWHERE
+﻿19:29:07 : RCon admin #4: (Global) ADMINS: LWB AND SIERRA | VISIT THE WEBSITE SURVIVALIST-DAYZ.COM
+﻿19:32:50 : RCon admin #5 (5.80.3.54:51103) logged in
+﻿19:33:05 : Player #9 [OCB]Dodgy Embalmer (81.104.140.9:3302) connected
+﻿19:33:06 : Player #9 [OCB]Dodgy Embalmer - GUID: 38a93b9f0b2c7b7eb033f1a4b2026f75 (unverified)
+﻿19:33:07 : Verified GUID (38a93b9f0b2c7b7eb033f1a4b2026f75) of player #9 [OCB]Dodgy Embalmer
+﻿19:33:07 : Player #9 [OCB]Dodgy Embalmer - Legacy GUID: 4be85e1b432b4692c09a26acd7cd89f7
+﻿19:33:18 : Player #9 [OCB]Dodgy Embalmer disconnected
+﻿19:33:39 : RCon admin #1 (5.80.3.54:51104) logged in
+﻿19:34:15 : Player #5 Awaken disconnected
+﻿19:34:19 : Player #2 Nikita disconnected
+﻿19:36:37 : Player #2 Legolas Greengusset (81.104.140.9:3302) connected
+﻿19:36:38 : Player #2 Legolas Greengusset - GUID: 1040809194018063e4fd1d1e040ec1b9 (unverified)
+﻿19:36:39 : Verified GUID (1040809194018063e4fd1d1e040ec1b9) of player #2 Legolas Greengusset
+﻿19:36:39 : Player #2 Legolas Greengusset - Legacy GUID: 0fcc0ed1413307fa7772e9f32f7b71ee
+﻿19:37:00 : RCon admin #5 (5.80.3.54:56801) logged in
+﻿19:37:42 : Player #6 EVSYUK disconnected
+﻿19:39:03 : Player #4 bazil disconnected
+﻿19:39:07 : Player #8 Maxno disconnected
+﻿19:39:18 : Player #7 Kekus Attilus disconnected
+﻿19:39:45 : RCon admin #1 (5.80.3.54:56802) logged in
+﻿19:41:32 : Player #0 2DIE4 disconnected
+﻿19:43:07 : RCon admin #4: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!! VEHICLES MUST BE USED EVERY 3 DAYS!!
+﻿19:45:45 : RCon admin #5 (5.80.3.54:56829) logged in
+﻿19:48:07 : RCon admin #4: (Global) NO SQUAD XML: ENGLISH ONLY IN SIDE CHAT: VEHICLES AND GEAR CAN BE STOLEN ANYWHERE
+﻿19:48:18 : Player #0 simo (85.7.201.252:2304) connected
+﻿19:48:19 : Player #0 simo - GUID: dcb5f229bb54c32f0ac2f0096daaeb5c (unverified)
+﻿19:48:20 : Verified GUID (dcb5f229bb54c32f0ac2f0096daaeb5c) of player #0 simo
+﻿19:48:20 : Player #0 simo - Legacy GUID: a023d2e680fcd6ae1346aea7cbb90fbb
+﻿19:49:00 : RCon admin #1 (5.80.3.54:61919) logged in
+﻿19:52:00 : RCon admin #5 (5.80.3.54:60015) logged in
+﻿19:54:07 : RCon admin #4: (Global) Server will restart in 10 minutes
+﻿19:56:45 : RCon admin #1 (5.80.3.54:60016) logged in
+﻿19:58:09 : Player #0 simo disconnected
+﻿19:59:07 : RCon admin #4: (Global) ADMINS: LWB AND SIERRA | VISIT THE WEBSITE SURVIVALIST-DAYZ.COM
+﻿19:59:07 : RCon admin #4: (Global) Server will restart in 5 minutes: Prepare to Logout
+﻿20:00:37 : Player #1 Luca disconnected
+﻿20:01:41 : Player #3 Walasznikow (d29dbfa4a3d5d5c51df67a3d52ed76b5) has been kicked by BattlEye: Ping too high (765)
+﻿20:02:03 : RCon admin #5 (5.80.3.54:60594) logged in
+﻿20:02:07 : RCon admin #4: (Global) The Server is about to restart. LOG OUT NOW OR YOUR GEAR MAY BE LOST!!
+﻿20:03:37 : RCon admin #4: (Global) YOU SHOULD BE LOGGED OUT BY NOW! IF YOU ARENT YOU WILL BE AUTO KICKED AND YOUR GEAR MAY BE LOST! NO REFUNDS!
+﻿20:04:40 : Rcon client logging in
+﻿20:04:40 : RCon admin #3 (78.31.67.100:50855) logged in
+﻿20:04:54 : RCon admin #4 (5.80.3.54:53806) logged in
+﻿20:05:02 : Player #0 [OCB]Dodgy Embalmer (81.104.140.9:1025) connected
+﻿20:05:03 : Player #0 [OCB]Dodgy Embalmer - GUID: 38a93b9f0b2c7b7eb033f1a4b2026f75 (unverified)
+﻿20:05:03 : Verified GUID (38a93b9f0b2c7b7eb033f1a4b2026f75) of player #0 [OCB]Dodgy Embalmer
+﻿20:05:04 : Player #0 [OCB]Dodgy Embalmer - Legacy GUID: 4be85e1b432b4692c09a26acd7cd89f7
+﻿20:11:01 : RCon admin #5 (5.80.3.54:53416) logged in
+﻿20:14:56 : Player #1 Walasznikow (95.41.18.84:3302) connected
+﻿20:14:58 : Player #1 Walasznikow - GUID: d29dbfa4a3d5d5c51df67a3d52ed76b5 (unverified)
+﻿20:14:58 : Verified GUID (d29dbfa4a3d5d5c51df67a3d52ed76b5) of player #1 Walasznikow
+﻿20:14:59 : Player #1 Walasznikow - Legacy GUID: 15dc2c7c756f1ff3a94cd8605fa50dc2
+﻿20:18:40 : RCon admin #3: (Global) NO SQUAD XML: ENGLISH ONLY IN SIDE CHAT: VEHICLES AND GEAR CAN BE STOLEN ANYWHERE
+﻿20:28:53 : Player #2 Freedom (173.85.71.79:2304) connected
+﻿20:28:54 : Player #2 Freedom - GUID: 32974eed83d84dab3c6a86016f1a1d12 (unverified)
+﻿20:28:55 : Verified GUID (32974eed83d84dab3c6a86016f1a1d12) of player #2 Freedom
+﻿20:28:55 : Player #2 Freedom - Legacy GUID: 97a8c85ef5bf1164b1deba8cac447118
+﻿20:29:40 : RCon admin #3: (Global) ADMINS: LWB AND SIERRA | VISIT THE WEBSITE SURVIVALIST-DAYZ.COM
+﻿20:31:04 : Player #3 Legolas Greengusset (81.104.140.9:3302) connected
+﻿20:31:05 : Player #3 Legolas Greengusset - GUID: 90846aacf42a72c8faf4e6afc8a20d07 (unverified)
+﻿20:31:06 : Player #3 Legolas Greengusset - Legacy GUID: 789450bc0b93ad4feb8a4f171506b316
+﻿20:31:06 : Verified GUID (90846aacf42a72c8faf4e6afc8a20d07) of player #3 Legolas Greengusset
+﻿20:32:01 : RCon admin #0 (5.80.3.54:51616) logged in
+﻿20:33:37 : RCon admin #5 (5.80.3.54:51896) logged in
+﻿20:39:36 : RCon admin #0 (5.80.3.54:61737) logged in
+﻿20:43:22 : RCon admin #5 (5.80.3.54:61738) logged in
+﻿20:43:40 : RCon admin #3: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!! VEHICLES MUST BE USED EVERY 3 DAYS!!
+﻿20:45:07 : RCon admin #0 (5.80.3.54:57378) logged in
+﻿20:45:32 : RCon admin #5 (5.80.3.54:57379) logged in
+﻿20:45:55 : RCon admin #0 (5.80.3.54:53076) logged in
+﻿20:48:40 : RCon admin #3: (Global) NO SQUAD XML: ENGLISH ONLY IN SIDE CHAT: VEHICLES AND GEAR CAN BE STOLEN ANYWHERE
+﻿20:53:32 : RCon admin #5 (5.80.3.54:55661) logged in
+﻿20:54:02 : RCon admin #0 (5.80.3.54:55662) logged in
+﻿20:54:23 : RCon admin #5 (5.80.3.54:1024) logged in
+﻿20:55:02 : RCon admin #0 (5.80.3.54:55664) logged in
+﻿20:59:40 : RCon admin #3: (Global) ADMINS: LWB AND SIERRA | VISIT THE WEBSITE SURVIVALIST-DAYZ.COM
+﻿21:13:40 : RCon admin #3: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!! VEHICLES MUST BE USED EVERY 3 DAYS!!
+﻿21:14:07 : RCon admin #5 (5.80.3.54:57223) logged in
+﻿21:18:40 : RCon admin #3: (Global) NO SQUAD XML: ENGLISH ONLY IN SIDE CHAT: VEHICLES AND GEAR CAN BE STOLEN ANYWHERE
+﻿21:29:40 : RCon admin #3: (Global) ADMINS: LWB AND SIERRA | VISIT THE WEBSITE SURVIVALIST-DAYZ.COM
+﻿21:35:51 : Player #2 Freedom disconnected
+﻿21:41:16 : Player #1 Walasznikow disconnected
+﻿21:43:40 : RCon admin #3: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!! VEHICLES MUST BE USED EVERY 3 DAYS!!
+﻿21:48:40 : RCon admin #3: (Global) NO SQUAD XML: ENGLISH ONLY IN SIDE CHAT: VEHICLES AND GEAR CAN BE STOLEN ANYWHERE
+﻿21:53:39 : RCon admin #0 (5.80.3.54:55666) logged in
+﻿21:54:14 : RCon admin #5 (5.80.3.54:55669) logged in
+﻿21:54:36 : RCon admin #0 (5.80.3.54:55670) logged in
+﻿21:59:40 : RCon admin #3: (Global) ADMINS: LWB AND SIERRA | VISIT THE WEBSITE SURVIVALIST-DAYZ.COM
+﻿22:00:03 : RCon admin #5 (5.80.3.54:57422) logged in
+﻿22:13:40 : RCon admin #3: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!! VEHICLES MUST BE USED EVERY 3 DAYS!!
+﻿22:18:29 : Player #1 Turmoil (85.164.44.228:3302) connected
+﻿22:18:30 : Player #1 Turmoil disconnected
+﻿22:18:40 : RCon admin #3: (Global) NO SQUAD XML: ENGLISH ONLY IN SIDE CHAT: VEHICLES AND GEAR CAN BE STOLEN ANYWHERE
+﻿22:20:18 : Player #1 Turmoil (85.164.44.228:3302) connected
+﻿22:20:19 : Player #1 Turmoil disconnected
+﻿22:24:31 : Player #1 Ziltoid (5.80.3.54:2304) connected
+﻿22:24:32 : Player #1 Ziltoid - GUID: bc07c7c39c76cf95a7a434d686d9df66 (unverified)
+﻿22:24:32 : Verified GUID (bc07c7c39c76cf95a7a434d686d9df66) of player #1 Ziltoid
+﻿22:24:33 : Player #1 Ziltoid - Legacy GUID: 977383e15b6c706cac44ca953ba440c7
+﻿22:24:40 : RCon admin #3: (Global) Server will restart in 10 minutes
+﻿22:25:55 : Lost Connection!
+﻿22:25:55 : Closing socket & exiting!
+﻿22:26:34 : Rcon client logging in
+﻿22:26:36 : RCon admin #3 (78.31.67.100:60840) logged in
+﻿22:26:44 : RCon admin #4 (5.80.3.54:60552) logged in
+﻿22:33:39 : RCon admin #5 (5.80.3.54:61222) logged in
+﻿22:37:52 : Player #1 Tamago (83.29.175.13:2304) connected
+﻿22:37:54 : Player #1 Tamago - GUID: 47fefcd2f1f4552be6f02ff058554a1a (unverified)
+﻿22:37:54 : Verified GUID (47fefcd2f1f4552be6f02ff058554a1a) of player #1 Tamago
+﻿22:37:55 : Player #1 Tamago - Legacy GUID: e7990920bf11d20ee9c09ceae0c69808
+﻿22:40:34 : RCon admin #3: (Global) NO SQUAD XML: ENGLISH ONLY IN SIDE CHAT: VEHICLES AND GEAR CAN BE STOLEN ANYWHERE
+﻿22:42:31 : Player #2 [OCB]Dodgy Embalmer (81.104.140.9:3302) connected
+﻿22:42:32 : Player #2 [OCB]Dodgy Embalmer - GUID: 38a93b9f0b2c7b7eb033f1a4b2026f75 (unverified)
+﻿22:42:33 : Verified GUID (38a93b9f0b2c7b7eb033f1a4b2026f75) of player #2 [OCB]Dodgy Embalmer
+﻿22:42:33 : Player #2 [OCB]Dodgy Embalmer - Legacy GUID: 4be85e1b432b4692c09a26acd7cd89f7
+﻿22:42:50 : Player #3 Legolas Greengusset (81.104.140.9:1025) connected
+﻿22:42:51 : Player #3 Legolas Greengusset - GUID: 90846aacf42a72c8faf4e6afc8a20d07 (unverified)
+﻿22:42:52 : Verified GUID (90846aacf42a72c8faf4e6afc8a20d07) of player #3 Legolas Greengusset
+﻿22:42:52 : Player #3 Legolas Greengusset - Legacy GUID: 789450bc0b93ad4feb8a4f171506b316
+﻿22:51:34 : RCon admin #3: (Global) ADMINS: LWB AND SIERRA | VISIT THE WEBSITE SURVIVALIST-DAYZ.COM
+﻿22:52:00 : Player #1 Tamago (47fefcd2f1f4552be6f02ff058554a1a) has been kicked by BattlEye: SetPos Restriction #0
+﻿22:52:12 : Player #1 Tamago (83.29.175.13:2304) connected
+﻿22:52:16 : Player #1 Tamago - GUID: 47fefcd2f1f4552be6f02ff058554a1a (unverified)
+﻿22:52:16 : Verified GUID (47fefcd2f1f4552be6f02ff058554a1a) of player #1 Tamago
+﻿22:52:16 : Player #1 Tamago - Legacy GUID: e7990920bf11d20ee9c09ceae0c69808
+﻿23:05:34 : RCon admin #3: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!! VEHICLES MUST BE USED EVERY 3 DAYS!!
+﻿23:10:34 : RCon admin #3: (Global) NO SQUAD XML: ENGLISH ONLY IN SIDE CHAT: VEHICLES AND GEAR CAN BE STOLEN ANYWHERE
+﻿23:21:34 : RCon admin #3: (Global) ADMINS: LWB AND SIERRA | VISIT THE WEBSITE SURVIVALIST-DAYZ.COM
+﻿23:35:35 : RCon admin #3: (Global) BASES MUST BE MAINTAINED VIA THE PLOT POLE EVERY 7 DAYS!! VEHICLES MUST BE USED EVERY 3 DAYS!!
+﻿23:40:34 : RCon admin #3: (Global) NO SQUAD XML: ENGLISH ONLY IN SIDE CHAT: VEHICLES AND GEAR CAN BE STOLEN ANYWHERE
+﻿23:47:51 : RCon admin #0 (5.80.3.54:62024) logged in
+﻿23:48:56 : RCon admin #5 (5.80.3.54:62025) logged in
+﻿23:49:56 : RCon admin #0 (5.80.3.54:62026) logged in
+﻿23:50:51 : RCon admin #5 (5.80.3.54:58713) logged in
+﻿23:51:35 : RCon admin #3: (Global) ADMINS: LWB AND SIERRA | VISIT THE WEBSITE SURVIVALIST-DAYZ.COM
+﻿23:56:01 : Player #0 Turmoil disconnected

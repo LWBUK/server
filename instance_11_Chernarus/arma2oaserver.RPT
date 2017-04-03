@@ -1,0 +1,1116 @@
+
+
+=====================================================================
+== C:\Users\Administrator\Desktop\epoch\arma2oaserver.exe
+== "arma2oaserver.exe"  -ip=78.31.67.100 -port=3300 -maxmem=2047 -noPause "-config=instance_11_Chernarus\config.cfg" "-cfg=instance_11_Chernarus\basic.cfg" "-profiles=instance_11_Chernarus" -name=instance_11_Chernarus "-mod=@DayZ_Epoch;@DayZ_Epoch_Server;"
+=====================================================================
+Exe timestamp: 2016/12/12 14:39:47
+Current time:  2017/04/03 15:52:48
+
+Version 1.63.131129
+Updating base class ->NonStrategic, by ca\config.bin/CfgVehicles/HouseBase/
+Updating base class ->HouseBase, by ca\config.bin/CfgVehicles/Ruins/
+Updating base class ->DestructionEffects, by ca\config.bin/CfgVehicles/House/DestructionEffects/
+Updating base class ->FlagCarrierCore, by ca\ca_pmc\config.bin/CfgVehicles/FlagCarrier/
+Updating base class ->VehicleMagazine, by ca\weapons\config.bin/CfgMagazines/14Rnd_FFAR/
+Updating base class Default->RifleCore, by ca\weapons\config.bin/cfgWeapons/Rifle/
+Updating base class ->LauncherCore, by ca\weapons\config.bin/cfgWeapons/RocketPods/
+Updating base class ->RocketPods, by ca\weapons\config.bin/cfgWeapons/FFARLauncher/
+Updating base class ->UH60_Base, by ca\air\config.bin/CfgVehicles/MH60S/
+Updating base class ->Car, by ca\wheeled2\lada\config.bin/CfgVehicles/Lada_base/
+Updating base class Small_items->ReammoBox, by dayz_equip\config.cpp/CfgVehicles/CardboardBox/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_Lamp_Small_EP1/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_Lamp_Street1_EP1/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_Lamp_Street2_EP1/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_Lampa_Ind_EP1/
+Updating base class StreetLamp_EP1->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_PowLines_Conc2L_EP1/
+Updating base class StreetLamp_BaseMediumOrange->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_sidl/
+Updating base class StreetLamp_BaseMediumOrange->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_sidl_2/
+Updating base class StreetLamp_BaseMediumOrange->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_sidl_3/
+Updating base class StreetLamp_BaseWeakYellow->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_ind/
+Updating base class StreetLamp_BaseWeakYellow->StreetLamp, by z\addons\dayz_code\config.bin/CfgNonAIVehicles/Land_lampa_ind_zebr/
+Updating base class RscStandardDisplay->, by z\addons\dayz_code\config.bin/RscDisplayStart/
+Updating base class RscShortcutButton->RscShortcutButtonMain, by z\addons\dayz_code\config.bin/RscDisplayMain/controls/CA_Exit/
+Updating base class CA_IGUI_Title->RscText, by z\addons\dayz_code\config.bin/RscDisplayGear/Controls/Gear_Title/
+Updating base class Available_items_Text->RscText, by z\addons\dayz_code\config.bin/RscDisplayGear/Controls/CA_ItemName/
+Updating base class CA_Gear_slot_item7->CA_Gear_slot_item1, by z\addons\dayz_code\config.bin/RscDisplayGear/Controls/G_GearItems/Controls/CA_Gear_slot_item8/
+Updating base class CA_Gear_slot_item7->CA_Gear_slot_item1, by z\addons\dayz_code\config.bin/RscDisplayGear/Controls/G_GearItems/Controls/CA_Gear_slot_item9/
+Updating base class CA_Gear_slot_item7->CA_Gear_slot_item1, by z\addons\dayz_code\config.bin/RscDisplayGear/Controls/G_GearItems/Controls/CA_Gear_slot_item10/
+Updating base class CA_Gear_slot_item7->CA_Gear_slot_item1, by z\addons\dayz_code\config.bin/RscDisplayGear/Controls/G_GearItems/Controls/CA_Gear_slot_item11/
+Updating base class CA_Gear_slot_item7->CA_Gear_slot_item1, by z\addons\dayz_code\config.bin/RscDisplayGear/Controls/G_GearItems/Controls/CA_Gear_slot_item12/
+Updating base class CA_Gear_slot_handgun_item5->CA_Gear_slot_handgun_item1, by z\addons\dayz_code\config.bin/RscDisplayGear/Controls/G_GearItems/Controls/CA_Gear_slot_handgun_item6/
+Updating base class CA_Gear_slot_handgun_item5->CA_Gear_slot_handgun_item1, by z\addons\dayz_code\config.bin/RscDisplayGear/Controls/G_GearItems/Controls/CA_Gear_slot_handgun_item7/
+Updating base class CA_Gear_slot_handgun_item5->CA_Gear_slot_handgun_item1, by z\addons\dayz_code\config.bin/RscDisplayGear/Controls/G_GearItems/Controls/CA_Gear_slot_handgun_item8/
+Updating base class CA_Gear_slot_special1->CA_Gear_slot_handgun_item1, by z\addons\dayz_code\config.bin/RscDisplayGear/Controls/G_GearItems/Controls/CA_Gear_slot_inventory1/
+Updating base class CA_Gear_slot_inventory7->CA_Gear_slot_inventory1, by z\addons\dayz_code\config.bin/RscDisplayGear/Controls/G_GearItems/Controls/CA_Gear_slot_inventory8/
+Updating base class CA_Gear_slot_inventory7->CA_Gear_slot_inventory1, by z\addons\dayz_code\config.bin/RscDisplayGear/Controls/G_GearItems/Controls/CA_Gear_slot_inventory9/
+Updating base class CA_Gear_slot_inventory7->CA_Gear_slot_inventory1, by z\addons\dayz_code\config.bin/RscDisplayGear/Controls/G_GearItems/Controls/CA_Gear_slot_inventory10/
+Updating base class CA_Gear_slot_inventory7->CA_Gear_slot_inventory1, by z\addons\dayz_code\config.bin/RscDisplayGear/Controls/G_GearItems/Controls/CA_Gear_slot_inventory11/
+Updating base class CA_Gear_slot_inventory7->CA_Gear_slot_inventory1, by z\addons\dayz_code\config.bin/RscDisplayGear/Controls/G_GearItems/Controls/CA_Gear_slot_inventory12/
+Updating base class CA_Gear_slot_item1->CA_Gear_slot_handgun, by z\addons\dayz_code\config.bin/RscDisplayGear/Controls/G_GearItems/Controls/CA_Gear_slot_special1/
+Updating base class RscIGUIShortcutButton->RscActiveText, by z\addons\dayz_code\config.bin/RscDisplayGear/Controls/ButtonClose/
+Updating base class RscText->, by z\addons\dayz_code\config.bin/RscTitles/Default/
+Updating base class ->ViewOptics, by z\addons\dayz_code\config.bin/CfgVehicles/Mi17_base/Turrets/MainTurret/ViewOptics/
+Updating base class ->ViewOptics, by z\addons\dayz_code\config.bin/CfgVehicles/UH1H_base/Turrets/MainTurret/ViewOptics/
+Updating base class ->ViewOptics, by z\addons\dayz_code\config.bin/CfgVehicles/UH1_Base/Turrets/MainTurret/ViewOptics/
+Updating base class Strategic->, by z\addons\dayz_code\config.bin/CfgVehicles/Bomb/
+Updating base class HighCommand->Logic, by z\addons\dayz_code\config.bin/CfgVehicles/HighCommandSubordinate/
+Updating base class NonStrategic->BuiltItems, by z\addons\dayz_code\config.bin/CfgVehicles/Fort_RazorWire/
+Updating base class ->DefaultEventhandlers, by z\addons\dayz_code\config.bin/CfgVehicles/CSJ_GyroP/EventHandlers/
+Updating base class AnimationSources->AnimationSources, by z\addons\dayz_code\config.bin/CfgVehicles/CSJ_GyroC/AnimationSources/
+Updating base class ->DefaultEventhandlers, by z\addons\dayz_code\config.bin/CfgVehicles/CSJ_GyroC/EventHandlers/
+Updating base class BuiltItems->Generator_Base, by z\addons\dayz_code\config.bin/CfgVehicles/Generator_DZ/
+Updating base class VehicleMagazine->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/29Rnd_30mm_AGS30/
+Updating base class VehicleMagazine->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/48Rnd_40mm_MK19/
+Updating base class 4000Rnd_762x51_M134->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/2000Rnd_762x51_M134/
+Updating base class VehicleMagazine->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/100Rnd_127x99_M2/
+Updating base class VehicleMagazine->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/50Rnd_127x107_DSHKM/
+Updating base class 4000Rnd_762x51_M134->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/pook_1300Rnd_762x51_M60/
+Updating base class 100Rnd_762x51_M240->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/pook_250Rnd_762x51/
+Updating base class 6Rnd_Grenade_Camel->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/pook_12Rnd_Grenade_Camel/
+Updating base class VehicleMagazine->CA_Magazine, by z\addons\dayz_code\config.bin/CfgMagazines/3Rnd_GyroGrenade/
+Updating base class DropWeapon->None, by z\addons\dayz_code\config.bin/CfgActions/PutWeapon/
+Updating base class DropMagazine->None, by z\addons\dayz_code\config.bin/CfgActions/PutMagazine/
+Updating base class Land_HouseV_1I2->House, by zero_buildings\config.cpp/CfgVehicles/Land_HouseV_1L2/
+Updating base class Land_HouseV_1I2->House, by zero_buildings\config.cpp/CfgVehicles/Land_HouseV_3I3/
+Updating base class House->DZE_OpenHouse, by warehouse\config.bin/CfgVehicles/Land_Ind_Pec_03/
+15:52:51 Initializing Steam server - Game Port: 3300, Steam Query Port: 3301
+15:52:52 Connected to Steam servers
+15:54:42 Server error: Player without identity Allan (id 1712080310)
+15:54:42 Server error: Player without identity Allan (id 1712080310)
+15:54:42 Server error: Player without identity Allan (id 1712080310)
+15:54:42 Server error: Player without identity Allan (id 1712080310)
+15:54:42 Server error: Player without identity Allan (id 1712080310)
+15:54:42 Server error: Player without identity Allan (id 1712080310)
+15:54:42 Server error: Player without identity Allan (id 1712080310)
+15:54:42 Server error: Player without identity Allan (id 1712080310)
+15:54:42 Server error: Player without identity Allan (id 1712080310)
+15:54:42 Server error: Player without identity Allan (id 1712080310)
+15:54:42 Server error: Player without identity Allan (id 1712080310)
+15:54:43 Server error: Player without identity Allan (id 1712080310)
+15:54:43 Server error: Player without identity Allan (id 1712080310)
+15:54:43 Server error: Player without identity Allan (id 1712080310)
+15:54:43 Server error: Player without identity Allan (id 1712080310)
+15:54:43 Server error: Player without identity Allan (id 1712080310)
+15:54:43 Server error: Player without identity Allan (id 1712080310)
+15:54:43 Server error: Player without identity Allan (id 1712080310)
+15:54:43 Server error: Player without identity Allan (id 1712080310)
+15:54:43 Server error: Player without identity Allan (id 1712080310)
+15:54:55 Strange convex component81 in zero_buildings\models\housev_3i3_i.p3d:geometryFire
+15:54:56 Strange convex component288 in warehouse\models\warehouse.p3d:geometry
+15:54:56 Strange convex component289 in warehouse\models\warehouse.p3d:geometry
+15:54:56 Strange convex component290 in warehouse\models\warehouse.p3d:geometry
+15:54:56 Strange convex component291 in warehouse\models\warehouse.p3d:geometry
+15:54:56 Strange convex component292 in warehouse\models\warehouse.p3d:geometry
+15:54:56 Strange convex component293 in warehouse\models\warehouse.p3d:geometry
+15:54:56 Strange convex component294 in warehouse\models\warehouse.p3d:geometry
+15:54:56 Strange convex component295 in warehouse\models\warehouse.p3d:geometry
+15:54:56 Strange convex component296 in warehouse\models\warehouse.p3d:geometry
+15:54:56 Strange convex component297 in warehouse\models\warehouse.p3d:geometry
+15:54:56 Strange convex component298 in warehouse\models\warehouse.p3d:geometry
+15:54:56 Strange convex component299 in warehouse\models\warehouse.p3d:geometry
+15:54:56 Strange convex component300 in warehouse\models\warehouse.p3d:geometry
+15:54:56 Strange convex component301 in warehouse\models\warehouse.p3d:geometry
+15:54:56 Strange convex component302 in warehouse\models\warehouse.p3d:geometry
+15:54:56 Strange convex component303 in warehouse\models\warehouse.p3d:geometry
+15:54:56 Strange convex component304 in warehouse\models\warehouse.p3d:geometry
+15:54:56 Strange convex component305 in warehouse\models\warehouse.p3d:geometry
+15:54:56 Strange convex component306 in warehouse\models\warehouse.p3d:geometry
+15:54:56 Strange convex component307 in warehouse\models\warehouse.p3d:geometry
+15:54:56 Strange convex component308 in warehouse\models\warehouse.p3d:geometry
+15:54:56 Strange convex component309 in warehouse\models\warehouse.p3d:geometry
+15:54:56 Strange convex component310 in warehouse\models\warehouse.p3d:geometry
+15:54:56 Strange convex component311 in warehouse\models\warehouse.p3d:geometry
+15:54:56 Strange convex component312 in warehouse\models\warehouse.p3d:geometry
+15:54:56 Strange convex component313 in warehouse\models\warehouse.p3d:geometry
+15:54:56 Strange convex component314 in warehouse\models\warehouse.p3d:geometry
+15:54:56 Strange convex component315 in warehouse\models\warehouse.p3d:geometry
+15:54:56 Strange convex component316 in warehouse\models\warehouse.p3d:geometry
+15:54:56 Strange convex component317 in warehouse\models\warehouse.p3d:geometry
+15:54:56 Strange convex component252 in warehouse\models\warehouse.p3d:geometryFire
+15:54:56 Strange convex component253 in warehouse\models\warehouse.p3d:geometryFire
+15:54:56 Strange convex component254 in warehouse\models\warehouse.p3d:geometryFire
+15:54:56 Strange convex component255 in warehouse\models\warehouse.p3d:geometryFire
+15:54:56 Strange convex component256 in warehouse\models\warehouse.p3d:geometryFire
+15:54:56 Strange convex component257 in warehouse\models\warehouse.p3d:geometryFire
+15:54:56 Strange convex component258 in warehouse\models\warehouse.p3d:geometryFire
+15:54:56 Strange convex component259 in warehouse\models\warehouse.p3d:geometryFire
+15:54:56 Strange convex component260 in warehouse\models\warehouse.p3d:geometryFire
+15:54:56 Strange convex component261 in warehouse\models\warehouse.p3d:geometryFire
+15:54:56 Strange convex component262 in warehouse\models\warehouse.p3d:geometryFire
+15:54:56 Strange convex component263 in warehouse\models\warehouse.p3d:geometryFire
+15:54:56 Strange convex component264 in warehouse\models\warehouse.p3d:geometryFire
+15:54:56 Strange convex component265 in warehouse\models\warehouse.p3d:geometryFire
+15:54:56 Strange convex component266 in warehouse\models\warehouse.p3d:geometryFire
+15:54:56 Strange convex component267 in warehouse\models\warehouse.p3d:geometryFire
+15:54:56 Strange convex component268 in warehouse\models\warehouse.p3d:geometryFire
+15:54:56 Strange convex component269 in warehouse\models\warehouse.p3d:geometryFire
+15:54:56 Strange convex component270 in warehouse\models\warehouse.p3d:geometryFire
+15:54:56 Strange convex component271 in warehouse\models\warehouse.p3d:geometryFire
+15:54:56 Strange convex component272 in warehouse\models\warehouse.p3d:geometryFire
+15:54:56 Strange convex component273 in warehouse\models\warehouse.p3d:geometryFire
+15:54:56 Strange convex component274 in warehouse\models\warehouse.p3d:geometryFire
+15:54:56 Strange convex component275 in warehouse\models\warehouse.p3d:geometryFire
+15:54:56 Strange convex component276 in warehouse\models\warehouse.p3d:geometryFire
+15:54:56 Strange convex component277 in warehouse\models\warehouse.p3d:geometryFire
+15:54:56 Strange convex component278 in warehouse\models\warehouse.p3d:geometryFire
+15:54:56 Strange convex component279 in warehouse\models\warehouse.p3d:geometryFire
+15:54:56 Strange convex component280 in warehouse\models\warehouse.p3d:geometryFire
+15:54:56 Strange convex component281 in warehouse\models\warehouse.p3d:geometryFire
+15:54:56 Strange convex component249 in warehouse\models\warehouse.p3d:geometryView
+15:54:56 Strange convex component250 in warehouse\models\warehouse.p3d:geometryView
+15:54:56 Strange convex component251 in warehouse\models\warehouse.p3d:geometryView
+15:54:56 Strange convex component252 in warehouse\models\warehouse.p3d:geometryView
+15:54:56 Strange convex component253 in warehouse\models\warehouse.p3d:geometryView
+15:54:56 Strange convex component254 in warehouse\models\warehouse.p3d:geometryView
+15:54:56 Strange convex component255 in warehouse\models\warehouse.p3d:geometryView
+15:54:56 Strange convex component256 in warehouse\models\warehouse.p3d:geometryView
+15:54:56 Strange convex component257 in warehouse\models\warehouse.p3d:geometryView
+15:54:56 Strange convex component258 in warehouse\models\warehouse.p3d:geometryView
+15:54:56 Strange convex component259 in warehouse\models\warehouse.p3d:geometryView
+15:54:56 Strange convex component260 in warehouse\models\warehouse.p3d:geometryView
+15:54:56 Strange convex component261 in warehouse\models\warehouse.p3d:geometryView
+15:54:56 Strange convex component262 in warehouse\models\warehouse.p3d:geometryView
+15:54:56 Strange convex component263 in warehouse\models\warehouse.p3d:geometryView
+15:54:56 Strange convex component264 in warehouse\models\warehouse.p3d:geometryView
+15:54:56 Strange convex component265 in warehouse\models\warehouse.p3d:geometryView
+15:54:56 Strange convex component266 in warehouse\models\warehouse.p3d:geometryView
+15:54:56 Strange convex component267 in warehouse\models\warehouse.p3d:geometryView
+15:54:56 Strange convex component268 in warehouse\models\warehouse.p3d:geometryView
+15:54:56 Strange convex component269 in warehouse\models\warehouse.p3d:geometryView
+15:54:56 Strange convex component270 in warehouse\models\warehouse.p3d:geometryView
+15:54:56 Strange convex component271 in warehouse\models\warehouse.p3d:geometryView
+15:54:56 Strange convex component272 in warehouse\models\warehouse.p3d:geometryView
+15:54:56 Strange convex component273 in warehouse\models\warehouse.p3d:geometryView
+15:54:56 Strange convex component274 in warehouse\models\warehouse.p3d:geometryView
+15:54:56 Strange convex component275 in warehouse\models\warehouse.p3d:geometryView
+15:54:56 Strange convex component276 in warehouse\models\warehouse.p3d:geometryView
+15:54:56 Strange convex component277 in warehouse\models\warehouse.p3d:geometryView
+15:54:56 Strange convex component278 in warehouse\models\warehouse.p3d:geometryView
+15:54:58 "PRELOAD_ Functions\init [[<No group>:0 (FunctionsManager)],any]"
+15:54:58 "MPframework inited"
+15:54:58 "dayz_preloadFinished reset"
+15:54:59 "infiSTAR.de - Waiting for BIS_fnc_init..."
+15:54:59 "Epoch detected"
+15:54:59 "infiSTAR.de - BIS_fnc_init done - AntiHack STARTING...!"
+15:54:59 Warning Message: Script low_admins.sqf not found
+15:54:59 Warning Message: Script normal_admins.sqf not found
+15:54:59 Warning Message: Script super_admins.sqf not found
+15:54:59 Warning Message: Script blacklist.sqf not found
+15:54:59 "infiSTAR.de - iproductVersion: 14-Mar-2017 13-45-25-v1438 | Server productVersion: ["ArmA 2 OA","ArmA2OA",163,131129] | worldName: Chernarus | dayz_instance: 11 | missionName: DayZ_Epoch_11"
+15:54:59 "infiSTAR.de - _fnc_RandomGen: {
+_abc = ['z','y','x','w','v','u','t','s','r','q','p','o','n','m','l','k','j','i','h','g','f','e','d','c','b','a'];
+_gen = _abc select (random ((count _abc)-1));
+_arr = ['6','U','1','l','w','q','e','L','Q','c','1','c','k','H','D','C','d','U','X','W','8','w','Q','e','X','T','j','b','h','M'];
+for '_i' from 0 to (8+(round(random 3))) do {_gen = _gen + str(round(random 9)) + (_arr select (random ((count _arr)-1)));};
+_gen
+}"
+15:54:59 "infiSTAR.de - _simple: d7k3X6d2Q510T6w0e7l1e3w2Q"
+15:54:59 "infiSTAR.de - _dialogIds: o3D4Q3H6d2l116W8k7X6j4c"
+15:54:59 "infiSTAR.de - _badtxts: s2e3X8W1k781d3C6e3w1j5j9c"
+15:54:59 "infiSTAR.de - _randvar1: x419h1W5Q8e6h3d7h8j"
+15:54:59 "infiSTAR.de - _randvar2: q9w2e7C1d8U4c5Q1U3w2d911Q"
+15:54:59 "infiSTAR.de - _randvar0: g3b7L8X5d7h7X5H6k9W11"
+15:54:59 "infiSTAR.de - _randvar3: l1d1k5X168d5h6C6D3h7e"
+15:54:59 "infiSTAR.de - _randvar4: f1D5l2U389e9d7X3Q4w2M"
+15:54:59 "infiSTAR.de - _randvar5: l114c0Q3e0w2j2b6U7h1H"
+15:54:59 "infiSTAR.de - _randvar6: h1d0c1L818c8w1Q21410H"
+15:54:59 "infiSTAR.de - _randvar8: n2w9j580q7w8l7C1U0U"
+15:54:59 "infiSTAR.de - _randvar9: j2X5q4U4e5c3w2b618b"
+15:54:59 "infiSTAR.de - _randvar11: k5d2X3w665U5D5q7q7l"
+15:54:59 "infiSTAR.de - _randvar12: p0d6X4C7C5q8c2j863D8h"
+15:54:59 "infiSTAR.de - _randvar13: v1U7b1w3c8Q7b0T2h0e4H"
+15:54:59 "infiSTAR.de - _randvar19: u814b1X2q5X111j5H1d1W8X"
+15:54:59 "infiSTAR.de - _randvar20: n4H5q0e6d2Q883w0D1X118e"
+15:54:59 "infiSTAR.de - _randvar27: n9k7c418X1U1k8c7U9w"
+15:54:59 "infiSTAR.de - _randvar26: i618U2c3D1C4X4d5e0e3e"
+15:54:59 "infiSTAR.de - _randvar25: g3M1e9c7U1e6T3q913c167X"
+15:54:59 "infiSTAR.de - _randvar31: y2U6T1U1W1l2w7Q1h9c6D2D"
+15:54:59 "infiSTAR.de - _randvar33: q5C2e2X1k4l6c3c58087q8j0h"
+15:54:59 "infiSTAR.de - _randvar34: k6d182h7L4e4j7c3c4c3d"
+15:54:59 "infiSTAR.de - _randvar35: s3c7k8X780w1j1e2D6D1C1U"
+15:54:59 "infiSTAR.de - _randvar36: y6Q1W5Q4M7k8X8j1q7l48117c"
+15:54:59 "infiSTAR.de - _randvar327537: w6w3T7X8Q9b6Q81767U5U9H9T"
+15:54:59 "infiSTAR.de - _randvar39: f2j4k9q1d817D8W611X5b3j"
+15:54:59 "infiSTAR.de - _clickOnMapTimer: n1D8k4l3q5b3d4e789Q31"
+15:54:59 "infiSTAR.de - _clickOnMapCaught: s1C7X8k0U565h3l5X7851"
+15:54:59 "infiSTAR.de - _fnc_handlerandvar10: p4b2b6Q1T1j6e3e5Q0c6Q2c"
+15:54:59 "infiSTAR.de - _remark: h2h2k316c4b3q3l1H2T0H"
+15:54:59 "infiSTAR.de - _AHpos: g61060b2Q0w9k8b4w7H"
+15:54:59 "infiSTAR.de - _loadedcheckpos: p6e265k9Q211L5c411h1d3L"
+15:54:59 "infiSTAR.de - _loadedchecktime: b4c5h4w1Q5C7b3q265k3w1T38"
+15:54:59 "infiSTAR.de - _MenuChecksRunningx: g4c5D8U1w2C8T61286d"
+15:54:59 "infiSTAR.de - _oneachframe: x4U8L8j1Q0q115X280c111e5H"
+15:54:59 "infiSTAR.de - _anotherloop: w9U4Q5l7L0Q7c4d7U6U4l8X"
+15:54:59 "infiSTAR.de - _clientoncetwo: q2H1M4q7l4Q881X165w4h5j3D"
+15:54:59 "infiSTAR.de - _lastUnlock: q6c964X4c2D5U5c6d6W1c4U"
+15:54:59 "infiSTAR.de - _AdminReqCheck: t4X719l3c1h6C2M2C3b7c"
+15:54:59 "infiSTAR.de - _antidupeCheckVar: q1X8q5e810l3U3D6H1X8W"
+15:54:59 "infiSTAR.de - _antiantihack1_rndvar: y5Q4X5w5e2X3C4l6k8D4Q61"
+15:54:59 "infiSTAR.de - _antiantihack2_rndvar: s8e6k8c9U5C0U3w4X814141"
+15:54:59 "infiSTAR.de - _antidupePVResVar: b5e1k3C5X7Q1b3U212k4W"
+15:54:59 "infiSTAR.de - _antidupePVCheckVar: PVAHR_0_j8L8d882w3H5b3C0U9h0c"
+15:54:59 "infiSTAR.de - _randvar327510: PVAHR_0_x4l3Q1k6Q16912b4d8j2U1q"
+15:54:59 "infiSTAR.de - AntiHack LOADED!"
+15:54:59 "infiSTAR.de - CREATING AdminMenu"
+15:54:59 "infiSTAR.de - AdminMenu LOADED!"
+15:54:59 "infiSTAR.de - ADDING PublicVariableEventHandlers"
+15:54:59 "infiSTAR.de - AntiHack FULLY LOADED"
+15:55:00 "Loading custom server compiles"
+15:55:00 BIKE: loading version 2.8.2 ...
+15:55:00 BIKE: adding bike to safe vehicle list...
+15:55:00 Strange convex component93 in zero_buildings\models\mil_house_i.p3d:geometryView
+15:55:00 Strange convex component94 in zero_buildings\models\mil_house_i.p3d:geometryView
+15:55:00 Strange convex component95 in zero_buildings\models\mil_house_i.p3d:geometryView
+15:55:00 Strange convex component96 in zero_buildings\models\mil_house_i.p3d:geometryView
+15:55:00 Strange convex component99 in zero_buildings\models\mil_house_i.p3d:geometryView
+15:55:00 Strange convex component100 in zero_buildings\models\mil_house_i.p3d:geometryView
+15:55:00 Strange convex component101 in zero_buildings\models\mil_house_i.p3d:geometryView
+15:55:00 Strange convex component102 in zero_buildings\models\mil_house_i.p3d:geometryView
+15:55:00 Strange convex component103 in zero_buildings\models\mil_house_i.p3d:geometryView
+15:55:00 Strange convex component104 in zero_buildings\models\mil_house_i.p3d:geometryView
+15:55:00 Strange convex component105 in zero_buildings\models\mil_house_i.p3d:geometryView
+15:55:00 Strange convex component106 in zero_buildings\models\mil_house_i.p3d:geometryView
+15:55:00 Strange convex component107 in zero_buildings\models\mil_house_i.p3d:geometryView
+15:55:00 Strange convex component108 in zero_buildings\models\mil_house_i.p3d:geometryView
+15:55:00 Strange convex component109 in zero_buildings\models\mil_house_i.p3d:geometryView
+15:55:00 Strange convex component110 in zero_buildings\models\mil_house_i.p3d:geometryView
+15:55:00 Strange convex component111 in zero_buildings\models\mil_house_i.p3d:geometryView
+15:55:00 Strange convex component112 in zero_buildings\models\mil_house_i.p3d:geometryView
+15:55:00 Strange convex component113 in zero_buildings\models\mil_house_i.p3d:geometryView
+15:55:00 Strange convex component114 in zero_buildings\models\mil_house_i.p3d:geometryView
+15:55:00 Strange convex component115 in zero_buildings\models\mil_house_i.p3d:geometryView
+15:55:00 Strange convex component116 in zero_buildings\models\mil_house_i.p3d:geometryView
+15:55:00 Strange convex component117 in zero_buildings\models\mil_house_i.p3d:geometryView
+15:55:00 Strange convex component118 in zero_buildings\models\mil_house_i.p3d:geometryView
+15:55:00 Strange convex component119 in zero_buildings\models\mil_house_i.p3d:geometryView
+15:55:00 Strange convex component120 in zero_buildings\models\mil_house_i.p3d:geometryView
+15:55:00 Strange convex component121 in zero_buildings\models\mil_house_i.p3d:geometryView
+15:55:00 Strange convex component122 in zero_buildings\models\mil_house_i.p3d:geometryView
+15:55:00 Strange convex component123 in zero_buildings\models\mil_house_i.p3d:geometryView
+15:55:00 Strange convex component124 in zero_buildings\models\mil_house_i.p3d:geometryView
+15:55:00 Strange convex component125 in zero_buildings\models\mil_house_i.p3d:geometryView
+15:55:00 Strange convex component126 in zero_buildings\models\mil_house_i.p3d:geometryView
+15:55:00 Strange convex component127 in zero_buildings\models\mil_house_i.p3d:geometryView
+15:55:00 Strange convex component128 in zero_buildings\models\mil_house_i.p3d:geometryView
+15:55:00 Strange convex component129 in zero_buildings\models\mil_house_i.p3d:geometryView
+15:55:00 Strange convex component130 in zero_buildings\models\mil_house_i.p3d:geometryView
+15:55:00 Strange convex component131 in zero_buildings\models\mil_house_i.p3d:geometryView
+15:55:00 Strange convex component132 in zero_buildings\models\mil_house_i.p3d:geometryView
+15:55:00 Strange convex component133 in zero_buildings\models\mil_house_i.p3d:geometryView
+15:55:00 Strange convex component134 in zero_buildings\models\mil_house_i.p3d:geometryView
+15:55:01 Cannot create non-ai vehicle Land_stanek_3,
+15:55:01 Cannot create non-ai vehicle LAND_MASH,
+15:55:01 Cannot create non-ai vehicle LAND_Stan_east,
+15:55:01 Cannot create non-ai vehicle LAND_P_Stavebni_kozy,
+15:55:01 Cannot create non-ai vehicle LAND_Misc_palletsfoiled,
+15:55:01 Cannot create non-ai vehicle LAND_Misc_palletsfoiled_heap,
+15:55:01 Cannot create non-ai vehicle LAND_P_ytong,
+15:55:01 Cannot create non-ai vehicle LAND_Misc_palletsfoiled,
+15:55:01 Cannot create non-ai vehicle LAND_Misc_palletsfoiled,
+15:55:01 Cannot create non-ai vehicle LAND_P_Ladder,
+15:55:01 Cannot create non-ai vehicle LAND_garbage_misc,
+15:55:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+15:55:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+15:55:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+15:55:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+15:55:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+15:55:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+15:55:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+15:55:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+15:55:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+15:55:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+15:55:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+15:55:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+15:55:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+15:55:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+15:55:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+15:55:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+15:55:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+15:55:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+15:55:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+15:55:01 ca\structures\ruins\glass_cullet_01.p3d: No geometry and no visual shape
+15:55:02 No owner
+15:55:03 "HIVE: Starting"
+15:55:03 ["TIME SYNC: Local Time set to:",[2012,8,2,13,55],"Fullmoon:",true,"Date given by HiveExt.dll:",[2017,4,3,13,55]]
+15:55:03 "HIVE: trying to get objects"
+15:55:03 "HIVE: found 2436 objects"
+15:55:03 "HIVE: Request sent"
+15:55:03 "HIVE: Streamed 2436 objects"
+15:55:04 "Res3tting B!S effects..."
+15:55:06 "SERVER FPS: 45  PLAYERS: 1"
+15:55:06 "[VEHICLE CLEANUP ZONE]: selecting world to cleanup ..."
+15:55:08 No owner
+15:55:12 No owner
+15:55:14 "HIVE: BENCHMARK - Server_monitor.sqf finished streaming 2436 objects in 10.792 seconds (unscheduled)"
+15:55:14 "Total Number of spawn locations 6"
+15:55:14 "[DZAI] Initializing DZAI version 2.2.1 Release Build 20141208 using base path z\addons\dayz_server\DZAI."
+15:55:14 "[DZAI] Reading DZAI configuration file."
+15:55:14 "[DZAI] DZAI configuration file loaded."
+15:55:14 "[DZAI] Compiling DZAI functions."
+15:55:14 "[DZAI] DZAI functions compiled."
+15:55:14 "DZAI Debug: Detected mod variant dayz_epoch."
+15:55:14 "DayZ (Default) classnames loaded."
+15:55:14 "[DZAI] DZAI settings: Debug Level: 1. DebugMarkers: false. WorldName: chernarus. ModName:  (Ver: dayz epoch 1.0.6.1). DZAI_dynamicWeaponList: true. VerifyTables: true."
+15:55:14 "[DZAI] AI spawn settings: Static: false. Dynamic: false. Random: false. Air: false. Land: false."
+15:55:14 "[DZAI] AI settings: DZAI_findKiller: true. DZAI_useHealthSystem: true. DZAI_weaponNoise: false. DZAI_zombieEnemy: false."
+15:55:14 "[DZAI] DZAI loading completed in 0.151001 seconds."
+15:55:14 "DZAI Debug: DZAI Startup is running required script files..."
+15:55:14 "[DZAI] DZAI finished building weighted weapongrade tables in 0.000991821 seconds."
+15:55:14 "DEBUG: Spawning a care package (Misc_cargo_cont_net3) at [4282.09,9539.46,0] with 8 items."
+15:55:14 "DEBUG: Spawning a care package (Misc_cargo_cont_net1) at [3916.35,9655.38,0] with 6 items."
+15:55:14 "DEBUG: Spawning a care package (Misc_cargo_cont_net1) at [4775.36,5738.81,0] with 4 items."
+15:55:14 "infiSTAR.de - Player-Log: Allan(76561198122634822) - 0h 00min"
+15:55:14 "DEBUG: Spawning a care package (Misc_cargo_cont_net1) at [3262.08,6956.39,0] with 5 items."
+15:55:15 "DEBUG: Spawning a care package (Misc_cargo_cont_net1) at [11190.5,7989.07,0] with 6 items."
+15:55:15 "DEBUG: Spawning a care package (Misc_cargo_cont_net1) at [5776.57,7758.4,0] with 4 items."
+15:55:15 "CRASHSPAWNER: Starting crash site spawner. Frequency: 25±20 min. Spawn chance: 0.75"
+15:55:15 "CRASHSPAWNER: Spawning crash site (CrashSite_US) at [4077.3,9781.21,0] with 7 items."
+15:55:15 CrashSite_US: MainTurret - unknown animation source MainTurret
+15:55:15 CrashSite_US: MainGun - unknown animation source mainGun
+15:55:15 CrashSite_US: Gatling - unknown animation source Gatling
+15:55:18 "HIVE: Spawning # of Vehicles: 20"
+15:55:18 "PUBLISH: Attempt 377690c0# 1061739: kamaz.p3d"
+15:55:18 "HIVE: WRITE: "CHILD:308:11:Kamaz_DZE:0:0:[17,[3140.65,7888.15,0.0143738]]:[]:[["wheel_1_1_steering",0.124362],["wheel_2_1_steering",0.139559],["wheel_1_4_steering",0.534398],["wheel_2_4_steering",0.198788],["wheel_1_3_steering",0.484931],["wheel_2_3_steering",0.618773],["wheel_1_2_steering",0.237079],["wheel_2_2_steering",0.854296],["motor",0.729787],["sklo predni P",0.239101],["sklo predni L",0.577938],["karoserie",0.421813],["palivo",0.629137],["glass1",0.526689],["glass2",0.791839],["glass3",0.842656],["glass4",0.337674]]:0.279647:3296177888155:""
+15:55:19 "PUBLISH: Attempt 37768100# 1061740: uh1y.p3d"
+15:55:19 "HIVE: WRITE: "CHILD:308:11:UH1Y_DZE:0:0:[167,[13192.6,6770.81,0.00477457]]:[]:[["NEtrup",0.183579],["motor",0.584452],["elektronika",0.696034],["mala vrtule",0.501037],["velka vrtule",0.78789],["munice",0.453168],["sklo predni P",0.118964],["sklo predni L",0.208399],["glass1",0.909406],["glass2",0.147916],["glass3",0.71113],["glass4",0.862684],["glass5",0.953397],["glass6",0.146428]]:0.444894:133491676771156:""
+15:55:19 "PUBLISH: Attempt 389a3040# 1061741: ural.p3d"
+15:55:19 "HIVE: WRITE: "CHILD:308:11:Ural_CDF:0:0:[35,[10062.3,1979.42,0]]:[]:[["glass1",0.374857],["glass2",0.826108],["glass3",0.885011],["glass4",0.646726],["wheel_1_1_steering",0.692201],["wheel_2_1_steering",0.905964],["wheel_1_4_steering",0.0740318],["wheel_2_4_steering",0.252983],["wheel_1_3_steering",0.176973],["wheel_2_3_steering",0.573598],["wheel_1_2_steering",0.143551],["wheel_2_2_steering",0.153181],["motor",0.44227],["sklo predni P",0.0150907],["sklo predni L",0.843379],["karoserie",0.859156],["palivo",0.942579]]:0.0540888:10218351979156:""
+15:55:19 "PUBLISH: Attempt 389a2080# 1061742: ikarus.p3d"
+15:55:19 "HIVE: WRITE: "CHILD:308:11:Ikarus:0:0:[127,[12010.8,9054.94,0]]:[]:[["glass5",0.759022],["glass6",0.727354],["motor",0.799807],["sklo predni P",0.0947623],["sklo predni L",0.938454],["karoserie",0.696705],["palivo",0.238829],["wheel_1_1_steering",0.890898],["wheel_2_1_steering",0.0708266],["wheel_1_4_steering",0.00778674],["wheel_2_4_steering",0.793672],["wheel_1_3_steering",0.465009],["wheel_2_3_steering",0.422343],["wheel_1_2_steering",0.0579796],["wheel_2_2_steering",0.193868],["glass1",0.977134],["glass2",0.167036],["glass3",0.73321],["glass4",0.752745]]:0.412225:121671279055156:""
+15:55:19 "PUBLISH: Attempt 389a10c0# 1061744: pbx.p3d"
+15:55:19 "HIVE: WRITE: "CHILD:308:11:PBX:0:0:[25,[14636,1721.04,96.596]]:[]:[["motor",0.242358]]:0.256321:14792251721156:""
+15:55:19 "PUBLISH: Attempt 389a0100# 1061745: v3s_open.p3d"
+15:55:19 "HIVE: WRITE: "CHILD:308:11:V3S_Open_TK_EP1:0:0:[77,[6983.3,2380.37,0]]:[]:[["wheel_1_1_steering",0.975734],["wheel_1_2_steering",0.946394],["wheel_1_3_steering",0.589281],["wheel_2_1_steering",0.83008],["wheel_2_2_steering",0.358279],["wheel_2_3_steering",0.608557],["wheel_1_4_steering",0.335851],["wheel_2_4_steering",0.756935],["motor",0.58936],["sklo predni P",0.378466],["sklo predni L",0.857457],["karoserie",0.395787],["palivo",0.77327],["glass1",0.966139],["glass2",0.703287],["glass3",0.147657],["glass4",0.280775]]:0.0371801:7139772380156:""
+15:55:19 "PUBLISH: Attempt 3896f040# 1061746: uaz_mg.p3d"
+15:55:19 "HIVE: WRITE: "CHILD:308:11:UAZ_MG_TK_EP1_DZE:0:0:[168,[8420.91,12067.3,0.0647888]]:[]:[["wheel_1_1_steering",0.918596],["wheel_1_2_steering",0.575413],["wheel_2_1_steering",0.861785],["wheel_2_2_steering",0.166679],["motor",0.868557],["sklo predni P",0.380981],["sklo predni L",0.413408],["karoserie",0.287254],["palivo",0.92737],["wheel_1_4_steering",0.482253],["wheel_2_4_steering",0.621746],["wheel_1_3_steering",0.55058],["wheel_2_3_steering",0.0790111],["glass1",0.225619],["glass2",0.757147],["glass3",0.316546],["glass4",0.137617]]:0.120912:857716812067156:""
+15:55:19 "PUBLISH: Attempt 3896e080# 1061747: old_moto.p3d"
+15:55:19 "HIVE: WRITE: "CHILD:308:11:Old_moto_TK_Civ_EP1:0:0:[34,[3757.01,9078.29,0.00183105]]:[]:[["engine",0.0218096],["sklo predni P",0.914042],["sklo predni L",0.155725],["karoserie",0.735984],["palivo",0.419326],["Pravy predni tlumic",0.292227],["Pravy zadni tlumic",0.130368]]:0.817237:3914349078157:""
+15:55:19 "PUBLISH: Attempt 3896d0c0# 1061748: an2.p3d"
+15:55:19 "HIVE: WRITE: "CHILD:308:11:AN2_DZ:0:0:[115,[11857,13116.5,0.667191]]:[]:[["glass1",0.305123],["glass2",0.113052],["glass3",0.395427],["glass4",0.606985],["telo",0.595303]]:0.0513279:1201411513117157:""
+15:55:19 "PUBLISH: Attempt 3896c100# 1061749: suv.p3d"
+15:55:19 "HIVE: WRITE: "CHILD:308:11:SUV_Red:0:0:[86,[8861.22,12027.2,0.0158539]]:[]:[["wheel_1_1_steering",0.750946],["wheel_1_2_steering",0.856433],["wheel_2_1_steering",0.483779],["wheel_2_2_steering",0.511718],["palivo",0.186168],["motor",0.536973],["glass1",0.642093],["glass2",0.74181],["glass3",0.458161],["glass4",0.77667],["sklo predni P",0.346491],["sklo predni L",0.298359],["karoserie",0.146964],["wheel_1_4_steering",0.0527945],["wheel_2_4_steering",0.59052],["wheel_1_3_steering",0.186235],["wheel_2_3_steering",0.357967]]:0.34432:90188612027157:""
+15:55:19 "PUBLISH: Attempt 38957040# 1061750: an2.p3d"
+15:55:19 "HIVE: WRITE: "CHILD:308:11:AN2_2_DZ:0:0:[132,[5346.2,10155.4,0.659729]]:[]:[["glass1",0.408478],["glass2",0.99134],["glass3",0.438578],["glass4",0.792701],["telo",0.993979]]:0.153416:550313210155157:""
+15:55:19 "PUBLISH: Attempt 38956080# 1061751: skodovka_blue.p3d"
+15:55:19 "HIVE: WRITE: "CHILD:308:11:SkodaBlue:0:0:[93,[2802.43,5306.69,0.0582886]]:[]:[["motor",0.646664],["sklo predni P",0.342262],["sklo predni L",0.0337766],["karoserie",0.372847],["palivo",0.580981],["wheel_1_1_steering",0.0478639],["wheel_2_1_steering",0.774835],["wheel_1_4_steering",0.985997],["wheel_2_4_steering",0.41749],["wheel_1_3_steering",0.495672],["wheel_2_3_steering",0.508489],["wheel_1_2_steering",0.00588055],["wheel_2_2_steering",0.480421],["glass1",0.769927],["glass2",0.823336],["glass3",0.772516],["glass4",0.138701]]:0.409267:2959935307157:""
+15:55:19 "PUBLISH: Attempt 389550c0# 1061752: uaz.p3d"
+15:55:19 "HIVE: WRITE: "CHILD:308:11:UAZ_RU:0:0:[133,[3751.35,10215.2,0.000213623]]:[]:[["glass1",0.643123],["glass2",0.49953],["glass3",0.62216],["glass4",0.533064],["wheel_1_1_steering",0.757187],["wheel_1_2_steering",0.0695202],["wheel_2_1_steering",0.174594],["wheel_2_2_steering",0.329862],["motor",0.95557],["sklo predni P",0.350596],["sklo predni L",0.875403],["karoserie",0.405334],["palivo",0.684253],["wheel_1_4_steering",0.587589],["wheel_2_4_steering",0.289505],["wheel_1_3_steering",0.431493],["wheel_2_3_steering",0.525985]]:0.999903:390813310215157:""
+15:55:20 "PUBLISH: Attempt 38954100# 1061753: skodovka.p3d"
+15:55:20 "HIVE: WRITE: "CHILD:308:11:Skoda:0:0:[24,[9621.87,12090.4,0.0269165]]:[]:[["motor",0.684219],["sklo predni P",0.361166],["sklo predni L",0.560313],["karoserie",0.324771],["palivo",0.583949],["wheel_1_1_steering",0.494472],["wheel_2_1_steering",0.279888],["wheel_1_4_steering",0.324783],["wheel_2_4_steering",0.339109],["wheel_1_3_steering",0.727994],["wheel_2_3_steering",0.294814],["wheel_1_2_steering",0.753002],["wheel_2_2_steering",0.876139],["glass1",0.524484],["glass2",0.317644],["glass3",0.377718],["glass4",0.697583]]:0.770848:97792412090157:""
+15:55:20 "PUBLISH: Attempt 38937040# 1061754: uaz.p3d"
+15:55:20 "HIVE: WRITE: "CHILD:308:11:UAZ_RU:0:0:[136,[6430.04,2559.3,9.53674e-007]]:[]:[["glass1",0.782825],["glass2",0.512332],["glass3",0.827988],["glass4",0.579282],["wheel_1_1_steering",0.679297],["wheel_1_2_steering",0.518176],["wheel_2_1_steering",0.668266],["wheel_2_2_steering",0.921082],["motor",0.759456],["sklo predni P",0.119698],["sklo predni L",0.305048],["karoserie",0.263982],["palivo",0.0934539],["wheel_1_4_steering",0.778912],["wheel_2_4_steering",0.381173],["wheel_1_3_steering",0.448182],["wheel_2_3_steering",0.649839]]:0.12164:65871362559157:""
+15:55:20 "HIVE: Spawning # of Debris: 0"
+15:55:20 "HIVE: Spawning # of Ammo Boxes: 3"
+15:55:20 "HIVE: Spawning # of Veins: 5"
+15:55:20 "HIVE: BENCHMARK - Server finished spawning 20 DynamicVehicles, 0 Debris, 3 SupplyCrates and 5 MineVeins in 5.019 seconds (scheduled)"
+15:55:20 "HIVE: WRITE: "CHILD:309:0:[[[],[]],[["5Rnd_762x54_Mosin"],[1]],[[],[]]]:""
+15:55:20 "HIVE: WRITE: "CHILD:309:0:[[[],[]],[["10Rnd_303British","TrashJackDaniels","FoodCanPotatoesEmpty"],[1,1,1]],[[],[]]]:""
+15:55:20 "HIVE: WRITE: "CHILD:309:0:[[[],[]],[["ItemMorphine"],[1]],[[],[]]]:""
+15:55:20 "HIVE: WRITE: "CHILD:309:0:[[[],[]],[["ItemSodaLirikEmpty","8Rnd_9x18_Makarov"],[1,1]],[["DZ_Patrol_Pack_EP1"],[1]]]:""
+15:55:20 "HIVE: WRITE: "CHILD:309:0:[[[],[]],[["PartFueltank","ItemSodaPeppsyEmpty"],[1,1]],[[],[]]]:""
+15:55:20 "HIVE: WRITE: "CHILD:309:0:[[[],[]],[["ItemBandage","ItemSodaLemonadeEmpty","FoodCanGriff"],[1,1,1]],[[],[]]]:""
+15:55:20 "HIVE: WRITE: "CHILD:309:0:[[[],[]],[["ItemAntibacterialWipe"],[1]],[[],[]]]:""
+15:55:20 "HIVE: WRITE: "CHILD:309:0:[[[],[]],[["ItemTent","HandChemGreen","PartGeneric"],[1,1,1]],[[],[]]]:""
+15:55:20 "HIVE: WRITE: "CHILD:309:0:[[["M1911_DZ"],[1]],[[],[]],[[],[]]]:""
+15:55:20 "HIVE: WRITE: "CHILD:309:0:[[[],[]],[["equip_herb_box"],[1]],[[],[]]]:""
+15:55:20 "HIVE: WRITE: "CHILD:309:0:[[[],[]],[["7Rnd_45ACP_1911","ItemBandage"],[1,1]],[[],[]]]:""
+15:55:20 "HIVE: WRITE: "CHILD:309:0:[[[],[]],[["FoodCanRusMilk","equip_rag"],[1,1]],[[],[]]]:""
+15:55:20 "HIVE: WRITE: "CHILD:309:0:[[[],[]],[["HandRoadFlare"],[1]],[[],[]]]:""
+15:55:20 "HIVE: WRITE: "CHILD:309:0:[[[],[]],[[],[]],[["DZ_CompactPack_EP1"],[1]]]:""
+15:55:20 "EPOCH EVENTS INIT"
+15:55:21 "DZAI Debug: Spawning in serverside objects... Reading from file CfgTownGeneratorChernarus."
+15:55:21 Warning Message: Script z\addons\dayz_server\WAI\customsettings.sqf not found
+15:55:21 "WAI: AI Config File Loaded"
+15:55:21 "DZAI Debug: Building DZAI weapon arrays using CfgBuildingLoot data."
+15:55:21 "DZAI Debug: Weapon classname tables created in 0 seconds."
+15:55:21 "HIVE: WRITE: "CHILD:388:3296177888155:""
+15:55:21 "CUSTOM: Selected "22831""
+15:55:21 "HIVE: WRITE: "CHILD:306:22831:[["wheel_1_1_steering",0.124362],["wheel_2_1_steering",0],["wheel_1_4_steering",0],["wheel_2_4_steering",0],["wheel_1_3_steering",0],["wheel_2_3_steering",0],["wheel_1_2_steering",0],["wheel_2_2_steering",0],["motor",0],["sklo predni P",0],["sklo predni L",0],["karoserie",0],["palivo",0],["glass1",0],["glass2",0],["glass3",0],["glass4",0]]:0:""
+15:55:22 "PUBLISH: Created Kamaz_DZE with ID "3296177888155""
+15:55:22 "HIVE: WRITE: "CHILD:388:133491676771156:""
+15:55:22 "CUSTOM: Selected "22832""
+15:55:22 "HIVE: WRITE: "CHILD:306:22832:[["NEtrup",0.183579],["motor",0],["elektronika",0],["mala vrtule",0],["velka vrtule",0],["munice",0],["sklo predni P",0],["sklo predni L",0],["glass1",0],["glass2",0],["glass3",0],["glass4",0],["glass5",0],["glass6",0]]:0:""
+15:55:22 "PUBLISH: Created UH1Y_DZE with ID "133491676771156""
+15:55:22 "HIVE: WRITE: "CHILD:388:10218351979156:""
+15:55:22 "CUSTOM: Selected "22833""
+15:55:22 "HIVE: WRITE: "CHILD:306:22833:[["glass1",0.374857],["glass2",0],["glass3",0],["glass4",0],["wheel_1_1_steering",0],["wheel_2_1_steering",0],["wheel_1_4_steering",0],["wheel_2_4_steering",0],["wheel_1_3_steering",0],["wheel_2_3_steering",0],["wheel_1_2_steering",0],["wheel_2_2_steering",0],["motor",0],["sklo predni P",0],["sklo predni L",0],["karoserie",0],["palivo",0]]:0:""
+15:55:23 "PUBLISH: Created Ural_CDF with ID "10218351979156""
+15:55:23 "HIVE: WRITE: "CHILD:388:121671279055156:""
+15:55:23 "CUSTOM: Selected "22834""
+15:55:23 "HIVE: WRITE: "CHILD:306:22834:[["glass5",0.759022],["glass6",0],["motor",0],["sklo predni P",0],["sklo predni L",0],["karoserie",0],["palivo",0],["wheel_1_1_steering",0],["wheel_2_1_steering",0],["wheel_1_4_steering",0],["wheel_2_4_steering",0],["wheel_1_3_steering",0],["wheel_2_3_steering",0],["wheel_1_2_steering",0],["wheel_2_2_steering",0],["glass1",0],["glass2",0],["glass3",0],["glass4",0]]:0:""
+15:55:24 "PUBLISH: Created Ikarus with ID "121671279055156""
+15:55:24 "HIVE: WRITE: "CHILD:388:14792251721156:""
+15:55:24 "CUSTOM: Selected "22835""
+15:55:24 "HIVE: WRITE: "CHILD:306:22835:[["motor",0.242358]]:0:""
+15:55:24 "PUBLISH: Created PBX with ID "14792251721156""
+15:55:24 "HIVE: WRITE: "CHILD:388:7139772380156:""
+15:55:24 "CUSTOM: Selected "22836""
+15:55:24 "HIVE: WRITE: "CHILD:306:22836:[["wheel_1_1_steering",0.975734],["wheel_1_2_steering",0],["wheel_1_3_steering",0],["wheel_2_1_steering",0],["wheel_2_2_steering",0],["wheel_2_3_steering",0],["wheel_1_4_steering",0],["wheel_2_4_steering",0],["motor",0],["sklo predni P",0],["sklo predni L",0],["karoserie",0],["palivo",0],["glass1",0],["glass2",0],["glass3",0],["glass4",0]]:0:""
+15:55:24 "PUBLISH: Created V3S_Open_TK_EP1 with ID "7139772380156""
+15:55:25 "HIVE: WRITE: "CHILD:388:857716812067156:""
+15:55:25 "CUSTOM: Selected "22837""
+15:55:25 "HIVE: WRITE: "CHILD:306:22837:[["wheel_1_1_steering",0.918596],["wheel_1_2_steering",0],["wheel_2_1_steering",0],["wheel_2_2_steering",0],["motor",0],["sklo predni P",0],["sklo predni L",0],["karoserie",0],["palivo",0],["wheel_1_4_steering",0],["wheel_2_4_steering",0],["wheel_1_3_steering",0],["wheel_2_3_steering",0],["glass1",0],["glass2",0],["glass3",0],["glass4",0]]:0:""
+15:55:25 "PUBLISH: Created UAZ_MG_TK_EP1_DZE with ID "857716812067156""
+15:55:26 "HIVE: WRITE: "CHILD:388:3914349078157:""
+15:55:26 "CUSTOM: Selected "22838""
+15:55:26 "HIVE: WRITE: "CHILD:306:22838:[["engine",0.0218096],["sklo predni P",0],["sklo predni L",0],["karoserie",0],["palivo",0],["Pravy predni tlumic",0],["Pravy zadni tlumic",0]]:0:""
+15:55:26 "PUBLISH: Created Old_moto_TK_Civ_EP1 with ID "3914349078157""
+15:55:26 "HIVE: WRITE: "CHILD:388:1201411513117157:""
+15:55:26 "CUSTOM: Selected "22839""
+15:55:26 "HIVE: WRITE: "CHILD:306:22839:[["glass1",0.305123],["glass2",0],["glass3",0],["glass4",0],["telo",0]]:0:""
+15:55:26 "PUBLISH: Created AN2_DZ with ID "1201411513117157""
+15:55:26 "HIVE: WRITE: "CHILD:388:90188612027157:""
+15:55:26 "CUSTOM: Selected "22840""
+15:55:26 "HIVE: WRITE: "CHILD:306:22840:[["wheel_1_1_steering",0.750946],["wheel_1_2_steering",0],["wheel_2_1_steering",0],["wheel_2_2_steering",0],["palivo",0],["motor",0],["glass1",0],["glass2",0],["glass3",0],["glass4",0],["sklo predni P",0],["sklo predni L",0],["karoserie",0],["wheel_1_4_steering",0],["wheel_2_4_steering",0],["wheel_1_3_steering",0],["wheel_2_3_steering",0]]:0:""
+15:55:27 "PUBLISH: Created SUV_Red with ID "90188612027157""
+15:55:27 "HIVE: WRITE: "CHILD:388:550313210155157:""
+15:55:27 "CUSTOM: Selected "22841""
+15:55:27 "HIVE: WRITE: "CHILD:306:22841:[["glass1",0.408478],["glass2",0],["glass3",0],["glass4",0],["telo",0]]:0:""
+15:55:27 "PUBLISH: Created AN2_2_DZ with ID "550313210155157""
+15:55:27 "HIVE: WRITE: "CHILD:388:2959935307157:""
+15:55:27 "CUSTOM: Selected "22842""
+15:55:27 "HIVE: WRITE: "CHILD:306:22842:[["motor",0.646664],["sklo predni P",0],["sklo predni L",0],["karoserie",0],["palivo",0],["wheel_1_1_steering",0],["wheel_2_1_steering",0],["wheel_1_4_steering",0],["wheel_2_4_steering",0],["wheel_1_3_steering",0],["wheel_2_3_steering",0],["wheel_1_2_steering",0],["wheel_2_2_steering",0],["glass1",0],["glass2",0],["glass3",0],["glass4",0]]:0:""
+15:55:28 "PUBLISH: Created SkodaBlue with ID "2959935307157""
+15:55:28 "HIVE: WRITE: "CHILD:388:390813310215157:""
+15:55:28 "CUSTOM: Selected "22843""
+15:55:28 "HIVE: WRITE: "CHILD:306:22843:[["glass1",0.643123],["glass2",0],["glass3",0],["glass4",0],["wheel_1_1_steering",0],["wheel_1_2_steering",0],["wheel_2_1_steering",0],["wheel_2_2_steering",0],["motor",0],["sklo predni P",0],["sklo predni L",0],["karoserie",0],["palivo",0],["wheel_1_4_steering",0],["wheel_2_4_steering",0],["wheel_1_3_steering",0],["wheel_2_3_steering",0]]:0:""
+15:55:29 "PUBLISH: Created UAZ_RU with ID "390813310215157""
+15:55:29 "HIVE: WRITE: "CHILD:388:97792412090157:""
+15:55:29 "CUSTOM: Selected "22844""
+15:55:29 "HIVE: WRITE: "CHILD:306:22844:[["motor",0.684219],["sklo predni P",0],["sklo predni L",0],["karoserie",0],["palivo",0],["wheel_1_1_steering",0],["wheel_2_1_steering",0],["wheel_1_4_steering",0],["wheel_2_4_steering",0],["wheel_1_3_steering",0],["wheel_2_3_steering",0],["wheel_1_2_steering",0],["wheel_2_2_steering",0],["glass1",0],["glass2",0],["glass3",0],["glass4",0]]:0:""
+15:55:30 "PUBLISH: Created Skoda with ID "97792412090157""
+15:55:30 "HIVE: WRITE: "CHILD:388:65871362559157:""
+15:55:30 "CUSTOM: Selected "22845""
+15:55:30 "HIVE: WRITE: "CHILD:306:22845:[["glass1",0.782825],["glass2",0],["glass3",0],["glass4",0],["wheel_1_1_steering",0],["wheel_1_2_steering",0],["wheel_2_1_steering",0],["wheel_2_2_steering",0],["motor",0],["sklo predni P",0],["sklo predni L",0],["karoserie",0],["palivo",0],["wheel_1_4_steering",0],["wheel_2_4_steering",0],["wheel_1_3_steering",0],["wheel_2_3_steering",0]]:0:""
+15:55:31 "PUBLISH: Created UAZ_RU with ID "65871362559157""
+15:55:31 "WAI: AI Monitor Started"
+15:55:31 "WAI: Initialising missions"
+15:55:31 "[DZAI] Removing invalid classname: Winchester1866."
+15:55:31 "[DZAI] Removing invalid classname: MR43."
+15:55:31 "[DZAI] Removing invalid classname: MR43."
+15:55:31 "[DZAI] Contents of DZAI_Rifles0 failed verification. Invalid entries removed."
+15:55:32 "[DZAI] Verified 85 unique classnames in 0.264999 seconds."
+15:55:32 "CLEANUP: INITIALIZING Vehicle SCRIPT"
+15:55:32 "DZAI Server Monitor will start in 1 minute."
+15:55:37 "INFO: needUpdate_objects=[377690c0# 1061739: kamaz.p3d,37768100# 1061740: uh1y.p3d,389a3040# 1061741: ural.p3d,389a2080# 1061742: ikarus.p3d,389a10c0# 1061744: pbx.p3d,389a0100# 1061745: v3s_open.p3d,3896f040# 1061746: uaz_mg.p3d,3896e080# 1061747: old_moto.p3d,3896d0c0# 1061748: an2.p3d,3896c100# 1061749: suv.p3d,38957040# 1061750: an2.p3d,38956080# 1061751: skodovka_blue.p3d,389550c0# 1061752: uaz.p3d,38954100# 1061753: skodovka.p3d,38937040# 1061754: uaz.p3d]"
+15:55:37 "HIVE: WRITE: "CHILD:306:22831:[["wheel_1_1_steering",0.124362],["wheel_2_1_steering",0.139559],["wheel_1_4_steering",0.534398],["wheel_2_4_steering",0.198788],["wheel_1_3_steering",0.484931],["wheel_2_3_steering",0.618773],["wheel_1_2_steering",0.237079],["wheel_2_2_steering",0.854296],["motor",0.729787],["sklo predni P",0.239101],["sklo predni L",0.577938],["karoserie",0.421813],["palivo",0.629137],["glass1",0.526689],["glass2",0.791839],["glass3",0.842656],["glass4",0.337674]]:0:""
+15:55:37 "HIVE: WRITE: "CHILD:306:22832:[["NEtrup",0.183579],["motor",0.584452],["elektronika",0.696034],["mala vrtule",0.501037],["velka vrtule",0.78789],["munice",0.453168],["sklo predni P",0.118964],["sklo predni L",0.208399],["glass1",0.909406],["glass2",0.147916],["glass3",0.71113],["glass4",0.862684],["glass5",0.953397],["glass6",0.146428]]:0:""
+15:55:37 "HIVE: WRITE: "CHILD:306:22833:[["glass1",0.374857],["glass2",0.826108],["glass3",0.885011],["glass4",0.646726],["wheel_1_1_steering",0.692201],["wheel_2_1_steering",0.905964],["wheel_1_4_steering",0.0740318],["wheel_2_4_steering",0.252983],["wheel_1_3_steering",0.176973],["wheel_2_3_steering",0.573598],["wheel_1_2_steering",0.143551],["wheel_2_2_steering",0.153181],["motor",0.44227],["sklo predni P",0.0150907],["sklo predni L",0.843379],["karoserie",0.859156],["palivo",0.8]]:0:""
+15:55:37 "HIVE: WRITE: "CHILD:306:22834:[["glass5",0.759022],["glass6",0.727354],["motor",0.799807],["sklo predni P",0.0947623],["sklo predni L",0.938454],["karoserie",0.696705],["palivo",0.238829],["wheel_1_1_steering",0.890898],["wheel_2_1_steering",0.0708266],["wheel_1_4_steering",0.00778674],["wheel_2_4_steering",0.793672],["wheel_1_3_steering",0.465009],["wheel_2_3_steering",0.422343],["wheel_1_2_steering",0.0579796],["wheel_2_2_steering",0.193868],["glass1",0.977134],["glass2",0.167036],["glass3",0.73321],["glass4",0.752745]]:0:""
+15:55:37 "HIVE: WRITE: "CHILD:306:22835:[["motor",0.242358]]:0:""
+15:55:37 "HIVE: WRITE: "CHILD:306:22836:[["wheel_1_1_steering",0.975734],["wheel_1_2_steering",0.946394],["wheel_1_3_steering",0.589281],["wheel_2_1_steering",0.83008],["wheel_2_2_steering",0.358279],["wheel_2_3_steering",0.608557],["wheel_1_4_steering",0.335851],["wheel_2_4_steering",0.756935],["motor",0.58936],["sklo predni P",0.378466],["sklo predni L",0.857457],["karoserie",0.395787],["palivo",0.77327],["glass1",0.966139],["glass2",0.703287],["glass3",0.147657],["glass4",0.280775]]:0:""
+15:55:37 "HIVE: WRITE: "CHILD:306:22837:[["wheel_1_1_steering",0.918596],["wheel_1_2_steering",0.575413],["wheel_2_1_steering",0.861785],["wheel_2_2_steering",0.166679],["motor",0.8],["sklo predni P",0.380981],["sklo predni L",0.413408],["karoserie",0.287254],["palivo",0.8],["wheel_1_4_steering",0.482253],["wheel_2_4_steering",0.621746],["wheel_1_3_steering",0.55058],["wheel_2_3_steering",0.0790111],["glass1",0.225619],["glass2",0.757147],["glass3",0.316546],["glass4",0.137617]]:0:""
+15:55:37 "HIVE: WRITE: "CHILD:306:22838:[["engine",0.0218096],["sklo predni P",0.914042],["sklo predni L",0.155725],["karoserie",0.735984],["palivo",0.419326],["Pravy predni tlumic",0.292227],["Pravy zadni tlumic",0.130368]]:0:""
+15:55:37 "HIVE: WRITE: "CHILD:306:22839:[["glass1",0.305123],["glass2",0.113052],["glass3",0.395427],["glass4",0.606985],["telo",0.595303]]:0:""
+15:55:37 "HIVE: WRITE: "CHILD:306:22840:[["wheel_1_1_steering",0.750946],["wheel_1_2_steering",0.856433],["wheel_2_1_steering",0.483779],["wheel_2_2_steering",0.511718],["palivo",0.186168],["motor",0.536973],["glass1",0.642093],["glass2",0.74181],["glass3",0.458161],["glass4",0.77667],["sklo predni P",0.346491],["sklo predni L",0.298359],["karoserie",0.146964],["wheel_1_4_steering",0.0527945],["wheel_2_4_steering",0.59052],["wheel_1_3_steering",0.186235],["wheel_2_3_steering",0.357967]]:0:""
+15:55:37 "HIVE: WRITE: "CHILD:306:22841:[["glass1",0.408478],["glass2",0.99134],["glass3",0.438578],["glass4",0.792701],["telo",0.993979]]:0:""
+15:55:37 "HIVE: WRITE: "CHILD:306:22842:[["motor",0.646664],["sklo predni P",0.342262],["sklo predni L",0.0337766],["karoserie",0.372847],["palivo",0.580981],["wheel_1_1_steering",0.0478639],["wheel_2_1_steering",0.774835],["wheel_1_4_steering",0.985997],["wheel_2_4_steering",0.41749],["wheel_1_3_steering",0.495672],["wheel_2_3_steering",0.508489],["wheel_1_2_steering",0.00588055],["wheel_2_2_steering",0.480421],["glass1",0.769927],["glass2",0.823336],["glass3",0.772516],["glass4",0.138701]]:0:""
+15:55:37 "HIVE: WRITE: "CHILD:306:22843:[["glass1",0.643123],["glass2",0.49953],["glass3",0.62216],["glass4",0.533064],["wheel_1_1_steering",0.757187],["wheel_1_2_steering",0.0695202],["wheel_2_1_steering",0.174594],["wheel_2_2_steering",0.329862],["motor",0.8],["sklo predni P",0.350596],["sklo predni L",0.875403],["karoserie",0.405334],["palivo",0.684253],["wheel_1_4_steering",0.587589],["wheel_2_4_steering",0.289505],["wheel_1_3_steering",0.431493],["wheel_2_3_steering",0.525985]]:0:""
+15:55:37 "HIVE: WRITE: "CHILD:306:22844:[["motor",0.684219],["sklo predni P",0.361166],["sklo predni L",0.560313],["karoserie",0.324771],["palivo",0.583949],["wheel_1_1_steering",0.494472],["wheel_2_1_steering",0.279888],["wheel_1_4_steering",0.324783],["wheel_2_4_steering",0.339109],["wheel_1_3_steering",0.727994],["wheel_2_3_steering",0.294814],["wheel_1_2_steering",0.753002],["wheel_2_2_steering",0.876139],["glass1",0.524484],["glass2",0.317644],["glass3",0.377718],["glass4",0.697583]]:0:""
+15:55:37 "HIVE: WRITE: "CHILD:306:22845:[["glass1",0.782825],["glass2",0.512332],["glass3",0.827988],["glass4",0.579282],["wheel_1_1_steering",0.679297],["wheel_1_2_steering",0.518176],["wheel_2_1_steering",0.668266],["wheel_2_2_steering",0.921082],["motor",0.759456],["sklo predni P",0.119698],["sklo predni L",0.305048],["karoserie",0.263982],["palivo",0.0934539],["wheel_1_4_steering",0.778912],["wheel_2_4_steering",0.381173],["wheel_1_3_steering",0.448182],["wheel_2_3_steering",0.649839]]:0:""
+15:55:47 "DZAI Debug: Location configuration completed with 77 locations found in 14.146 seconds."
+15:56:05 "infiSTAR.de PlayerConnected: CONNECT - Allan(76561198122634822)"
+15:56:05 "infiSTAR.de PlayerConnected: CONNECT - __SERVER__()"
+15:56:05 "DZAI Debug: Created custom spawn area Novy at 093038 with 4 AI units, weapongrade 2, respawn true, respawn time 0."
+15:56:05 "DZAI Debug: Created custom spawn area Dichina at 044070 with 4 AI units, weapongrade 2, respawn true, respawn time 0."
+15:56:05 "DZAI Debug: Created custom spawn area Threevalley at 128097 with 4 AI units, weapongrade 2, respawn true, respawn time 0."
+15:56:05 "DZAI Debug: Created custom spawn area Krutoy at 131113 with 4 AI units, weapongrade 2, respawn true, respawn time 0."
+15:56:05 "DZAI Debug: Created custom spawn area NWAF1 at 041045 with 4 AI units, weapongrade 3, respawn true, respawn time 0."
+15:56:05 "DZAI Debug: Created custom spawn area NWAF2 at 041046 with 4 AI units, weapongrade 3, respawn true, respawn time 0."
+15:56:05 "Chernarus static spawn configuration loaded."
+15:56:06 "DZAI Debug: Serverside object patch completed in 45.287 seconds."
+15:56:06 "HIVE: WRITE: "CHILD:306:19165:[["glass1",0],["glass2",0],["glass3",0],["glass4",0],["wheel_1_1_steering",0],["wheel_2_1_steering",0],["wheel_1_4_steering",0],["wheel_2_4_steering",0],["wheel_1_3_steering",0],["wheel_2_3_steering",0],["wheel_1_2_steering",0.319],["wheel_2_2_steering",0],["motor",0],["sklo predni P",0],["sklo predni L",0],["karoserie",0],["palivo",0]]:0.045:""
+15:56:06 "INFO: needUpdate_objects=[289c0100# 1059983: ural.p3d]"
+15:56:06 "HIVE: WRITE: "CHILD:306:19165:[["glass1",0],["glass2",0],["glass3",0],["glass4",0],["wheel_1_1_steering",0],["wheel_2_1_steering",0],["wheel_1_4_steering",0],["wheel_2_4_steering",0],["wheel_1_3_steering",0],["wheel_2_3_steering",0],["wheel_1_2_steering",0.329474],["wheel_2_2_steering",0],["motor",0],["sklo predni P",0],["sklo predni L",0],["karoserie",0],["palivo",0]]:0.0478116:""
+15:56:11 "INFO - Player: PID#3(Allan)(UID:76561198122634822/CID:8486) Status: LOGGING IN"
+15:56:12 "INFO - Player: PID#3(Allan)(UID:76561198122634822/CID:8486) Status: LOGIN PUBLISHING, Location Kabanino [051070]"
+15:56:21 "INFO - Player: Allan(UID:76561198122634822/CID:8486) Status: CLIENT LOADED & PLAYING"
+15:56:24 "B 1-1-B:1 (Allan) REMOTE, SafeZoneState, [0], 3"
+15:56:24 "infiSTAR.de Log: Allan(76561198122634822) -    Left SafeZone @051070"
+15:57:29 "DZAI Debug: Processed static trigger spawn data in 0 seconds (Custom Spawn)."
+15:57:29 No owner
+15:57:29 "DZAI Debug: Spawned a group of 4 units in 0.0480042 seconds at Dichina (Custom Spawn)."
+15:57:29 "DZAI Debug: Unit O 1-1-A:1 loadout: [["AK74_DZ"],["30Rnd_545x39_AK"]]. Weapongrade 2. Blood: 8338.3."
+15:57:29 "DZAI Debug: Unit O 1-1-A:2 loadout: [["M249_DZ"],["200Rnd_556x45_M249"]]. Weapongrade 2. Blood: 10250.8."
+15:57:29 "DZAI Debug: Unit O 1-1-A:3 loadout: [["M16A2_DZ"],["30Rnd_556x45_Stanag"]]. Weapongrade 2. Blood: 11367.6."
+15:57:29 "DZAI Debug: Unit O 1-1-A:4 loadout: [["M4A1_DZ"],["30Rnd_556x45_Stanag"]]. Weapongrade 2. Blood: 9274.66."
+15:57:30 "infiSTAR.de PlayerConnected: CONNECT - LXVII Deon(76561198106802787)"
+15:57:30 "infiSTAR.de - Player-Log: LXVII Deon(76561198106802787) - 0h 01min"
+15:57:34 "INFO - Player: PID#4(LXVII Deon)(UID:76561198106802787/CID:8488) Status: LOGGING IN"
+15:57:35 "INFO - Player: PID#4(LXVII Deon)(UID:76561198106802787/CID:8488) Status: LOGIN PUBLISHING, Location airfield [048050]"
+15:57:49 "INFO - Player: LXVII Deon(UID:76561198106802787/CID:8488) Status: CLIENT LOADED & PLAYING"
+15:57:51 "infiSTAR.de PlayerConnected: CONNECT - Chaba de Hadd(76561198332858359)"
+15:57:51 "infiSTAR.de - Player-Log: Chaba de Hadd(76561198332858359) - 0h 05min"
+15:57:52 "B 1-1-C:1 (LXVII Deon) REMOTE, SafeZoneState, [0], 4"
+15:57:52 "infiSTAR.de Log: LXVII Deon(76561198106802787) -    Left SafeZone @048050"
+15:57:55 Warning: looped for animation: ca\anims\characters\data\anim\sdr\mov\erc\stp\non\non\amovpercmstpsnonwnondnon_amovpercmstpsraswpstdnon_end.rtm differs (looped now 0)! MoveName: amovpercmstpsnonwnondnon_amovpercmstpsraswpstdnon_end
+15:58:00 "INFO - Player: PID#5(Chaba de Hadd)(UID:76561198332858359/CID:8489) Status: LOGGING IN"
+15:59:00 Server: Object 5:5 not found (message 89)
+15:59:00 "INFO - Player: PID#5(Chaba de Hadd)(UID:76561198332858359/CID:8489) Status: LOGIN PUBLISHING, Location factory [058133]"
+15:59:01 "INFO - Player: Chaba de Hadd(UID:76561198332858359/CID:8489) Status: CLIENT LOADED & PLAYING"
+15:59:03 "B 1-1-D:1 (Chaba de Hadd) REMOTE, SafeZoneState, [0], 5"
+15:59:03 "infiSTAR.de Log: Chaba de Hadd(76561198332858359) -    Left SafeZone @812895"
+16:00:33 "DZAI Monitor :: Server Uptime: 0:7:50. Active AI Groups: 1."
+16:00:33 "DZAI Monitor :: Static Spawns: 1. Respawn Queue: 0 groups queued."
+16:01:02 Server: Object 5:15 not found (message 94)
+16:01:09 "SERVER FPS: 48  PLAYERS: 3"
+16:01:18 "HIVE: WRITE: "CHILD:309:1:[[[],[]],[[],[]],[[],[]]]:""
+16:01:36 "HIVE: WRITE: "CHILD:305:0:[25.638674,[3308.263184,9869.339844,-0.00335693]]:1:""
+16:01:49 "HIVE: WRITE: "CHILD:303:22825:[[[],[]],[[],[]],[[],[]]]:""
+16:01:52 "HIVE: WRITE: "CHILD:305:0:[73.942749,[3429.469727,9878.916016,-0.0157471]]:1:""
+16:01:54 "HIVE: WRITE: "CHILD:305:22825:[274.149292,[4959.171387,8557.847656,0.00646973]]:0.977:""
+16:01:54 "HIVE: WRITE: "CHILD:306:22825:[["motor",0.6],["sklo predni P",0.223],["sklo predni L",0.233],["karoserie",0.965],["palivo",0.389],["wheel_1_1_steering",0.092],["wheel_2_1_steering",0.437],["wheel_1_4_steering",0.676],["wheel_2_4_steering",0.335],["wheel_1_3_steering",0.211],["wheel_2_3_steering",0.304],["wheel_1_2_steering",0.65],["wheel_2_2_steering",0.568],["glass1",0.686],["glass2",0.761],["glass3",0.299],["glass4",0.802]]:0:""
+16:02:06 "HIVE: WRITE: "CHILD:305:22825:[274.157043,[4959.171387,8557.847656,0.00628662]]:0.977:""
+16:02:08 "HIVE: WRITE: "CHILD:305:0:[74.565559,[3545.279541,9917.34082,0.066864]]:1:""
+16:02:24 "HIVE: WRITE: "CHILD:305:0:[73.340202,[3648.911133,9945.0234375,0.0500793]]:1:""
+16:02:25 "HIVE: WRITE: "CHILD:305:22825:[266.00131226,[4936.856445,8559.625977,-0.0253601]]:0.976001:""
+16:02:41 "HIVE: WRITE: "CHILD:305:0:[359.656738,[3750.116455,10011.392578,0.000488281]]:1:""
+16:02:41 "HIVE: WRITE: "CHILD:305:22825:[241.066391,[4834.358887,8506.847656,0.0171509]]:0.972504:""
+16:02:57 "HIVE: WRITE: "CHILD:305:0:[319.0383911,[3745.684326,10173.941406,-0.0184631]]:1:""
+16:02:57 "HIVE: WRITE: "CHILD:305:22825:[232.710281,[4709.990723,8420.52832,-0.0065918]]:0.968642:""
+16:03:07 Server: Object 5:67 not found (message 94)
+16:03:07 Server: Object 5:85 not found (message 94)
+16:03:07 Server: Object 5:82 not found (message 94)
+16:03:07 Server: Object 5:83 not found (message 94)
+16:03:07 Server: Object 5:84 not found (message 94)
+16:03:10 "HIVE: WRITE: "CHILD:305:22843:[133.051712,[3751.380371,10215.246094,0.000335693]]:0.999903:""
+16:03:10 "HIVE: WRITE: "CHILD:306:22843:[["glass1",0.643123],["glass2",0.49953],["glass3",0.62216],["glass4",0.533064],["wheel_1_1_steering",0.757187],["wheel_1_2_steering",0.0695202],["wheel_2_1_steering",0.174594],["wheel_2_2_steering",0.329862],["motor",0.8],["sklo predni P",0.350596],["sklo predni L",0.875403],["karoserie",0.405334],["palivo",0.684253],["wheel_1_4_steering",0.587589],["wheel_2_4_steering",0.289505],["wheel_1_3_steering",0.431493],["wheel_2_3_steering",0.525985]]:0:""
+16:03:13 "HIVE: WRITE: "CHILD:305:22843:[133.21727,[3750.127686,10216.421875,-0.0015564]]:0.999636:""
+16:03:14 "HIVE: WRITE: "CHILD:305:22825:[231.891052,[4579.0449219,8317.374023,0.00344849]]:0.964737:""
+16:03:14 "HIVE: WRITE: "CHILD:305:22843:[133.20816,[3750.131104,10216.421875,-0.00146484]]:0.999502:""
+16:03:14 "HIVE: WRITE: "CHILD:306:22843:[["glass1",0.643123],["glass2",0.49953],["glass3",0.62216],["glass4",0.533064],["wheel_1_1_steering",0.757187],["wheel_1_2_steering",0.0695202],["wheel_2_1_steering",0.174594],["wheel_2_2_steering",0.329862],["motor",0.8],["sklo predni P",0.350596],["sklo predni L",0.875403],["karoserie",0.405334],["palivo",0.684253],["wheel_1_4_steering",0.587589],["wheel_2_4_steering",0.289505],["wheel_1_3_steering",0.431493],["wheel_2_3_steering",0.525985]]:0:""
+16:03:23 "HIVE: WRITE: "CHILD:305:22825:[223.887695,[4538.455078,8282.624023,0.00622559]]:0.962961:""
+16:03:23 "HIVE: WRITE: "CHILD:306:22825:[["motor",0.6],["sklo predni P",0.223],["sklo predni L",0.233],["karoserie",0.965],["palivo",0.389],["wheel_1_1_steering",0.092],["wheel_2_1_steering",0.437],["wheel_1_4_steering",0.676],["wheel_2_4_steering",0.335],["wheel_1_3_steering",0.211],["wheel_2_3_steering",0.304],["wheel_1_2_steering",0.65],["wheel_2_2_steering",0.568],["glass1",0.686],["glass2",0.761],["glass3",0.299],["glass4",0.802]]:0:""
+16:03:27 Server: Object 3:101 not found (message 94)
+16:03:49 "WAI: [Mission:[Bandit] Sniper Extraction]: Starting... [1079.23,3693.28,0]"
+16:03:49 "WAI: Spawned a group of 2 AI (Hero) at [1079.23,3693.28,0]"
+16:03:49 "WAI: Spawned a group of 2 AI (Hero) at [1079.23,3693.28,0]"
+16:03:49 No owner
+16:03:49 No owner
+16:03:49 No owner
+16:03:49 No owner
+16:03:49 "WAI: Spawned a group of 2 AI (Hero) at [1079.23,3693.28,0]"
+16:03:50 "WAI: Spawned a group of 2 AI (Hero) at [1079.23,3693.28,0]"
+16:04:00 "P1ayer PID#3(Allan) hit by PID#1(Matthew Lewis) with M16A2_DZ/B_556x45_Ball <ammo left:11> from 44 meters in head_hit for 0.0627394 damage"
+16:04:43 "P1ayer PID#3(Allan) hit by PID#1(George Smith) with AK74_DZ/B_545x39_Ball <ammo left:28> from 28 meters in head_hit for 0.243378 damage"
+16:04:47 "P1ayer PID#3(Allan) hit by PID#1(George Smith) with AK74_DZ/B_545x39_Ball <ammo left:28> from 21 meters in head_hit for 0.329351 damage"
+16:04:49 "P1ayer PID#3(Allan) hit by PID#1(George Smith) with AK74_DZ/B_545x39_Ball <ammo left:23> from 21 meters in head_hit for 0.17149 damage"
+16:04:50 "Player UID#76561198122634822 CID#8486 PID#3(Allan) as RUS_Commander_DZ died at Dichina [045070]"
+16:04:50 "DeathMessage: Allan was killed by AI with a AK74_DZ from 21m"
+16:05:01 "WAI: [Mission:[Hero] Disabled Convoy]: Starting... [12721.7,8472.25,0]"
+16:05:02 "WAI: Spawned a group of 7 AI (Bandit) at [12721.7,8472.25,0]"
+16:05:02 "WAI: Spawned a group of 4 AI (Bandit) at [12721.7,8472.25,0]"
+16:05:02 "WAI: Spawned a group of 4 AI (Bandit) at [12721.7,8472.25,0]"
+16:05:02 "WAI: Spawned a group of 5 AI (Bandit) at [12721.7,8472.25,0]"
+16:05:02 "infiSTAR.de PlayerConnected: DISCONNECT - Allan(76561198122634822)"
+16:05:02 "INFO: OnPlayerDisconnect exiting. Player is near respawn_west. This is normal after death. ["76561198122634822","Allan"]"
+16:05:02 Warning: Cleanup player - person 3:116 not found
+16:05:16 "WAI: [Mission:[Bandit] Weapons Cache]: Starting... [4259.6,5827.44,0]"
+16:05:16 "WAI: Spawned a group of 5 AI (Hero) at [4259.6,5827.44,0]"
+16:05:16 "WAI: Spawned a group of 4 AI (Hero) at [4259.6,5827.44,0]"
+16:05:16 No owner
+16:05:16 No owner
+16:05:16 No owner
+16:05:16 "WAI: Spawned a group of 4 AI (Hero) at [4259.6,5827.44,0]"
+16:05:16 No owner
+16:05:16 No owner
+16:05:16 No owner
+16:05:16 "WAI: Spawned a group of 4 AI (Hero) at [4259.6,5827.44,0]"
+16:05:19 "infiSTAR.de PlayerConnected: CONNECT - Allan(76561198122634822)"
+16:05:21 "INFO - Player: PID#3(Allan)(UID:76561198122634822/CID:8490) Status: LOGGING IN"
+16:05:23 "INFO - Player: PID#3(Allan)(UID:76561198122634822/CID:8490) Status: LOGIN PUBLISHING, Location Kamenka [009135]"
+16:05:24 "INFO: Cannot Sync Character Allan near respawn_west [-18700,25800,0.0531006]. This is normal when relogging or changing clothes."
+16:05:24 "INFO - Player: Allan(UID:76561198122634822/CID:8490) Status: CLIENT LOADED & PLAYING"
+16:05:26 "B 1-1-C:1 (Allan) REMOTE, SafeZoneState, [0], 3"
+16:05:26 "infiSTAR.de Log: Allan(76561198122634822) -    Left SafeZone @813895"
+16:05:33 "DZAI Monitor :: Server Uptime: 0:12:50. Active AI Groups: 1."
+16:05:33 "DZAI Monitor :: Static Spawns: 1. Respawn Queue: 0 groups queued."
+16:06:31 "HIVE: WRITE: "CHILD:305:22843:[133.185211,[3750.138916,10216.421875,-0.00149536]]:0.999502:""
+16:06:31 "HIVE: WRITE: "CHILD:306:22843:[["glass1",0.643123],["glass2",0.49953],["glass3",0.62216],["glass4",0.533064],["wheel_1_1_steering",0.757187],["wheel_1_2_steering",0.0695202],["wheel_2_1_steering",0.174594],["wheel_2_2_steering",0.329862],["motor",0.8],["sklo predni P",0.350596],["sklo predni L",0.875403],["karoserie",0.405334],["palivo",0.684253],["wheel_1_4_steering",0.587589],["wheel_2_4_steering",0.289505],["wheel_1_3_steering",0.431493],["wheel_2_3_steering",0.525985]]:0:""
+16:06:31 "HIVE: WRITE: "CHILD:305:22843:[133.185211,[3750.138916,10216.421875,-0.00149536]]:0.999502:""
+16:06:36 "HIVE: WRITE: "CHILD:305:22843:[133.185211,[3750.138916,10216.421875,-0.00149536]]:0.999502:""
+16:06:50 "DZAI Debug: Despawned AI units at Dichina. Reset trigger's group array to: []."
+16:06:53 "HIVE: WRITE: "CHILD:305:22843:[263.642761,[3725.388428,10251.78125,-0.000610352]]:0.996847:""
+16:07:01 "DZAI Debug: Deleting static group O 1-1-A."
+16:07:06 "HIVE: WRITE: "CHILD:305:22843:[205.37294,[3730.115723,10248.878906,-0.00106812]]:0.994938:""
+16:07:06 "HIVE: WRITE: "CHILD:303:22843:[[["M110_NVG_EP1"],[1]],[["FoodCanRusMilk","equip_rag","20Rnd_762x51_B_SCAR"],[1,1,1]],[[],[]]]:""
+16:07:09 "HIVE: WRITE: "CHILD:305:22843:[205.37294,[3730.115723,10248.878906,-0.00106812]]:0.994614:""
+16:07:09 "HIVE: WRITE: "CHILD:306:22843:[["glass1",0.643123],["glass2",0.49953],["glass3",0.62216],["glass4",0.533064],["wheel_1_1_steering",0.757187],["wheel_1_2_steering",0.0695202],["wheel_2_1_steering",0.174594],["wheel_2_2_steering",0.329862],["motor",0.8],["sklo predni P",0.350596],["sklo predni L",0.875403],["karoserie",0.405334],["palivo",0.684253],["wheel_1_4_steering",0.587589],["wheel_2_4_steering",0.289505],["wheel_1_3_steering",0.431493],["wheel_2_3_steering",0.525985]]:0:""
+16:07:09 "SERVER FPS: 39  PLAYERS: 3"
+16:07:17 "HIVE: WRITE: "CHILD:303:22843:[[["M110_NVG_EP1","KSVK_DZE"],[1,1]],[["FoodCanRusMilk","equip_rag","20Rnd_762x51_B_SCAR"],[1,1,1]],[[],[]]]:""
+16:07:36 "HIVE: WRITE: "CHILD:303:22465:[[[],[]],[[],[]],[[],[]]]:""
+16:07:36 "HIVE: WRITE: "CHILD:305:22465:[62.687511,[12347.0390625,9762.977539,0.0585489]]:0.851:""
+16:07:36 "HIVE: WRITE: "CHILD:306:22465:[["glass1",0.487],["glass2",0.362],["glass3",0.263],["glass4",0.861],["wheel_1_1_steering",0.262],["wheel_1_2_steering",0.565],["wheel_2_1_steering",0.677],["wheel_2_2_steering",0.443],["fueltank",0.044],["engine",0.516],["sklo predni P",0.683],["sklo predni L",0.691],["karoserie",0.045],["wheel_1_4_steering",0.136],["wheel_2_4_steering",0.992],["wheel_1_3_steering",0.847],["wheel_2_3_steering",0.824]]:0.004:""
+16:07:40 "HIVE: WRITE: "CHILD:305:22465:[62.687725,[12347.0390625,9762.977539,0.0587254]]:0.851:""
+16:07:56 "HIVE: WRITE: "CHILD:305:22465:[161.900543,[12402.716797,9664.561523,-0.0167356]]:0.847414:""
+16:08:01 "HIVE: WRITE: "CHILD:303:20807:[[[],[]],[[],[]],[[],[]]]:""
+16:08:07 "HIVE: WRITE: "CHILD:305:20807:[103.489296,[4743.498047,10061.402344,0.00320435]]:0:""
+16:08:07 "HIVE: WRITE: "CHILD:306:20807:[["engine",0.742],["sklo predni P",0.086],["sklo predni L",0.346],["karoserie",0.944],["palivo",0.125],["Pravy predni tlumic",0.32],["Pravy zadni tlumic",1]]:0.004:""
+16:08:10 "HIVE: WRITE: "CHILD:305:20807:[103.404617,[4743.485352,10061.40918,-0.0133362]]:0:""
+16:08:10 "HIVE: WRITE: "CHILD:306:20807:[["engine",0.742],["sklo predni P",0.086],["sklo predni L",0.346],["karoserie",0.944],["palivo",0.125],["Pravy predni tlumic",0.32],["Pravy zadni tlumic",1]]:0.00393701:""
+16:08:13 Server: Object 5:159 not found (message 91)
+16:08:13 "HIVE: WRITE: "CHILD:305:22465:[183.0780487,[12431.209961,9490.835938,0.00191689]]:0.843056:""
+16:08:29 "HIVE: WRITE: "CHILD:305:22465:[130.432358,[12428.0166016,9326.0351563,-0.00122833]]:0.838871:""
+16:08:46 "HIVE: WRITE: "CHILD:305:22465:[89.219566,[12584.954102,9376.0927734,0.00817394]]:0.834874:""
+16:08:59 "HIVE: WRITE: "CHILD:303:22843:[[["M110_NVG_EP1","KSVK_DZE","SVD_des_EP1"],[1,1,1]],[["FoodCanRusMilk","equip_rag","20Rnd_762x51_B_SCAR","10Rnd_762x54_SVD"],[1,1,1,1]],[[],[]]]:""
+16:09:02 "HIVE: WRITE: "CHILD:305:22465:[88.18824,[12722.761719,9376.466797,0.0106936]]:0.831126:""
+16:09:16 "HIVE: WRITE: "CHILD:305:22465:[134.130875,[12800.838867,9381.572266,-0.000471592]]:0.828022:""
+16:09:16 "HIVE: WRITE: "CHILD:306:22465:[["glass1",0.5818],["glass2",0.467],["glass3",0.295808],["glass4",0.966],["wheel_1_1_steering",0.426015],["wheel_1_2_steering",0.595715],["wheel_2_1_steering",1],["wheel_2_2_steering",0.503097],["fueltank",0.044],["engine",0.685223],["sklo predni P",0.683],["sklo predni L",0.691],["karoserie",0.0854577],["wheel_1_4_steering",0.136],["wheel_2_4_steering",0.992],["wheel_1_3_steering",0.847],["wheel_2_3_steering",0.824]]:0.019685:""
+16:10:06 "WAI: [Mission:[Hero] Weapon Cache]: Starting... [4224.44,8120.31,0]"
+16:10:06 "WAI: Spawned a group of 5 AI (Bandit) at [4224.44,8120.31,0]"
+16:10:06 No owner
+16:10:06 No owner
+16:10:06 No owner
+16:10:06 "WAI: Spawned a group of 5 AI (Bandit) at [4224.44,8120.31,0]"
+16:10:06 "WAI: Spawned a group of 5 AI (Bandit) at [4224.44,8120.31,0]"
+16:10:06 "WAI: Spawned a group of 5 AI (Bandit) at [4224.44,8120.31,0]"
+16:10:34 "DZAI Monitor :: Server Uptime: 0:17:50. Active AI Groups: 0."
+16:10:34 "DZAI Monitor :: Static Spawns: 0. Respawn Queue: 0 groups queued."
+16:10:55 Server: Object info 5:5 not found during Changing Owner
+16:10:55 Server: Object info 5:4 not found during Changing Owner
+16:11:39 "HIVE: WRITE: "CHILD:305:22843:[205.37294,[3730.115723,10248.878906,-0.00106812]]:0.994614:""
+16:11:39 "HIVE: WRITE: "CHILD:306:22843:[["glass1",0.643123],["glass2",0.49953],["glass3",0.62216],["glass4",0.533064],["wheel_1_1_steering",0.757187],["wheel_1_2_steering",0.0695202],["wheel_2_1_steering",0.174594],["wheel_2_2_steering",0.329862],["motor",0.8],["sklo predni P",0.350596],["sklo predni L",0.875403],["karoserie",0.405334],["palivo",0.684253],["wheel_1_4_steering",0.587589],["wheel_2_4_steering",0.289505],["wheel_1_3_steering",0.431493],["wheel_2_3_steering",0.525985]]:0:""
+16:11:44 "HIVE: WRITE: "CHILD:305:22843:[263.429443,[3732.30835,10253.428711,0]]:0.994078:""
+16:11:53 "HIVE: WRITE: "CHILD:305:22843:[272.868744,[3675.239014,10294.956055,-0.000793457]]:0.992365:""
+16:11:53 "HIVE: WRITE: "CHILD:306:22843:[["glass1",0.643123],["glass2",0.49953],["glass3",0.62216],["glass4",0.533064],["wheel_1_1_steering",0.757187],["wheel_1_2_steering",0.0695202],["wheel_2_1_steering",0.174594],["wheel_2_2_steering",0.329862],["motor",0.8],["sklo predni P",0.350596],["sklo predni L",0.875403],["karoserie",0.405334],["palivo",0.684253],["wheel_1_4_steering",0.587589],["wheel_2_4_steering",0.289505],["wheel_1_3_steering",0.431493],["wheel_2_3_steering",0.525985]]:0:""
+16:12:04 "HIVE: WRITE: "CHILD:303:22843:[[["M110_NVG_EP1","KSVK_DZE","SVD_des_EP1","M249_DZ","SCAR_L_CQC_Holo"],[1,1,1,1,1]],[["FoodCanRusMilk","equip_rag","20Rnd_762x51_B_SCAR","10Rnd_762x54_SVD","200Rnd_556x45_M249"],[1,1,1,1,3]],[[],[]]]:""
+16:13:00 "infiSTAR.de PlayerConnected: CONNECT - Walasznikow(76561198136709825)"
+16:13:00 "infiSTAR.de - Player-Log: Walasznikow(76561198136709825) - 0h 20min"
+16:13:03 "INFO - Player: PID#6(Walasznikow)(UID:76561198136709825/CID:8470) Status: LOGGING IN"
+16:13:03 "INFO - Player: PID#6(Walasznikow)(UID:76561198136709825/CID:8470) Status: LOGIN PUBLISHING, Location Pass Sosnovy [030084]"
+16:13:09 "SERVER FPS: 32  PLAYERS: 4"
+16:13:10 "INFO - Player: Walasznikow(UID:76561198136709825/CID:8470) Status: CLIENT LOADED & PLAYING"
+16:13:11 Server: Object 5:207 not found (message 91)
+16:13:11 Server: Object 5:206 not found (message 99)
+16:13:13 "B 1-1-E:1 (Walasznikow) REMOTE, SafeZoneState, [0], 6"
+16:13:13 "infiSTAR.de Log: Walasznikow(76561198136709825) -    Left SafeZone @030084"
+16:13:57 "HIVE: WRITE: "CHILD:303:22247:[[[],[]],[["HandChemRed"],[1]],[[],[]]]:""
+16:14:06 "HIVE: WRITE: "CHILD:305:22247:[287.190063,[12398.0693359,9011.139648,0.0422401]]:0.888:""
+16:14:06 "HIVE: WRITE: "CHILD:306:22247:[["glass1",1],["glass2",0.855],["glass3",1],["glass4",1],["wheel_1_1_steering",0],["wheel_2_1_steering",0],["wheel_1_4_steering",0],["wheel_2_4_steering",0],["wheel_1_3_steering",0],["wheel_2_3_steering",0],["wheel_1_2_steering",0],["wheel_2_2_steering",0],["motor",0],["sklo predni P",0],["sklo predni L",0],["karoserie",0.148],["palivo",0]]:0.035:""
+16:14:18 "HIVE: WRITE: "CHILD:305:22247:[287.190216,[12398.0693359,9011.139648,0.0422935]]:0.888:""
+16:14:35 "HIVE: WRITE: "CHILD:303:22843:[[["M110_NVG_EP1","KSVK_DZE","SVD_des_EP1","M249_DZ","SCAR_L_CQC_Holo","MG36_camo","L110A1_DZ"],[1,1,1,1,1,1,1]],[["FoodCanRusMilk","equip_rag","20Rnd_762x51_B_SCAR","10Rnd_762x54_SVD","200Rnd_556x45_M249","100Rnd_556x45_BetaCMag"],[1,1,1,1,5,2]],[[],[]]]:""
+16:14:36 "HIVE: WRITE: "CHILD:305:22247:[149.891998,[12367.575195,8934.217773,0.0441933]]:0.883821:""
+16:14:48 MuzzleFlashROT - unknown animation source ammoRandom
+16:14:55 "HIVE: WRITE: "CHILD:305:22247:[144.196564,[12557.339844,8722.362305,0.00888062]]:0.878929:""
+16:15:01 Server: Object 5:77 not found (message 132)
+16:15:01 Server: Object 5:79 not found (message 132)
+16:15:05 Server: Object 3:299 not found (message 99)
+16:15:08 "HIVE: WRITE: "CHILD:305:0:[25.940371,[3089.818359,6944.00976563,0.0463562]]:1:""
+16:15:08 "HIVE: WRITE: "CHILD:309:1:[[[],[]],[[],[]],[[],[]]]:""
+16:15:13 "HIVE: WRITE: "CHILD:305:22247:[136.540833,[12694.947266,8562.430664,-0.00138187]]:0.87462:""
+16:15:15 Server: Object 3:328 not found (message 70)
+16:15:15 Server: Object 3:327 not found (message 69)
+16:15:15 "infiSTAR.de Log: Vehicle destroyed @127068 - Ural_CDF, worldspace [143.167,[12706.4,8546.6,0.0039649]], CharId 0, objID 22247, objUID 0, nearby []"
+16:15:15 "DELETE: Deleted by KEY: CHILD:306:22247:[]:1:"
+16:15:15 Client: Object 3:328 (type Type_69) not found.
+16:15:15 "HIVE: WRITE: "CHILD:305:22247:[143.237595,[12706.702148,8546.199219,-0.0451131]]:0.873745:""
+16:15:15 "HIVE: WRITE: "CHILD:303:22247:[[[],[]],[[],[]],[[],[]]]:""
+16:15:15 "HIVE: WRITE: "CHILD:306:22247:[["glass1",1],["glass2",1],["glass3",1],["glass4",1],["wheel_1_1_steering",1],["wheel_2_1_steering",1],["wheel_1_4_steering",0],["wheel_2_4_steering",0],["wheel_1_3_steering",1],["wheel_2_3_steering",1],["wheel_1_2_steering",1],["wheel_2_2_steering",1],["motor",1],["sklo predni P",0],["sklo predni L",0],["karoserie",1],["palivo",1]]:1:""
+16:15:18 "P1ayer PID#3(Allan) hit by PID#1(Stanislav Zemanek) with m16a4/RunOver <ammo left:28> from 56 meters in head_hit for 0.194249 damage"
+16:15:22 "P1ayer PID#3(Allan) hit by PID#1(Daniil Krasko) with VSS_vintorez/B_9x39_SP5 <ammo left:8> from 83 meters in head_hit for 0.0750398 damage"
+16:15:23 "Player UID#76561198122634822 CID#8490 PID#3(Allan) as Survivor2_DZ died at Nizhnoye [127068]"
+16:15:23 "DeathMessage: Allan was killed by unknown with a unknown weapon from 0m"
+16:15:24 Server: Object 5:50 not found (message 132)
+16:15:24 Server: Object 5:52 not found (message 132)
+16:15:26 "HIVE: WRITE: "CHILD:305:0:[357.579041,[3125.66748,7154.331055,0.00561523]]:1:""
+16:15:35 "infiSTAR.de PlayerConnected: DISCONNECT - Allan(76561198122634822)"
+16:15:35 "INFO: OnPlayerDisconnect exiting. Player is near respawn_west. This is normal after death. ["76561198122634822","Allan"]"
+16:15:35 "DZAI Monitor :: Server Uptime: 0:22:52. Active AI Groups: 0."
+16:15:35 "DZAI Monitor :: Static Spawns: 0. Respawn Queue: 0 groups queued."
+16:15:44 "HIVE: WRITE: "CHILD:305:0:[313.105988,[3088.646729,7351.458008,-0.00491333]]:1:""
+16:15:51 "infiSTAR.de PlayerConnected: CONNECT - Allan(76561198122634822)"
+16:15:52 "HIVE: WRITE: "CHILD:306:22843:[["glass1",0.643123],["glass2",0.49953],["glass3",0.62216],["glass4",0.533064],["wheel_1_1_steering",0.757187],["wheel_1_2_steering",0.0695202],["wheel_2_1_steering",0.174594],["wheel_2_2_steering",0.329862],["motor",0.8],["sklo predni P",0.350596],["sklo predni L",0.875403],["karoserie",0.405334],["palivo",0.684253],["wheel_1_4_steering",0.587589],["wheel_2_4_steering",0.289505],["wheel_1_3_steering",0.431493],["wheel_2_3_steering",0.525985]]:0:""
+16:15:52 "INFO: needUpdate_objects=[389550c0# 1061752: uaz.p3d REMOTE]"
+16:15:52 "HIVE: WRITE: "CHILD:306:22843:[["glass1",0.643123],["glass2",0.49953],["glass3",0.62216],["glass4",0.533064],["wheel_1_1_steering",0.767322],["wheel_1_2_steering",0.0695202],["wheel_2_1_steering",0.174594],["wheel_2_2_steering",0.329862],["motor",0.8],["sklo predni P",0.350596],["sklo predni L",0.875403],["karoserie",0.405334],["palivo",0.684253],["wheel_1_4_steering",0.587589],["wheel_2_4_steering",0.289505],["wheel_1_3_steering",0.431493],["wheel_2_3_steering",0.525985]]:0:""
+16:15:54 "INFO - Player: PID#3(Allan)(UID:76561198122634822/CID:8491) Status: LOGGING IN"
+16:15:56 "INFO - Player: PID#3(Allan)(UID:76561198122634822/CID:8491) Status: LOGIN PUBLISHING, Location factory [131078]"
+16:15:57 "HIVE: WRITE: "CHILD:305:22843:[272.794342,[3675.239746,10294.956055,-0.00146484]]:0.992365:""
+16:15:57 "HIVE: WRITE: "CHILD:306:22843:[["glass1",0.643123],["glass2",0.49953],["glass3",0.62216],["glass4",0.533064],["wheel_1_1_steering",0.767322],["wheel_1_2_steering",0.0695202],["wheel_2_1_steering",0.174594],["wheel_2_2_steering",0.329862],["motor",0.8],["sklo predni P",0.350596],["sklo predni L",0.875403],["karoserie",0.405334],["palivo",0.684253],["wheel_1_4_steering",0.587589],["wheel_2_4_steering",0.289505],["wheel_1_3_steering",0.431493],["wheel_2_3_steering",0.525985]]:0:""
+16:16:02 "HIVE: WRITE: "CHILD:305:0:[307.782196,[3010.219971,7488.323242,0.0126343]]:1:""
+16:16:06 "HIVE: WRITE: "CHILD:305:22843:[221.141739,[3689.130127,10298.882813,-0.000274658]]:0.991344:""
+16:16:07 "HIVE: WRITE: "CHILD:305:22843:[221.143143,[3689.130859,10298.882813,-0.000335693]]:0.991289:""
+16:16:07 "HIVE: WRITE: "CHILD:306:22843:[["glass1",0.643123],["glass2",0.49953],["glass3",0.62216],["glass4",0.533064],["wheel_1_1_steering",0.767322],["wheel_1_2_steering",0.0695202],["wheel_2_1_steering",0.174594],["wheel_2_2_steering",0.329862],["motor",0.8],["sklo predni P",0.350596],["sklo predni L",0.875403],["karoserie",0.405334],["palivo",0.684253],["wheel_1_4_steering",0.587589],["wheel_2_4_steering",0.289505],["wheel_1_3_steering",0.431493],["wheel_2_3_steering",0.525985]]:0:""
+16:16:12 "INFO: Cannot Sync Character Allan near respawn_west [-18700,25800,0.00149536]. This is normal when relogging or changing clothes."
+16:16:12 "INFO - Player: Allan(UID:76561198122634822/CID:8491) Status: CLIENT LOADED & PLAYING"
+16:16:14 "B 1-1-C:1 (Allan) REMOTE, SafeZoneState, [0], 3"
+16:16:14 "infiSTAR.de Log: Allan(76561198122634822) -    Left SafeZone @812895"
+16:16:18 "HIVE: WRITE: "CHILD:305:22843:[85.859222,[3751.699951,10273.641602,0.000732422]]:0.989085:""
+16:16:18 "HIVE: WRITE: "CHILD:303:22843:[[["M110_NVG_EP1","KSVK_DZE","SVD_des_EP1","M249_DZ","SCAR_L_CQC_Holo","MG36_camo","L110A1_DZ","SCAR_H_CQC_CCO_SD"],[1,1,1,1,1,2,1,1]],[["FoodCanRusMilk","equip_rag","20Rnd_762x51_B_SCAR","10Rnd_762x54_SVD","200Rnd_556x45_M249","100Rnd_556x45_BetaCMag","20Rnd_762x51_SB_SCAR"],[1,1,1,1,5,2,2]],[[],[]]]:""
+16:16:20 "HIVE: WRITE: "CHILD:305:0:[48.0534096,[2962.276367,7712.791992,0.0117493]]:1:""
+16:16:22 "HIVE: WRITE: "CHILD:305:22843:[111.385437,[3794.270508,10272.923828,0.00564575]]:0.988297:""
+16:16:24 "HIVE: WRITE: "CHILD:305:22843:[165.0184174,[3812.264648,10255.655273,-0.0307312]]:0.987766:""
+16:16:25 "HIVE: WRITE: "CHILD:305:22843:[166.584732,[3813.537109,10250.754883,-0.00961304]]:0.987652:""
+16:16:39 "HIVE: WRITE: "CHILD:305:0:[20.578371,[3077.248047,7965.503418,-0.000488281]]:1:""
+16:16:43 "HIVE: WRITE: "CHILD:305:22843:[75.965248,[3855.431396,10113.151367,0.00012207]]:0.984015:""
+16:16:45 "HIVE: WRITE: "CHILD:305:22843:[74.504448,[3880.0717773,10119.0546875,0.000152588]]:0.983542:""
+16:16:57 "HIVE: WRITE: "CHILD:305:0:[41.202049,[3221.467529,8171.855957,-0.0022583]]:1:""
+16:16:59 "DZAI Debug: Processed static trigger spawn data in 0 seconds (Custom Spawn)."
+16:16:59 No owner
+16:16:59 "DZAI Debug: Spawned a group of 4 units in 0.019043 seconds at NWAF2 (Custom Spawn)."
+16:16:59 "DZAI Debug: Unit O 1-1-L:1 loadout: [["Mk48_CCO_DZ"],["100Rnd_762x51_M240"]]. Weapongrade 3. Blood: 11851.2."
+16:16:59 "DZAI Debug: Unit O 1-1-L:2 loadout: [["M16A2_GL_DZ"],["30Rnd_556x45_Stanag"]]. Weapongrade 3. Blood: 11435.5."
+16:16:59 "DZAI Debug: Unit O 1-1-L:3 loadout: [["AKM_DZ"],["30Rnd_762x39_AK47"]]. Weapongrade 3. Blood: 9326.38."
+16:16:59 "DZAI Debug: Unit O 1-1-L:4 loadout: [["SVD_Gh_DZ"],["10Rnd_762x54_SVD"]]. Weapongrade 3. Blood: 9971."
+16:17:01 "HIVE: WRITE: "CHILD:305:22843:[50.973625,[4069.547363,10249.321289,0.00738525]]:0.979685:""
+16:17:03 "HIVE: WRITE: "CHILD:305:22843:[50.746307,[4092.538086,10268.0546875,0.00848389]]:0.979278:""
+16:17:03 "DZAI Debug: Processed static trigger spawn data in 0 seconds (Custom Spawn)."
+16:17:03 No owner
+16:17:03 "DZAI Debug: Spawned a group of 4 units in 0.0170898 seconds at NWAF1 (Custom Spawn)."
+16:17:03 "DZAI Debug: Unit O 1-1-M:1 loadout: [["AK74_Kobra_DZ"],["30Rnd_545x39_AK"]]. Weapongrade 3. Blood: 8641.26."
+16:17:03 "DZAI Debug: Unit O 1-1-M:2 loadout: [["M249_DZ"],["200Rnd_556x45_M249"]]. Weapongrade 3. Blood: 10996.5."
+16:17:03 "DZAI Debug: Unit O 1-1-M:3 loadout: [["Sa58V_CCO_EP1"],["30Rnd_762x39_SA58"]]. Weapongrade 3. Blood: 11801.4."
+16:17:03 "DZAI Debug: Unit O 1-1-M:4 loadout: [["M4A3_CCO_EP1"],["30Rnd_556x45_Stanag"]]. Weapongrade 3. Blood: 11337.2."
+16:17:15 "HIVE: WRITE: "CHILD:305:0:[51.477818,[3412.860352,8329.949219,-0.00476074]]:1:""
+16:17:18 "HIVE: WRITE: "CHILD:305:22843:[53.576614,[4194.699219,10345.805664,-9.15527e-005]]:0.976195:""
+16:17:18 "HIVE: WRITE: "CHILD:306:22843:[["glass1",0.643123],["glass2",0.49953],["glass3",0.62216],["glass4",0.533064],["wheel_1_1_steering",0.767322],["wheel_1_2_steering",0.0695202],["wheel_2_1_steering",0.174594],["wheel_2_2_steering",0.329862],["motor",0.8],["sklo predni P",0.350596],["sklo predni L",0.875403],["karoserie",0.405334],["palivo",0.684253],["wheel_1_4_steering",0.587589],["wheel_2_4_steering",0.289505],["wheel_1_3_steering",0.431493],["wheel_2_3_steering",0.525985]]:0:""
+16:17:21 "HIVE: WRITE: "CHILD:305:22843:[53.576698,[4194.699219,10345.805664,-6.10352e-005]]:0.976195:""
+16:17:30 "HIVE: WRITE: "CHILD:305:22843:[53.577694,[4194.699219,10345.805664,9.15527e-005]]:0.976195:""
+16:17:30 "HIVE: WRITE: "CHILD:306:22843:[["glass1",0.643123],["glass2",0.49953],["glass3",0.62216],["glass4",0.533064],["wheel_1_1_steering",0.767322],["wheel_1_2_steering",0.0695202],["wheel_2_1_steering",0.174594],["wheel_2_2_steering",0.329862],["motor",0.8],["sklo predni P",0.350596],["sklo predni L",0.875403],["karoserie",0.405334],["palivo",0.684253],["wheel_1_4_steering",0.587589],["wheel_2_4_steering",0.289505],["wheel_1_3_steering",0.431493],["wheel_2_3_steering",0.525985]]:0:""
+16:17:37 "HIVE: WRITE: "CHILD:305:22843:[40.0223961,[4239.979492,10381.116211,-0.000701904]]:0.97481:""
+16:17:39 "HIVE: WRITE: "CHILD:305:22843:[331.704163,[4234.754395,10402.0771484,9.15527e-005]]:0.974328:""
+16:17:48 "CRASHSPAWNER: Spawning crash site (CrashSite_UN) at [6968.42,9084.48,0] with 5 items."
+16:17:53 "HIVE: WRITE: "CHILD:305:0:[49.574326,[3635.471924,8551.985352,-0.00180054]]:1:""
+16:17:55 "HIVE: WRITE: "CHILD:305:22843:[306.0556335,[4022.589355,10698.571289,0.0198059]]:0.969944:""
+16:17:57 "HIVE: WRITE: "CHILD:305:22843:[332.104034,[3973.817383,10754.84082,-0.00311279]]:0.969213:""
+16:18:12 "HIVE: WRITE: "CHILD:305:0:[29.289991,[3761.212646,8728.81543,-0.00106812]]:1:""
+16:18:13 "HIVE: WRITE: "CHILD:305:22843:[35.155857,[3957.301514,10986.363281,0.000762939]]:0.9661:""
+16:18:16 "HIVE: WRITE: "CHILD:305:22843:[41.875938,[3983.797363,11021.470703,0.000244141]]:0.965393:""
+16:18:28 "HIVE: WRITE: "CHILD:305:22843:[25.300154,[4114.921875,11167.327148,0.00115967]]:0.962389:""
+16:18:28 "HIVE: WRITE: "CHILD:306:22843:[["glass1",0.643123],["glass2",0.49953],["glass3",0.62216],["glass4",0.533064],["wheel_1_1_steering",0.767322],["wheel_1_2_steering",0.0695202],["wheel_2_1_steering",0.174594],["wheel_2_2_steering",0.329862],["motor",0.8],["sklo predni P",0.350596],["sklo predni L",0.875403],["karoserie",0.405334],["palivo",0.684253],["wheel_1_4_steering",0.587589],["wheel_2_4_steering",0.289505],["wheel_1_3_steering",0.431493],["wheel_2_3_steering",0.525985]]:0:""
+16:18:34 "HIVE: WRITE: "CHILD:305:22843:[25.670937,[4114.900879,11167.286133,0.00106812]]:0.962389:""
+16:18:34 "HIVE: WRITE: "CHILD:303:22843:[[["M110_NVG_EP1","KSVK_DZE","SVD_des_EP1","M249_DZ","SCAR_L_CQC_Holo","MG36_camo","L110A1_DZ","SCAR_H_CQC_CCO_SD"],[1,1,1,1,1,2,1,1]],[["FoodCanRusMilk","equip_rag","20Rnd_762x51_B_SCAR","200Rnd_556x45_M249","100Rnd_556x45_BetaCMag","20Rnd_762x51_SB_SCAR"],[1,1,1,5,2,2]],[[],[]]]:""
+16:18:38 "HIVE: WRITE: "CHILD:305:22843:[25.638834,[4114.898926,11167.282227,0.0012207]]:0.962389:""
+16:18:38 "HIVE: WRITE: "CHILD:306:22843:[["glass1",0.643123],["glass2",0.49953],["glass3",0.62216],["glass4",0.533064],["wheel_1_1_steering",0.767322],["wheel_1_2_steering",0.0695202],["wheel_2_1_steering",0.174594],["wheel_2_2_steering",0.329862],["motor",0.8],["sklo predni P",0.350596],["sklo predni L",0.875403],["karoserie",0.405334],["palivo",0.684253],["wheel_1_4_steering",0.587589],["wheel_2_4_steering",0.289505],["wheel_1_3_steering",0.431493],["wheel_2_3_steering",0.525985]]:0:""
+16:18:38 Server: Object 6:122 not found (message 94)
+16:18:45 "Walasznikow (76561198136709825) true true with code: 0 @037065 ([3761.61,8851.97,-0.055])"
+16:18:45 "HIVE: WRITE: "CHILD:305:22843:[8.472094,[4102.811523,11228.449219,0.0010376]]:0.961062:""
+16:18:45 "HIVE: WRITE: "CHILD:303:22843:[[["M110_NVG_EP1","KSVK_DZE","SVD_des_EP1","M249_DZ","SCAR_L_CQC_Holo","L110A1_DZ","SCAR_H_CQC_CCO_SD"],[1,1,1,1,1,1,1]],[["FoodCanRusMilk","equip_rag","20Rnd_762x51_B_SCAR","200Rnd_556x45_M249","100Rnd_556x45_BetaCMag","20Rnd_762x51_SB_SCAR"],[1,1,1,5,2,2]],[[],[]]]:""
+16:18:50 "HIVE: WRITE: "CHILD:305:22843:[32.553059,[4120.772461,11333.771484,0.00418091]]:0.959479:""
+16:18:57 "Walasznikow (76561198136709825) true true with code: 0 @037065 ([3761.61,8851.97,-0.055])"
+16:19:01 "B 1-1-D:2 (LXVII Deon) REMOTE, SafeZoneState, [1], 4"
+16:19:01 "infiSTAR.de Log: LXVII Deon(76561198106802787) -    Entered SafeZone @042037"
+16:19:01 "B 1-1-D:1 (Chaba de Hadd) REMOTE, SafeZoneState, [1], 5"
+16:19:01 "infiSTAR.de Log: Chaba de Hadd(76561198332858359) -    Entered SafeZone @042037"
+16:19:04 "HIVE: WRITE: "CHILD:305:22843:[286.859009,[4133.125,11638.396484,0.000213623]]:0.955416:""
+16:19:06 "Walasznikow (76561198136709825) true true with code: 0 @037065 ([3775.52,8858.54,-0.045])"
+16:19:07 "HIVE: WRITE: "CHILD:303:20194:[[["ItemMatchbox","ItemToolbox","MeleeHatchet","ItemKnife","ItemSledge"],[3,1,2,1,1]],[["ItemHeatPack","ItemTNK","ItemJerrycan","ItemSilverBar3oz","ItemSilverBar8oz","ItemLRK","ItemWaterBottle","30Rnd_556x45_G36SD","ItemSodaPepsi"],[2,2,2,1,1,2,2,2,1]],[[],[]]]:""
+16:19:08 "HIVE: WRITE: "CHILD:305:22843:[305.524597,[4073.790771,11661.875977,-0.0149231]]:0.954741:""
+16:19:09 "SERVER FPS: 30  PLAYERS: 4"
+16:19:13 "HIVE: WRITE: "CHILD:305:22843:[303.187744,[4059.795898,11671.126953,0.00854492]]:0.954002:""
+16:19:13 "HIVE: WRITE: "CHILD:306:22843:[["glass1",0.643123],["glass2",0.49953],["glass3",0.62216],["glass4",0.533064],["wheel_1_1_steering",0.767322],["wheel_1_2_steering",0.0695202],["wheel_2_1_steering",0.174594],["wheel_2_2_steering",0.329862],["motor",0.8],["sklo predni P",0.350596],["sklo predni L",0.875403],["karoserie",0.405334],["palivo",0.684253],["wheel_1_4_steering",0.587589],["wheel_2_4_steering",0.289505],["wheel_1_3_steering",0.431493],["wheel_2_3_steering",0.525985]]:0:""
+16:19:13 "HIVE: WRITE: "CHILD:305:22843:[303.187744,[4059.795898,11671.126953,0.00854492]]:0.954002:""
+16:19:13 "HIVE: WRITE: "CHILD:306:22843:[["glass1",0.643123],["glass2",0.49953],["glass3",0.62216],["glass4",0.533064],["wheel_1_1_steering",0.767322],["wheel_1_2_steering",0.0695202],["wheel_2_1_steering",0.174594],["wheel_2_2_steering",0.329862],["motor",0.8],["sklo predni P",0.350596],["sklo predni L",0.875403],["karoserie",0.405334],["palivo",0.684253],["wheel_1_4_steering",0.587589],["wheel_2_4_steering",0.289505],["wheel_1_3_steering",0.431493],["wheel_2_3_steering",0.525985]]:0:""
+16:19:23 Server: Object 5:245 not found (message 94)
+16:19:23 "Trader Menu: Chaba de Hadd (76561198332858359) sold 1x SVD_des_EP1 from vehicle at trader city Bash for 6 Gold"
+16:19:23 "Trader Menu: Chaba de Hadd (76561198332858359) sold 1x M110_NVG_EP1 from vehicle at trader city Bash for 2 10oz Gold"
+16:19:23 "Trader Menu: Chaba de Hadd (76561198332858359) sold 1x M249_DZ from vehicle at trader city Bash for 6 Gold"
+16:19:23 "Trader Menu: Chaba de Hadd (76561198332858359) sold 1x L110A1_DZ from vehicle at trader city Bash for 5 Gold"
+16:19:23 "Trader Menu: Chaba de Hadd (76561198332858359) sold 1x SCAR_L_CQC_Holo from vehicle at trader city Bash for 4 Gold"
+16:19:23 "Trader Menu: Chaba de Hadd (76561198332858359) sold 1x SCAR_H_CQC_CCO_SD from vehicle at trader city Bash for 1 10oz Gold"
+16:19:23 "HIVE: WRITE: "CHILD:303:22843:[[["KSVK_DZE"],[1]],[["FoodCanRusMilk","equip_rag","20Rnd_762x51_B_SCAR","200Rnd_556x45_M249","100Rnd_556x45_BetaCMag","20Rnd_762x51_SB_SCAR"],[1,1,1,5,2,2]],[[],[]]]:""
+16:19:27 Server: Object 5:246 not found (message 94)
+16:19:28 "Trader Menu: Chaba de Hadd (76561198332858359) sold 1x PDW_DZ from gear at trader city Bash for 1 Gold"
+16:19:28 "Trader Menu: Chaba de Hadd (76561198332858359) sold 1x PKM_DZ from gear at trader city Bash for 5 Gold"
+16:19:28 "Trader Menu: Chaba de Hadd (76561198332858359) sold 1x m8_SAW from gear at trader city Bash for 6 Gold"
+16:19:36 Server: Object 4:502 not found (message 94)
+16:19:36 "Trader Menu: LXVII Deon (76561198106802787) sold 2x MG36_camo from backpack at trader city Bash for 1 10oz Gold and 2 Gold"
+16:19:38 "Walasznikow (76561198136709825) true true with code: 0 @037065 ([3775.52,8858.54,-0.045])"
+16:19:49 "HIVE: WRITE: "CHILD:303:20209:[[["ItemToolbox","m8_SAW","Sa61_EP1","M110_NVG_EP1"],[1,1,1,2]],[["PartPlankPack","PartPlywoodPack","ItemMorphine","ItemFuelBarrel","ItemJerrycan","PartWoodPile","ItemHeatPack","ItemBloodbag","park_bench_kit","ItemFuelBarrelEmpty","FoodMRE","ItemPainkiller","FoodNutmix","ItemSodaPeppsy","ItemSodaPepsi","ItemAntibiotic","ItemAntibiotic6","PartWoodPlywood","PartWoodLumber","Attachment_SCOPED","Attachment_FL","ItemSherbet","ItemSodaMdew","FoodCanSardines","ItemSilverBar8oz","Attachment_Sup9","20Rnd_B_765x17_Ball","ItemSilverBar","ItemBriefcase70oz","ItemSodaLirik","FoodPistachio","ItemWaterBottle","30Rnd_556x45_G36SD","20Rnd_762x51_B_SCAR","ItemPole","ItemBriefcase40oz","ItemBriefcaseS20oz","ItemGoldBar7oz","ItemGoldBar10oz"],[20,21,17,2,3,3,2,28,2,1,4,17,1,1,1,7,4,1,2,1,1,1,1,2,1,1,1,1,1,1,2,1,2,1,28,1,1,1,1]],[[],[]]]:""
+16:19:57 "HIVE: WRITE: "CHILD:303:22843:[[[],[]],[["FoodCanRusMilk","equip_rag","20Rnd_762x51_B_SCAR","200Rnd_556x45_M249","100Rnd_556x45_BetaCMag","20Rnd_762x51_SB_SCAR"],[1,1,1,5,2,2]],[[],[]]]:""
+16:20:00 "Walasznikow (76561198136709825) UNLOCKED Safe with code: 5081 @037064 ([3749.91,8875.89,4.543])"
+16:20:05 Server: Object 5:249 not found (message 94)
+16:20:05 "Trader Menu: Chaba de Hadd (76561198332858359) sold 2x 30Rnd_9x19_UZI from gear at trader city Bash for 2 Silver"
+16:20:05 "Trader Menu: Chaba de Hadd (76561198332858359) sold 2x 100Rnd_556x45_BetaCMag from gear at trader city Bash for 2 Gold"
+16:20:15 "HIVE: WRITE: "CHILD:303:22533:[[["RPG7V","Pecheneg_DZ","ItemKeyBlack2155"],[2,3,1]],[["29Rnd_30mm_AGS30","2000Rnd_762x51_M134","100Rnd_127x99_M2","48Rnd_40mm_MK19","150Rnd_127x107_DSHKM","50Rnd_127x107_DSHKM","PG7V","MAAWS_HEAT","PipeBomb","100Rnd_762x51_M240","100Rnd_762x54_PK","ItemPole","ItemTankTrap"],[2,25,20,4,10,3,4,2,2,16,36,1,9]],[[],[]]]:""
+16:20:35 "DZAI Monitor :: Server Uptime: 0:27:52. Active AI Groups: 2."
+16:20:35 "DZAI Monitor :: Static Spawns: 2. Respawn Queue: 0 groups queued."
+16:20:51 R 1-1-D:2: moving in direct condition failed, dist 2.39046
+16:20:57 "DZAI Debug: Despawned AI units at NWAF2. Reset trigger's group array to: []."
+16:20:59 "DZAI Debug: Despawned AI units at NWAF1. Reset trigger's group array to: []."
+16:21:03 Server: Object 4:514 not found (message 70)
+16:21:03 "Trader Menu: LXVII Deon (76561198106802787) sold 1x Attachment_FL_Pist from gear at trader city Bash for 1 Gold"
+16:21:03 "Trader Menu: LXVII Deon (76561198106802787) sold 1x Attachment_SA58RIS from gear at trader city Bash for 2 Gold"
+16:21:08 "DZAI Debug: Deleting static group O 1-1-L."
+16:21:12 "DZAI Debug: Deleting static group O 1-1-M."
+16:21:21 "HIVE: WRITE: "CHILD:303:22533:[[["RPG7V","Pecheneg_DZ"],[2,3]],[["29Rnd_30mm_AGS30","2000Rnd_762x51_M134","100Rnd_127x99_M2","48Rnd_40mm_MK19","150Rnd_127x107_DSHKM","50Rnd_127x107_DSHKM","PG7V","MAAWS_HEAT","PipeBomb","100Rnd_762x51_M240","100Rnd_762x54_PK"],[2,25,21,4,13,3,4,2,2,16,39]],[[],[]]]:""
+16:21:23 Server: Object 5:255 not found (message 94)
+16:21:24 "Trader Menu: Chaba de Hadd (76561198332858359) purchased 1x DMR_DZ into gear at trader city Bash for 4 10oz Gold"
+16:21:27 "infiSTAR.de PlayerConnected: CONNECT - Acer(76561198184164327)"
+16:21:27 "infiSTAR.de - Player-Log: Acer(76561198184164327) - 0h 28min"
+16:21:29 "Walasznikow (76561198136709825) LOCKED Safe with code: 5081 @037064 ([3749.91,8875.89,4.543])"
+16:21:31 Server: Object 4:516 not found (message 94)
+16:21:31 "Trader Menu: LXVII Deon (76561198106802787) sold 1x Attachment_BELT from gear at trader city Bash for 2 Gold"
+16:21:51 "Walasznikow (76561198136709825) UNLOCKED Safe with code: 3886 @037064 ([3752.02,8874.88,4.548])"
+16:21:55 "INFO - Player: PID#7(Acer)(UID:76561198184164327/CID:8468) Status: LOGGING IN"
+16:21:56 "INFO - Player: PID#7(Acer)(UID:76561198184164327/CID:8468) Status: LOGIN PUBLISHING, Location Stary Sobor [064076]"
+16:22:21 "INFO: Cannot Sync Character Acer near respawn_west [-18700,25800,0.00149536]. This is normal when relogging or changing clothes."
+16:22:22 "INFO - Player: Acer(UID:76561198184164327/CID:8468) Status: CLIENT LOADED & PLAYING"
+16:22:25 Server: Object 5:262 not found (message 94)
+16:22:25 "Trader Menu: Chaba de Hadd (76561198332858359) purchased 2x 20Rnd_762x51_DMR into gear at trader city Bash for 1 10oz Gold and 6 Gold"
+16:22:27 "B 1-1-E:2 (Acer) REMOTE, SafeZoneState, [1], 7"
+16:22:27 "infiSTAR.de Log: Acer(76561198184164327) -    Entered SafeZone @064076"
+16:22:36 "HIVE: WRITE: "CHILD:303:22050:[[["BAF_LRR_scoped","m107_DZ","M110_NVG_EP1","SCAR_H_LNG_Sniper_SD","SCAR_H_LNG_Sniper","ItemToolbox","m8_carbine","M4A1_HWS_GL_camo","Pecheneg_DZ"],[5,3,2,2,1,1,1,1,1]],[["5Rnd_86x70_L115A1","10Rnd_127x99_m107","ItemVault","ItemMorphine","ItemAntibacterialWipe","ItemWaterBottle","metal_floor_kit","100Rnd_762x54_PK","Attachment_FL"],[34,11,2,1,2,1,1,1,1]],[[],[]]]:""
+16:22:43 "Walasznikow (76561198136709825) LOCKED Safe with code: 3886 @037064 ([3752.02,8874.88,4.548])"
+16:22:44 "WAI: [Mission:[Bandit] Sniper Extraction]: Ended at [1079.23,3693.28,0]"
+16:22:46 Server: Object 4:518 not found (message 94)
+16:22:46 "Trader Menu: LXVII Deon (76561198106802787) purchased 7x 20Rnd_762x51_FNFAL into backpack at trader city Bash for 2 Gold and 8 10oz Silver"
+16:22:46 Server: Object 4:512 not found (message 99)
+16:22:47 "WAI: [Bandit] weapon_cache ended at [4259.6,5827.44,0]"
+16:22:49 "Walasznikow (76561198136709825) UNLOCKED Safe with code: 5058 @037064 ([3754.16,8873.87,4.552])"
+16:22:58 Server: Object 5:264 not found (message 94)
+16:22:59 "Trader Menu: Chaba de Hadd (76561198332858359) purchased 1x DZ_GunBag_EP1 into gear at trader city Bash for 6 Gold"
+16:23:05 "infiSTAR.de PlayerConnected: DISCONNECT - Acer(76561198184164327)"
+16:23:05 "INFO - Player: Acer(UID:76561198184164327/CID:8468) Status: LOGGED OUT, Location Stary Sobor [064076]"
+16:23:05 Client: Remote object 7:0 not found
+16:23:05 Client: Object 3:745 (type Type_149) not found.
+16:23:17 "HIVE: WRITE: "CHILD:303:22059:[[["Binocular_Vector","ItemGPS","G36_C_SD_camo","ItemFishingPole"],[3,2,2,1]],[["ItemTankTrap","ItemPole"],[9,1]],[["DZ_LargeGunBag_EP1"],[1]]]:""
+16:23:24 "Walasznikow (76561198136709825) LOCKED Safe with code: 5058 @037064 ([3754.16,8873.87,4.552])"
+16:23:48 "Walasznikow (76561198136709825) UNLOCKED Safe with code: 1653 @037064 ([3756.13,8872.97,4.556])"
+16:23:50 Server: Object 4:529 not found (message 70)
+16:23:50 "Trader Menu: LXVII Deon (76561198106802787) purchased 1x 20Rnd_762x51_DMR into backpack at trader city Bash for 8 Gold"
+16:23:54 Server: Object 5:270 not found (message 70)
+16:23:54 "Trader Menu: Chaba de Hadd (76561198332858359) purchased 1x Attachment_Ghillie into gear at trader city Bash for 2 Gold"
+16:24:06 "HIVE: WRITE: "CHILD:303:22107:[[[],[]],[["ItemGoldBar4oz","20Rnd_762x51_SB_SCAR","ItemMorphine","20Rnd_B_AA12_74Slug","ItemGoldBar10oz"],[1,1,2,1,1]],[[],[]]]:""
+16:24:07 "HIVE: WRITE: "CHILD:303:22843:[[[],[]],[["FoodCanRusMilk","equip_rag","20Rnd_762x51_B_SCAR","200Rnd_556x45_M249","100Rnd_556x45_BetaCMag","20Rnd_762x51_SB_SCAR","20Rnd_762x51_DMR"],[1,1,1,5,2,2,1]],[[],[]]]:""
+16:24:13 "Walasznikow (76561198136709825) LOCKED Safe with code: 1653 @037064 ([3756.13,8872.97,4.556])"
+16:24:53 "HIVE: WRITE: "CHILD:303:20209:[[["ItemToolbox","m8_SAW","Sa61_EP1","M110_NVG_EP1"],[1,1,1,2]],[["PartPlankPack","PartPlywoodPack","ItemMorphine","ItemFuelBarrel","ItemJerrycan","PartWoodPile","ItemHeatPack","ItemBloodbag","park_bench_kit","ItemFuelBarrelEmpty","FoodMRE","ItemPainkiller","FoodNutmix","ItemSodaPeppsy","ItemSodaPepsi","ItemAntibiotic","ItemAntibiotic6","PartWoodPlywood","PartWoodLumber","Attachment_SCOPED","Attachment_FL","ItemSherbet","ItemSodaMdew","FoodCanSardines","ItemSilverBar8oz","Attachment_Sup9","20Rnd_B_765x17_Ball","ItemSilverBar","ItemBriefcase70oz","ItemSodaLirik","FoodPistachio","ItemWaterBottle","30Rnd_556x45_G36SD","20Rnd_762x51_B_SCAR","ItemPole","ItemBriefcase40oz","ItemBriefcaseS20oz","ItemGoldBar7oz","ItemGoldBar10oz"],[20,21,17,2,3,3,2,28,2,1,3,17,1,1,1,7,4,1,2,1,1,1,1,2,1,1,1,1,1,1,2,1,2,1,28,1,1,1,1]],[[],[]]]:""
+16:25:09 "SERVER FPS: 30  PLAYERS: 4"
+16:25:09 "Walasznikow (76561198136709825) true true with code: 0 @037065 ([3772.23,8844.58,4.794])"
+16:25:26 "Walasznikow (76561198136709825) true true with code: 0 @037065 ([3772.23,8844.58,4.794])"
+16:25:36 "DZAI Monitor :: Server Uptime: 0:32:53. Active AI Groups: 0."
+16:25:36 "DZAI Monitor :: Static Spawns: 0. Respawn Queue: 0 groups queued."
+16:25:44 "HIVE: WRITE: "CHILD:305:22843:[303.193085,[4059.768555,11671.108398,0.00860596]]:0.954002:""
+16:25:44 "HIVE: WRITE: "CHILD:306:22843:[["glass1",0.643123],["glass2",0.49953],["glass3",0.62216],["glass4",0.533064],["wheel_1_1_steering",0.767322],["wheel_1_2_steering",0.0695202],["wheel_2_1_steering",0.174594],["wheel_2_2_steering",0.329862],["motor",0.8],["sklo predni P",0.350596],["sklo predni L",0.875403],["karoserie",0.405334],["palivo",0.684253],["wheel_1_4_steering",0.587589],["wheel_2_4_steering",0.289505],["wheel_1_3_steering",0.431493],["wheel_2_3_steering",0.525985]]:0:""
+16:25:46 "HIVE: WRITE: "CHILD:305:22843:[303.193085,[4059.768555,11671.108398,0.00863647]]:0.954002:""
+16:25:46 "HIVE: WRITE: "CHILD:306:22843:[["glass1",0.643123],["glass2",0.49953],["glass3",0.62216],["glass4",0.533064],["wheel_1_1_steering",0.767322],["wheel_1_2_steering",0.0695202],["wheel_2_1_steering",0.174594],["wheel_2_2_steering",0.329862],["motor",0.8],["sklo predni P",0.350596],["sklo predni L",0.875403],["karoserie",0.405334],["palivo",0.684253],["wheel_1_4_steering",0.587589],["wheel_2_4_steering",0.289505],["wheel_1_3_steering",0.431493],["wheel_2_3_steering",0.525985]]:0:""
+16:25:51 "Walasznikow (76561198136709825) UNLOCKED Safe with code: 7287 @037064 ([3762.44,8861.62,4.541])"
+16:25:55 "HIVE: WRITE: "CHILD:303:22843:[[[],[]],[["FoodCanRusMilk","equip_rag","20Rnd_762x51_B_SCAR","200Rnd_556x45_M249","100Rnd_556x45_BetaCMag","20Rnd_762x51_SB_SCAR"],[1,1,1,5,2,2]],[[],[]]]:""
+16:26:05 "HIVE: WRITE: "CHILD:303:20452:[[["ChainSaw"],[1]],[["ItemCorrugated","ItemFuelBarrelEmpty","ItemJerryMixed4","ItemSandbag","ItemMixOil","bulk_ItemTankTrap","fuel_pump_kit","ItemPlotDeed","MortarBucket","CinderBlocks","cinder_garage_kit","ItemComboLock","ItemWoodFloor","park_bench_kit","ItemGenerator","metal_floor_kit","ItemVault","ItemHeatPack","ItemMorphine","cinder_door_kit","ItemPole","ItemBloodbag"],[10,4,1,55,2,33,1,2,4,27,2,7,5,1,2,19,1,1,1,1,14,1]],[["DZ_LargeGunBag_EP1"],[4]]]:""
+16:26:05 Server: Object 4:536 not found (message 70)
+16:26:05 "Trader Menu: LXVII Deon (76561198106802787) sold 1x 20Rnd_762x51_B_SCAR from vehicle at trader city Bash for 3 Gold"
+16:26:05 "Trader Menu: LXVII Deon (76561198106802787) sold 5x 200Rnd_556x45_M249 from vehicle at trader city Bash for 1 10oz Gold"
+16:26:05 "Trader Menu: LXVII Deon (76561198106802787) sold 2x 20Rnd_762x51_SB_SCAR from vehicle at trader city Bash for 6 Gold"
+16:26:05 "Trader Menu: LXVII Deon (76561198106802787) sold 2x 100Rnd_556x45_BetaCMag from vehicle at trader city Bash for 2 Gold"
+16:26:05 "HIVE: WRITE: "CHILD:303:22843:[[[],[]],[["FoodCanRusMilk","equip_rag"],[1,1]],[[],[]]]:""
+16:26:12 "Walasznikow (76561198136709825) LOCKED Safe with code: 7287 @037064 ([3762.44,8861.62,4.541])"
+16:26:17 "Walasznikow (76561198136709825) UNLOCKED LockBox with code: Blue49 @037064 ([3763.18,8863.79,5.109])"
+16:26:54 "HIVE: WRITE: "CHILD:303:20301:[[["ItemGPS","ItemKeyBlue260"],[5,1]],[["PartVRotor","PartEngine","PartFueltank","PartWheel","ItemPole"],[11,8,4,2,14]],[[],[]]]:""
+16:27:02 "Walasznikow (76561198136709825) LOCKED LockBox with code: Blue49 @037064 ([3763.18,8863.79,5.109])"
+16:27:20 Server: Object 4:540 not found (message 70)
+16:27:20 "Trader Menu: LXVII Deon (76561198106802787) sold 1x SVD_DZ from gear at trader city Bash for 6 Gold"
+16:27:31 "Walasznikow (76561198136709825) true true with code: 0 @037065 ([3772.23,8844.58,4.794])"
+16:27:33 "Walasznikow (76561198136709825) true true with code: 0 @037065 ([3772.23,8844.58,4.794])"
+16:27:37 "HIVE: WRITE: "CHILD:305:22843:[303.193085,[4059.768555,11671.108398,0.00863647]]:0.954002:""
+16:27:37 "HIVE: WRITE: "CHILD:306:22843:[["glass1",0.643123],["glass2",0.49953],["glass3",0.62216],["glass4",0.533064],["wheel_1_1_steering",0.767322],["wheel_1_2_steering",0.0695202],["wheel_2_1_steering",0.174594],["wheel_2_2_steering",0.329862],["motor",0.8],["sklo predni P",0.350596],["sklo predni L",0.875403],["karoserie",0.405334],["palivo",0.684253],["wheel_1_4_steering",0.587589],["wheel_2_4_steering",0.289505],["wheel_1_3_steering",0.431493],["wheel_2_3_steering",0.525985]]:0:""
+16:27:38 No owner
+16:27:38 No owner
+16:27:38 No owner
+16:27:38 No owner
+16:27:39 "HIVE: WRITE: "CHILD:305:22843:[303.193085,[4059.768555,11671.108398,0.00863647]]:0.954002:""
+16:27:39 "HIVE: WRITE: "CHILD:306:22843:[["glass1",0.643123],["glass2",0.49953],["glass3",0.62216],["glass4",0.533064],["wheel_1_1_steering",0.767322],["wheel_1_2_steering",0.0695202],["wheel_2_1_steering",0.174594],["wheel_2_2_steering",0.329862],["motor",0.8],["sklo predni P",0.350596],["sklo predni L",0.875403],["karoserie",0.405334],["palivo",0.684253],["wheel_1_4_steering",0.587589],["wheel_2_4_steering",0.289505],["wheel_1_3_steering",0.431493],["wheel_2_3_steering",0.525985]]:0:""
+16:27:50 "Walasznikow (76561198136709825) true true with code: 0 @037065 ([3772.23,8844.58,4.794])"
+16:28:13 "infiSTAR.de PlayerConnected: CONNECT - Acer(76561198184164327)"
+16:28:20 ["z\addons\dayz_server\system\scheduler\sched_safetyVehicle.sqf","KILLING A HACKER","Dmytro Lebeda"," IN ","ParachuteEast"]
+16:28:20 ["z\addons\dayz_server\system\scheduler\sched_safetyVehicle.sqf","KILLING A HACKER","Amir Saikal"," IN ","ParachuteEast"]
+16:28:20 ["z\addons\dayz_server\system\scheduler\sched_safetyVehicle.sqf","KILLING A HACKER","Bohuslav Grygar"," IN ","ParachuteEast"]
+16:28:20 ["z\addons\dayz_server\system\scheduler\sched_safetyVehicle.sqf","KILLING A HACKER","Josef Starecek"," IN ","ParachuteEast"]
+16:28:20 ["z\addons\dayz_server\system\scheduler\sched_safetyVehicle.sqf","KILLING A HACKER","Edgar Eady"," IN ","ParachuteEast"]
+16:28:20 ["z\addons\dayz_server\system\scheduler\sched_safetyVehicle.sqf","KILLING A HACKER","Bogdan Kravchuk"," IN ","ParachuteEast"]
+16:28:20 ["z\addons\dayz_server\system\scheduler\sched_safetyVehicle.sqf","KILLING A HACKER","Ali Bahadur"," IN ","ParachuteEast"]
+16:28:20 ["z\addons\dayz_server\system\scheduler\sched_safetyVehicle.sqf","KILLING A HACKER","Haley Smith"," IN ","ParachuteEast"]
+16:28:20 ["z\addons\dayz_server\system\scheduler\sched_safetyVehicle.sqf","KILLING A HACKER","Dimitri Pushkin"," IN ","ParachuteEast"]
+16:28:20 ["z\addons\dayz_server\system\scheduler\sched_safetyVehicle.sqf","KILLING A HACKER","Martin Kvapil"," IN ","ParachuteEast"]
+16:28:20 ["z\addons\dayz_server\system\scheduler\sched_safetyVehicle.sqf","KILLING A HACKER","Noah Rochelle"," IN ","ParachuteEast"]
+16:28:20 ["z\addons\dayz_server\system\scheduler\sched_safetyVehicle.sqf","KILLING A HACKER","Vyacheslav Yakushkin"," IN ","ParachuteEast"]
+16:28:27 Server: Object 5:286 not found (message 94)
+16:28:27 "DELETE: Player B 1-1-D:1 (Chaba de Hadd) REMOTE deleted object with ID: 22843"
+16:28:27 "Trader Menu: Chaba de Hadd (76561198332858359) sold 1x UAZ_RU from gear at trader city Bash for 4 Gold"
+16:28:43 "INFO - Player: PID#8(Acer)(UID:76561198184164327/CID:8468) Status: LOGGING IN"
+16:28:43 "INFO - Player: PID#8(Acer)(UID:76561198184164327/CID:8468) Status: LOGIN PUBLISHING, Location Stary Sobor [064076]"
+16:29:01 "INFO: Cannot Sync Character Acer near respawn_west [-18700,25800,0.00149536]. This is normal when relogging or changing clothes."
+16:29:02 "INFO - Player: Acer(UID:76561198184164327/CID:8468) Status: CLIENT LOADED & PLAYING"
+16:29:04 "B 1-1-E:2 (Acer) REMOTE, SafeZoneState, [1], 8"
+16:29:04 "infiSTAR.de Log: Acer(76561198184164327) -    Entered SafeZone @064076"
+16:29:15 "HIVE: WRITE: "CHILD:305:0:[9.461884,[3756.758789,8856.841797,17.590088]]:0.997679:""
+16:29:35 "HIVE: WRITE: "CHILD:305:0:[59.385963,[3790.681885,9110.438477,36.664673]]:0.99564:""
+16:29:44 Server: Object 5:292 not found (message 94)
+16:29:44 "Trader Menu: Chaba de Hadd (76561198332858359) purchased 2x ItemBloodbag into backpack at trader city Bash for 8 Silver"
+16:29:44 "Trader Menu: Chaba de Hadd (76561198332858359) purchased 2x ItemMorphine into backpack at trader city Bash for 4 Silver"
+16:29:44 "Trader Menu: Chaba de Hadd (76561198332858359) purchased 4x ItemPainkiller into backpack at trader city Bash for 4 Silver"
+16:29:44 "Trader Menu: Chaba de Hadd (76561198332858359) purchased 2x ItemAntibiotic into backpack at trader city Bash for 2 Gold"
+16:29:51 Server: Object 4:547 not found (message 94)
+16:29:51 "HIVE: WRITE: "CHILD:308:11:SUV_Camo:0:4622:[173,[4037.26,11673.5,0.00289917]]:[]:[]:1:6265173116732228:""
+16:29:51 "Trader Menu: LXVII Deon (76561198106802787) purchased 1x SUV_Camo into gear at trader city Bash for 2 10oz Gold"
+16:29:51 "HIVE: WRITE: "CHILD:388:6265173116732228:""
+16:29:51 "CUSTOM: Selected "22846""
+16:29:51 "HIVE: WRITE: "CHILD:309:0:[[[],[]],[[],[]],[[],[]]]:""
+16:29:51 "PUBLISH: LXVII Deon(76561198106802787) bought SUV_Camo with ObjectUID 6265173116732228"
+16:29:56 "HIVE: WRITE: "CHILD:305:0:[88.119568,[4379.865723,9193.0292969,56.734863]]:0.993613:""
+16:30:04 "HIVE: WRITE: "CHILD:305:22846:[359.889435,[4036.333984,11669.470703,0.00610352]]:1:""
+16:30:04 "HIVE: WRITE: "CHILD:306:22846:[["wheel_1_1_steering",0],["wheel_1_2_steering",0],["wheel_2_1_steering",0],["wheel_2_2_steering",0],["palivo",0],["motor",0],["glass1",0],["glass2",0],["glass3",0],["glass4",0],["sklo predni P",0],["sklo predni L",0],["karoserie",0],["wheel_1_4_steering",0],["wheel_2_4_steering",0],["wheel_1_3_steering",0],["wheel_2_3_steering",0]]:0:""
+16:30:13 "HIVE: WRITE: "CHILD:305:22846:[359.888,[4036.333984,11669.470703,0.00610352]]:1:""
+16:30:16 "HIVE: WRITE: "CHILD:305:0:[92.112045,[4993.345215,9188.426758,40.635925]]:0.991546:""
+16:30:16 "infiSTAR.de PlayerConnected: DISCONNECT - Acer(76561198184164327)"
+16:30:16 "INFO - Player: Acer(UID:76561198184164327/CID:8468) Status: LOGGED OUT, Location Stary Sobor [064076]"
+16:30:16 Client: Remote object 8:0 not found
+16:30:16 Client: Remote object 8:5 not found
+16:30:17 Client: Object 5:294 (type Type_149) not found.
+16:30:17 Client: Object 3:796 (type Type_149) not found.
+16:30:17 Client: Object 4:548 (type Type_149) not found.
+16:30:21 Server: Object 5:295 not found (message 94)
+16:30:22 "Trader Menu: Chaba de Hadd (76561198332858359) purchased 4x ItemSodaCoke into backpack at trader city Bash for 8 Silver"
+16:30:34 "HIVE: WRITE: "CHILD:305:0:[93.797516,[5341.905762,9169.540039,44.437775]]:0.989779:""
+16:30:36 "DZAI Monitor :: Server Uptime: 0:37:53. Active AI Groups: 0."
+16:30:36 "DZAI Monitor :: Static Spawns: 0. Respawn Queue: 0 groups queued."
+16:30:42 Server: Object 5:296 not found (message 94)
+16:30:42 "Trader Menu: Chaba de Hadd (76561198332858359) purchased 4x FoodMRE into backpack at trader city Bash for 4 10oz Silver"
+16:30:52 "HIVE: WRITE: "CHILD:305:0:[94.371147,[5678.55127,9144.597656,84.229492]]:0.987948:""
+16:31:04 "HIVE: WRITE: "CHILD:305:22846:[359.888,[4036.333984,11669.470703,0.00610352]]:1:""
+16:31:04 "HIVE: WRITE: "CHILD:306:22846:[["wheel_1_1_steering",0],["wheel_1_2_steering",0],["wheel_2_1_steering",0],["wheel_2_2_steering",0],["palivo",0],["motor",0],["glass1",0],["glass2",0],["glass3",0],["glass4",0],["sklo predni P",0],["sklo predni L",0],["karoserie",0],["wheel_1_4_steering",0],["wheel_2_4_steering",0],["wheel_1_3_steering",0],["wheel_2_3_steering",0]]:0:""
+16:31:09 "SERVER FPS: 32  PLAYERS: 4"
+16:31:10 "HIVE: WRITE: "CHILD:305:0:[88.782097,[6216.701172,9130.0869141,94.287933]]:0.986141:""
+16:31:17 "HIVE: WRITE: "CHILD:305:22846:[359.888,[4036.333984,11669.470703,0.00610352]]:1:""
+16:31:18 WARNING: Function 'name' - Oleg Benes is dead
+16:31:18 WARNING: Function 'name' - Oleg Benes is dead
+16:31:18 WARNING: Function 'name' - Oleg Benes is dead
+16:31:18 WARNING: Function 'name' - Oleg Benes is dead
+16:31:18 WARNING: Function 'name' - Oleg Benes is dead
+16:31:18 WARNING: Function 'name' - Oleg Benes is dead
+16:31:29 "HIVE: WRITE: "CHILD:305:0:[101.605362,[6814.844727,9100.706055,114.874786]]:0.984331:""
+16:31:29 "HIVE: WRITE: "CHILD:305:22846:[97.524132,[4047.340576,11673.0634766,0.00741577]]:0.999477:""
+16:31:35 "HIVE: WRITE: "CHILD:305:22846:[107.444061,[4116.59082,11643.645508,0.00131226]]:0.998526:""
+16:31:38 WARNING: Function 'name' - Slavomir Tuma is dead
+16:31:38 WARNING: Function 'name' - Slavomir Tuma is dead
+16:31:44 "B 1-1-D:2 (LXVII Deon) REMOTE, SafeZoneState, [0], 4"
+16:31:44 "infiSTAR.de Log: LXVII Deon(76561198106802787) -    Left SafeZone @042038"
+16:31:45 "B 1-1-D:1 (Chaba de Hadd) REMOTE, SafeZoneState, [0], 5"
+16:31:45 "infiSTAR.de Log: Chaba de Hadd(76561198332858359) -    Left SafeZone @042038"
+16:31:47 "HIVE: WRITE: "CHILD:305:0:[87.968277,[7255.995605,9062.583008,122.0558472]]:0.982508:""
+16:31:48 "HIVE: WRITE: "CHILD:305:22846:[221.049469,[4202.118652,11433.537109,0.0112]]:0.995795:""
+16:31:53 "HIVE: WRITE: "CHILD:305:22846:[185.801758,[4105.121094,11274.359375,0.00311279]]:0.994726:""
+16:31:54 "DZAI Debug: Processed static trigger spawn data in 0 seconds (Custom Spawn)."
+16:31:54 No owner
+16:31:54 No owner
+16:31:54 "DZAI Debug: Spawned a group of 4 units in 0.027832 seconds at NWAF1 (Custom Spawn)."
+16:31:54 "DZAI Debug: Unit O 1-1-I:1 loadout: [["M16A2_GL_DZ"],["30Rnd_556x45_Stanag"]]. Weapongrade 3. Blood: 11450.6."
+16:31:54 "DZAI Debug: Unit O 1-1-I:2 loadout: [["M24_DZ"],["5Rnd_762x51_M24"]]. Weapongrade 3. Blood: 8930.88."
+16:31:54 "DZAI Debug: Unit O 1-1-I:3 loadout: [["M4A1_CCO_DZ"],["30Rnd_556x45_Stanag"]]. Weapongrade 3. Blood: 8484.7."
+16:31:54 "DZAI Debug: Unit O 1-1-I:4 loadout: [["M4A3_CCO_EP1"],["30Rnd_556x45_Stanag"]]. Weapongrade 3. Blood: 8285.82."
+16:31:57 "DZAI Debug: Processed static trigger spawn data in 0 seconds (Custom Spawn)."
+16:31:57 No owner
+16:31:57 No owner
+16:31:57 "DZAI Debug: Spawned a group of 4 units in 0.0209961 seconds at NWAF2 (Custom Spawn)."
+16:31:58 "DZAI Debug: Unit O 1-1-K:1 loadout: [["M4A1_AIM_SD_camo"],["30Rnd_556x45_StanagSD"]]. Weapongrade 3. Blood: 8270.19."
+16:31:58 "DZAI Debug: Unit O 1-1-K:2 loadout: [["Mk48_CCO_DZ"],["100Rnd_762x51_M240"]]. Weapongrade 3. Blood: 8029.15."
+16:31:58 "DZAI Debug: Unit O 1-1-K:3 loadout: [["M40A3_Gh_DZ"],["5Rnd_762x51_M24"]]. Weapongrade 3. Blood: 9107.6."
+16:31:58 "DZAI Debug: Unit O 1-1-K:4 loadout: [["AK74_Kobra_DZ"],["30Rnd_545x39_AK"]]. Weapongrade 3. Blood: 11030.8."
+16:32:05 "HIVE: WRITE: "CHILD:305:0:[89.128761,[7798.594238,9100.675781,86.599518]]:0.980709:""
+16:32:06 "HIVE: WRITE: "CHILD:305:22846:[133.194687,[4291.648438,11033.731445,-0.000213623]]:0.992468:""
+16:32:12 "HIVE: WRITE: "CHILD:305:22846:[43.418213,[4369.215332,10975.110352,0.00811768]]:0.991522:""
+16:32:19 "HIVE: WRITE: "CHILD:305:22846:[328.366699,[4362.050293,11033.713867,0.000274658]]:0.990445:""
+16:32:19 "HIVE: WRITE: "CHILD:306:22846:[["wheel_1_1_steering",0],["wheel_1_2_steering",0],["wheel_2_1_steering",0],["wheel_2_2_steering",0],["palivo",0],["motor",0],["glass1",0],["glass2",0],["glass3",0],["glass4",0],["sklo predni P",0],["sklo predni L",0],["karoserie",0],["wheel_1_4_steering",0],["wheel_2_4_steering",0],["wheel_1_3_steering",0],["wheel_2_3_steering",0]]:0:""
+16:32:20 "HIVE: WRITE: "CHILD:305:22846:[328.357391,[4362.0522461,11033.717773,0.000305176]]:0.990387:""
+16:32:20 "HIVE: WRITE: "CHILD:306:22846:[["wheel_1_1_steering",0],["wheel_1_2_steering",0],["wheel_2_1_steering",0],["wheel_2_2_steering",0],["palivo",0],["motor",0],["glass1",0],["glass2",0],["glass3",0],["glass4",0],["sklo predni P",0],["sklo predni L",0],["karoserie",0],["wheel_1_4_steering",0],["wheel_2_4_steering",0],["wheel_1_3_steering",0],["wheel_2_3_steering",0]]:0:""
+16:32:23 "HIVE: WRITE: "CHILD:305:0:[92.0283737,[8120.208984,9100.0478516,7.0396118]]:0.978898:""
+16:32:23 "HIVE: WRITE: "CHILD:309:1:[[[],[]],[[],[]],[[],[]]]:""
+16:32:24 Server: Object 4:556 not found (message 94)
+16:32:48 "CRASHSPAWNER: Spawning crash site (CrashSite_US) at [8654.41,6699.91,0] with 7 items."
+16:32:53 "Walasznikow (76561198136709825) true Safe with code: 1292 @081062 ([8118.64,9133.25,0.048])"
+16:32:54 Server: Object 4:575 not found (message 70)
+16:32:54 Server: Object 4:574 not found (message 70)
+16:32:54 Server: Object 4:576 not found (message 70)
+16:33:00 Server: Object 4:589 not found (message 70)
+16:33:07 "WAI: [Mission:[Bandit] Presidents in Town]: Starting... [2080.94,5216.38,0]"
+16:33:08 "WAI: Spawned a group of 2 AI (Hero) at [2080.94,5216.38,0]"
+16:33:08 "Walasznikow (76561198136709825) true Safe with code: 9174 @081062 ([8117.51,9134.73,0.067])"
+16:33:09 "WAI: Spawned a group of 5 AI (Hero) at [2080.94,5216.38,0]"
+16:33:09 "WAI: Spawned a group of 5 AI (Hero) at [2080.94,5216.38,0]"
+16:33:09 "WAI: Spawned a group of 2 AI (Hero) at [2080.94,5216.38,0]"
+16:33:10 "WAI: Spawned a group of 1 AI (Hero) at [2085.94,5216.38,4.1]"
+16:33:10 "WAI: Spawned a group of 1 AI (Hero) at [2085.94,5216.38,4.1]"
+16:33:10 No owner
+16:33:10 No owner
+16:33:10 "WAI: Spawned in 3 M2StaticMG"
+16:33:11 "HIVE: WRITE: "CHILD:305:22846:[328.272186,[4362.0615234,11033.735352,0.000244141]]:0.990387:""
+16:33:11 "HIVE: WRITE: "CHILD:306:22846:[["wheel_1_1_steering",0],["wheel_1_2_steering",0],["wheel_2_1_steering",0],["wheel_2_2_steering",0],["palivo",0],["motor",0],["glass1",0],["glass2",0],["glass3",0],["glass4",0],["sklo predni P",0],["sklo predni L",0],["karoserie",0],["wheel_1_4_steering",0],["wheel_2_4_steering",0],["wheel_1_3_steering",0],["wheel_2_3_steering",0]]:0:""
+16:33:13 "HIVE: WRITE: "CHILD:305:22846:[328.272186,[4362.0615234,11033.735352,0.000244141]]:0.990387:""
+16:33:13 "HIVE: WRITE: "CHILD:306:22846:[["wheel_1_1_steering",0],["wheel_1_2_steering",0],["wheel_2_1_steering",0],["wheel_2_2_steering",0],["palivo",0],["motor",0],["glass1",0],["glass2",0],["glass3",0],["glass4",0],["sklo predni P",0],["sklo predni L",0],["karoserie",0],["wheel_1_4_steering",0],["wheel_2_4_steering",0],["wheel_1_3_steering",0],["wheel_2_3_steering",0]]:0:""
+16:33:19 "HIVE: WRITE: "CHILD:305:22846:[328.272186,[4362.0615234,11033.735352,0.000244141]]:0.990387:""
+16:33:24 "Walasznikow (76561198136709825) true Safe with code: 8344 @081062 ([8117.71,9133.85,0.068])"
+16:33:54 "HIVE: WRITE: "CHILD:305:0:[92.465187,[8119.959961,9099.720703,-0.0397339]]:0.973505:""
+16:34:35 "HIVE: WRITE: "CHILD:305:22846:[319.0491943,[4349.589844,11052.163086,-0.00585938]]:0.989963:""
+16:34:35 "HIVE: WRITE: "CHILD:305:22846:[308.26947,[4346.439453,11054.37207,-0.00610352]]:0.989911:""
+16:34:43 "HIVE: WRITE: "CHILD:305:0:[93.211754,[8127.657715,9095.982422,8.250763]]:0.969531:""
+16:34:46 "infiSTAR.de PlayerConnected: DISCONNECT - Allan(76561198122634822)"
+16:34:46 "INFO - Player: Allan(UID:76561198122634822/CID:8491) Status: LOGGED OUT, Location power plant [105128]"
+16:34:46 Client: Remote object 3:341 not found
+16:34:47 Warning: Cleanup player - person 3:340 not found
+16:34:48 Warning: Cleanup player - person 3:340 not found
+16:34:51 "HIVE: WRITE: "CHILD:305:22846:[155.272812,[4424.371582,10816.773438,0]]:0.986943:""
+16:34:51 "HIVE: WRITE: "CHILD:305:22846:[155.276764,[4428.206055,10808.449219,0]]:0.98686:""
+16:34:59 "HIVE: WRITE: "CHILD:305:0:[92.377686,[8564.0400391,9076.230469,75.188751]]:0.967917:""
+16:35:07 "HIVE: WRITE: "CHILD:305:22846:[143.90889,[4418.626465,10449.865234,0]]:0.983495:""
+16:35:08 "HIVE: WRITE: "CHILD:305:22846:[145.646835,[4423.25,10443.114258,-3.05176e-005]]:0.983416:""
+16:35:15 "HIVE: WRITE: "CHILD:305:0:[121.34259,[9156.514648,8970.395508,82.411835]]:0.966308:""
+16:35:15 "HIVE: WRITE: "CHILD:305:22846:[150.131348,[4533.435059,10244.0537109,0]]:0.981777:""
+16:35:23 "HIVE: WRITE: "CHILD:305:22846:[149.538956,[4668.979492,10026.0986328,0]]:0.980105:""
+16:35:31 "HIVE: WRITE: "CHILD:305:0:[97.187111,[9763.25293,8851.0966797,84.644867]]:0.964695:""
+16:35:32 "HIVE: WRITE: "CHILD:305:22846:[242.743988,[4624.0170898,9908.224609,0.00354004]]:0.978626:""
+16:35:38 "DZAI Monitor :: Server Uptime: 0:42:55. Active AI Groups: 2."
+16:35:38 "DZAI Monitor :: Static Spawns: 2. Respawn Queue: 0 groups queued."
+16:35:40 "HIVE: WRITE: "CHILD:305:22846:[164.641113,[4540.188477,9824.0117188,-0.00140381]]:0.977152:""
+16:35:47 "HIVE: WRITE: "CHILD:305:0:[92.848366,[10396.599609,8843.297852,113.6147]]:0.963092:""
+16:35:48 "HIVE: WRITE: "CHILD:305:22846:[180.4077,[4490.956543,9593.0107422,0.00296021]]:0.975313:""
+16:35:56 "HIVE: WRITE: "CHILD:305:22846:[230.541367,[4432.91748,9428.876953,0.00274658]]:0.973778:""
+16:36:03 "HIVE: WRITE: "CHILD:305:0:[128.185654,[10862.949219,8689.435547,88.548553]]:0.961479:""
+16:36:04 "HIVE: WRITE: "CHILD:305:22846:[230.428772,[4376.135254,9382.0400391,-0.00314331]]:0.972714:""
+16:36:12 "HIVE: WRITE: "CHILD:305:22846:[210.212646,[4362.425293,9359.524414,-0.000823975]]:0.971739:""
+16:36:19 "HIVE: WRITE: "CHILD:305:0:[125.811371,[11158.525391,8341.811523,84.641571]]:0.959874:""
+16:36:20 "HIVE: WRITE: "CHILD:305:22846:[164.801666,[4372.432617,9286.422852,6.10352e-005]]:0.970548:""
+16:36:28 "HIVE: WRITE: "CHILD:305:22846:[169.202774,[4474.307617,9107.575195,-0.00170898]]:0.968807:""
+16:36:32 "WAI: [Mission:[Bandit] Black Hawk Crash]: Starting... [4304.79,4957.78,0]"
+16:36:32 No owner
+16:36:32 No owner
+16:36:32 No owner
+16:36:32 No owner
+16:36:32 "WAI: Spawned a group of 2 AI (Hero) at [4304.79,4957.78,0]"
+16:36:32 No owner
+16:36:32 No owner
+16:36:32 No owner
+16:36:32 No owner
+16:36:32 "WAI: Spawned a group of 2 AI (Hero) at [4304.79,4957.78,0]"
+16:36:32 No owner
+16:36:32 No owner
+16:36:32 No owner
+16:36:32 No owner
+16:36:32 "WAI: Spawned a group of 2 AI (Hero) at [4304.79,4957.78,0]"
+16:36:36 "HIVE: WRITE: "CHILD:305:0:[154.374252,[11506.828125,8070.872559,111.309586]]:0.958253:""
+16:36:36 "HIVE: WRITE: "CHILD:305:22846:[180.359711,[4459.566406,8915.641602,-3.05176e-005]]:0.967386:""
+16:36:44 "DZAI Debug: Processed static trigger spawn data in 0 seconds (Custom Spawn)."
+16:36:44 No owner
+16:36:44 "DZAI Debug: Spawned a group of 4 units in 0.0241699 seconds at Dichina (Custom Spawn)."
+16:36:44 "DZAI Debug: Unit O 1-1-M:1 loadout: [["M240_DZ"],["100Rnd_762x51_M240"]]. Weapongrade 2. Blood: 9514.19."
+16:36:44 "DZAI Debug: Unit O 1-1-M:2 loadout: [["SVD_Gh_DZ"],["10Rnd_762x54_SVD"]]. Weapongrade 2. Blood: 10797."
+16:36:44 "DZAI Debug: Unit O 1-1-M:3 loadout: [["AK74_DZ"],["30Rnd_545x39_AK"]]. Weapongrade 2. Blood: 10038."
+16:36:44 "DZAI Debug: Unit O 1-1-M:4 loadout: [["SA58_DZ"],["30Rnd_762x39_SA58"]]. Weapongrade 2. Blood: 10023."
+16:36:45 "HIVE: WRITE: "CHILD:305:22846:[144.677338,[4478.199219,8837.517578,-0.00857544]]:0.966165:""
+16:36:52 "HIVE: WRITE: "CHILD:305:0:[186.448288,[11493.297852,7616.865723,120.304749]]:0.956644:""
+16:36:52 "HIVE: WRITE: "CHILD:305:22846:[129.775848,[4576.782715,8789.248047,-0.0138245]]:0.964824:""
+16:37:03 "HIVE: WRITE: "CHILD:305:22846:[112.885193,[4663.429688,8753.289063,0.000366211]]:0.963347:""
+16:37:09 "SERVER FPS: 33  PLAYERS: 4"
+16:37:10 "HIVE: WRITE: "CHILD:305:0:[241.663177,[11098.00195313,7123.231934,187.840027]]:0.954823:""
+16:37:10 "HIVE: WRITE: "CHILD:305:22846:[106.773735,[4694.446289,8742.361328,-0.00897217]]:0.962312:""
+16:37:18 "DZAI Debug: Despawned AI units at NWAF1. Reset trigger's group array to: []."
+16:37:20 "DZAI Debug: Despawned AI units at NWAF2. Reset trigger's group array to: []."
+16:37:21 "HIVE: WRITE: "CHILD:305:22846:[107.909164,[4667.299316,8751.223633,0.00137329]]:0.961107:""
+16:37:23 "DZAI Debug: Deleting static group O 1-1-I."
+16:37:27 "DZAI Debug: Deleting static group O 1-1-K."
+16:37:28 "HIVE: WRITE: "CHILD:305:0:[284.39679,[10434.0810547,7168.891602,193.323715]]:0.953003:""
+16:37:29 "HIVE: WRITE: "CHILD:305:22846:[105.87532,[4654.0922852,8754.820313,0.00100708]]:0.96019:""
+16:37:32 "HIVE: WRITE: "CHILD:305:22846:[105.886986,[4647.674805,8756.654297,0.000793457]]:0.959831:""
+16:37:32 "HIVE: WRITE: "CHILD:306:22846:[["wheel_1_1_steering",0],["wheel_1_2_steering",0],["wheel_2_1_steering",0],["wheel_2_2_steering",0],["palivo",0],["motor",0],["glass1",0],["glass2",0],["glass3",0],["glass4",0],["sklo predni P",0],["sklo predni L",0],["karoserie",0],["wheel_1_4_steering",0],["wheel_2_4_steering",0],["wheel_1_3_steering",0],["wheel_2_3_steering",0]]:0:""
+16:37:35 "HIVE: WRITE: "CHILD:305:22846:[105.901581,[4647.666016,8756.661133,0.000823975]]:0.959831:""
+16:37:35 "HIVE: WRITE: "CHILD:306:22846:[["wheel_1_1_steering",0],["wheel_1_2_steering",0],["wheel_2_1_steering",0],["wheel_2_2_steering",0],["palivo",0],["motor",0],["glass1",0],["glass2",0],["glass3",0],["glass4",0],["sklo predni P",0],["sklo predni L",0],["karoserie",0],["wheel_1_4_steering",0],["wheel_2_4_steering",0],["wheel_1_3_steering",0],["wheel_2_3_steering",0]]:0:""
+16:37:46 "HIVE: WRITE: "CHILD:305:0:[291.858185,[9862.740234,7378.202148,125.167297]]:0.951188:""
+16:38:04 "HIVE: WRITE: "CHILD:305:0:[289.567535,[9430.277344,7540.852051,71.395782]]:0.949373:""
